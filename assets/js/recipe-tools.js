@@ -1,4 +1,4 @@
-/* Aaron in the Kitchen: measurement preferences and opt-in recipe videos.
+/* Aaron in the Kitchen: measurement preferences and recipe video previews.
  * Both unit values are precomputed in the HTML: never convert a rounded value
  * back and forth. No libraries, API keys, or network requests for conversion.
  */
@@ -76,16 +76,11 @@
   }
   shell.dataset.videoId = id;
   shell.classList.add('has-video');
-  shell.querySelector('[data-video-missing]')?.setAttribute('hidden', '');
-  const playButton = shell.querySelector('[data-load-video]');
-  if (playButton) playButton.hidden = false;
   const jump = document.querySelector('[data-video-jump]');
   if (jump) jump.hidden = false;
   const watchURL = `https://www.youtube.com/watch?v=${id}`;
-  const originalLink = shell.querySelector('[data-video-original]');
-  if (originalLink) { originalLink.href = watchURL; originalLink.textContent = 'Watch on YouTube \u2197'; }
   if (caption) {
-    caption.textContent = 'The YouTube player loads only when you press play. ';
+    caption.textContent = 'Press play to watch the recipe. ';
     const external = document.createElement('a');
     external.href = watchURL;
     external.target = '_blank';
@@ -99,21 +94,27 @@
       caption.appendChild(localNotice);
     }
   }
-  function loadVideo(start = 0) {
-    const seconds = Math.max(0, Math.floor(Number(start) || 0));
+  function loadVideo(start = 0, autoplay = false) {
+    // Loading the native player immediately shows YouTube's own thumbnail,
+    // title and play button. Loading a preview does NOT start playback.
+    // Autoplay is requested only after a visitor selects a recipe timestamp.
+    const numericStart = Number(start);
+    const seconds = Number.isFinite(numericStart) ? Math.max(0, Math.floor(numericStart)) : 0;
     const frame = document.createElement('iframe');
     frame.title = `${shell.dataset.videoTitle || 'Recipe'} - Aaron in the Kitchen on YouTube`;
-    frame.src = `https://www.youtube-nocookie.com/embed/${id}?playsinline=1&rel=0&autoplay=1&start=${seconds}`;
+    frame.src = `https://www.youtube-nocookie.com/embed/${id}?playsinline=1&rel=0&autoplay=${autoplay ? 1 : 0}&start=${seconds}`;
     frame.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share';
     frame.referrerPolicy = 'strict-origin-when-cross-origin';
+    frame.loading = 'eager';
     frame.allowFullscreen = true;
     frame.className = 'recipe-video-frame';
     frame.setAttribute('width', '1280');
     frame.setAttribute('height', '720');
     shell.replaceChildren(frame);
-    shell.classList.add('is-playing');
+    shell.classList.add('is-loaded');
   }
-  playButton?.addEventListener('click', () => loadVideo(0));
+  // Initialise on page load, without a second 'load video' button.
+  loadVideo(0, false);
 
   function timestamp(value) {
     if (/^\d+(?:s)?$/.test(value)) return parseInt(value, 10);
@@ -133,7 +134,7 @@
     link.addEventListener('click', event => {
       if (event.button !== 0 || event.ctrlKey || event.metaKey || event.shiftKey || event.altKey) return;
       event.preventDefault();
-      loadVideo(timestamp(time));
+      loadVideo(timestamp(time), true);
       shell.scrollIntoView({ behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth', block: 'start' });
     });
   });
