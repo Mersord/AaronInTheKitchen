@@ -1,0 +1,1435 @@
+{
+  "render_method": "In-memory Chromium rendering of the actual local HTML, CSS and JS; navigation is blocked by environment policy. Local storage is mocked for isolated interaction tests.",
+  "errors": [],
+  "pages": [
+    {
+      "page": "recipes/apple-pie-pound-cake.html",
+      "sizes": [
+        {
+          "width": 320,
+          "doc": 320,
+          "win": 320,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 390,
+          "doc": 390,
+          "win": 390,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 768,
+          "doc": 768,
+          "win": 768,
+          "font": "19px",
+          "videoH": 405
+        },
+        {
+          "width": 1440,
+          "doc": 1440,
+          "win": 1440,
+          "font": "20px",
+          "videoH": 540
+        }
+      ]
+    },
+    {
+      "page": "recipes/banana-cake.html",
+      "sizes": [
+        {
+          "width": 320,
+          "doc": 320,
+          "win": 320,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 390,
+          "doc": 390,
+          "win": 390,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 768,
+          "doc": 768,
+          "win": 768,
+          "font": "19px",
+          "videoH": 405
+        },
+        {
+          "width": 1440,
+          "doc": 1440,
+          "win": 1440,
+          "font": "20px",
+          "videoH": 540
+        }
+      ]
+    },
+    {
+      "page": "recipes/blueberry-cobbler.html",
+      "sizes": [
+        {
+          "width": 320,
+          "doc": 320,
+          "win": 320,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 390,
+          "doc": 390,
+          "win": 390,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 768,
+          "doc": 768,
+          "win": 768,
+          "font": "19px",
+          "videoH": 405
+        },
+        {
+          "width": 1440,
+          "doc": 1440,
+          "win": 1440,
+          "font": "20px",
+          "videoH": 540
+        }
+      ]
+    },
+    {
+      "page": "recipes/blueberry-pie.html",
+      "sizes": [
+        {
+          "width": 320,
+          "doc": 320,
+          "win": 320,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 390,
+          "doc": 390,
+          "win": 390,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 768,
+          "doc": 768,
+          "win": 768,
+          "font": "19px",
+          "videoH": 405
+        },
+        {
+          "width": 1440,
+          "doc": 1440,
+          "win": 1440,
+          "font": "20px",
+          "videoH": 540
+        }
+      ]
+    },
+    {
+      "page": "recipes/brioche.html",
+      "sizes": [
+        {
+          "width": 320,
+          "doc": 320,
+          "win": 320,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 390,
+          "doc": 390,
+          "win": 390,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 768,
+          "doc": 768,
+          "win": 768,
+          "font": "19px",
+          "videoH": 405
+        },
+        {
+          "width": 1440,
+          "doc": 1440,
+          "win": 1440,
+          "font": "20px",
+          "videoH": 540
+        }
+      ]
+    },
+    {
+      "page": "recipes/buffalo-chicken-sandwiches.html",
+      "sizes": [
+        {
+          "width": 320,
+          "doc": 320,
+          "win": 320,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 390,
+          "doc": 390,
+          "win": 390,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 768,
+          "doc": 768,
+          "win": 768,
+          "font": "19px",
+          "videoH": 405
+        },
+        {
+          "width": 1440,
+          "doc": 1440,
+          "win": 1440,
+          "font": "20px",
+          "videoH": 540
+        }
+      ]
+    },
+    {
+      "page": "recipes/caramel-banana-pudding.html",
+      "sizes": [
+        {
+          "width": 320,
+          "doc": 320,
+          "win": 320,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 390,
+          "doc": 390,
+          "win": 390,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 768,
+          "doc": 768,
+          "win": 768,
+          "font": "19px",
+          "videoH": 405
+        },
+        {
+          "width": 1440,
+          "doc": 1440,
+          "win": 1440,
+          "font": "20px",
+          "videoH": 540
+        }
+      ]
+    },
+    {
+      "page": "recipes/carrot-sheet-cake.html",
+      "sizes": [
+        {
+          "width": 320,
+          "doc": 320,
+          "win": 320,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 390,
+          "doc": 390,
+          "win": 390,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 768,
+          "doc": 768,
+          "win": 768,
+          "font": "19px",
+          "videoH": 405
+        },
+        {
+          "width": 1440,
+          "doc": 1440,
+          "win": 1440,
+          "font": "20px",
+          "videoH": 540
+        }
+      ]
+    },
+    {
+      "page": "recipes/chicken-rice-casserole.html",
+      "sizes": [
+        {
+          "width": 320,
+          "doc": 320,
+          "win": 320,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 390,
+          "doc": 390,
+          "win": 390,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 768,
+          "doc": 768,
+          "win": 768,
+          "font": "19px",
+          "videoH": 405
+        },
+        {
+          "width": 1440,
+          "doc": 1440,
+          "win": 1440,
+          "font": "20px",
+          "videoH": 540
+        }
+      ]
+    },
+    {
+      "page": "recipes/chicken-salad.html",
+      "sizes": [
+        {
+          "width": 320,
+          "doc": 320,
+          "win": 320,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 390,
+          "doc": 390,
+          "win": 390,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 768,
+          "doc": 768,
+          "win": 768,
+          "font": "19px",
+          "videoH": 405
+        },
+        {
+          "width": 1440,
+          "doc": 1440,
+          "win": 1440,
+          "font": "20px",
+          "videoH": 540
+        }
+      ]
+    },
+    {
+      "page": "recipes/chicken-sausage-alfredo.html",
+      "sizes": [
+        {
+          "width": 320,
+          "doc": 320,
+          "win": 320,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 390,
+          "doc": 390,
+          "win": 390,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 768,
+          "doc": 768,
+          "win": 768,
+          "font": "19px",
+          "videoH": 405
+        },
+        {
+          "width": 1440,
+          "doc": 1440,
+          "win": 1440,
+          "font": "20px",
+          "videoH": 540
+        }
+      ]
+    },
+    {
+      "page": "recipes/chocolate-chunk-muffins.html",
+      "sizes": [
+        {
+          "width": 320,
+          "doc": 320,
+          "win": 320,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 390,
+          "doc": 390,
+          "win": 390,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 768,
+          "doc": 768,
+          "win": 768,
+          "font": "19px",
+          "videoH": 405
+        },
+        {
+          "width": 1440,
+          "doc": 1440,
+          "win": 1440,
+          "font": "20px",
+          "videoH": 540
+        }
+      ]
+    },
+    {
+      "page": "recipes/chocolate-mousse.html",
+      "sizes": [
+        {
+          "width": 320,
+          "doc": 320,
+          "win": 320,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 390,
+          "doc": 390,
+          "win": 390,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 768,
+          "doc": 768,
+          "win": 768,
+          "font": "19px",
+          "videoH": 405
+        },
+        {
+          "width": 1440,
+          "doc": 1440,
+          "win": 1440,
+          "font": "20px",
+          "videoH": 540
+        }
+      ]
+    },
+    {
+      "page": "recipes/deviled-eggs.html",
+      "sizes": [
+        {
+          "width": 320,
+          "doc": 320,
+          "win": 320,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 390,
+          "doc": 390,
+          "win": 390,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 768,
+          "doc": 768,
+          "win": 768,
+          "font": "19px",
+          "videoH": 405
+        },
+        {
+          "width": 1440,
+          "doc": 1440,
+          "win": 1440,
+          "font": "20px",
+          "videoH": 540
+        }
+      ]
+    },
+    {
+      "page": "recipes/dirty-rice.html",
+      "sizes": [
+        {
+          "width": 320,
+          "doc": 320,
+          "win": 320,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 390,
+          "doc": 390,
+          "win": 390,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 768,
+          "doc": 768,
+          "win": 768,
+          "font": "19px",
+          "videoH": 405
+        },
+        {
+          "width": 1440,
+          "doc": 1440,
+          "win": 1440,
+          "font": "20px",
+          "videoH": 540
+        }
+      ]
+    },
+    {
+      "page": "recipes/double-batch-banana-bread.html",
+      "sizes": [
+        {
+          "width": 320,
+          "doc": 320,
+          "win": 320,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 390,
+          "doc": 390,
+          "win": 390,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 768,
+          "doc": 768,
+          "win": 768,
+          "font": "19px",
+          "videoH": 405
+        },
+        {
+          "width": 1440,
+          "doc": 1440,
+          "win": 1440,
+          "font": "20px",
+          "videoH": 540
+        }
+      ]
+    },
+    {
+      "page": "recipes/double-chocolate-cookies.html",
+      "sizes": [
+        {
+          "width": 320,
+          "doc": 320,
+          "win": 320,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 390,
+          "doc": 390,
+          "win": 390,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 768,
+          "doc": 768,
+          "win": 768,
+          "font": "19px",
+          "videoH": 405
+        },
+        {
+          "width": 1440,
+          "doc": 1440,
+          "win": 1440,
+          "font": "20px",
+          "videoH": 540
+        }
+      ]
+    },
+    {
+      "page": "recipes/double-chocolate-muffins.html",
+      "sizes": [
+        {
+          "width": 320,
+          "doc": 320,
+          "win": 320,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 390,
+          "doc": 390,
+          "win": 390,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 768,
+          "doc": 768,
+          "win": 768,
+          "font": "19px",
+          "videoH": 405
+        },
+        {
+          "width": 1440,
+          "doc": 1440,
+          "win": 1440,
+          "font": "20px",
+          "videoH": 540
+        }
+      ]
+    },
+    {
+      "page": "recipes/hachis-parmentier.html",
+      "sizes": [
+        {
+          "width": 320,
+          "doc": 320,
+          "win": 320,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 390,
+          "doc": 390,
+          "win": 390,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 768,
+          "doc": 768,
+          "win": 768,
+          "font": "19px",
+          "videoH": 405
+        },
+        {
+          "width": 1440,
+          "doc": 1440,
+          "win": 1440,
+          "font": "20px",
+          "videoH": 540
+        }
+      ]
+    },
+    {
+      "page": "recipes/homemade-brownie-pudding.html",
+      "sizes": [
+        {
+          "width": 320,
+          "doc": 320,
+          "win": 320,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 390,
+          "doc": 390,
+          "win": 390,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 768,
+          "doc": 768,
+          "win": 768,
+          "font": "19px",
+          "videoH": 405
+        },
+        {
+          "width": 1440,
+          "doc": 1440,
+          "win": 1440,
+          "font": "20px",
+          "videoH": 540
+        }
+      ]
+    },
+    {
+      "page": "recipes/homemade-chicken-pot-pie.html",
+      "sizes": [
+        {
+          "width": 320,
+          "doc": 320,
+          "win": 320,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 390,
+          "doc": 390,
+          "win": 390,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 768,
+          "doc": 768,
+          "win": 768,
+          "font": "19px",
+          "videoH": 405
+        },
+        {
+          "width": 1440,
+          "doc": 1440,
+          "win": 1440,
+          "font": "20px",
+          "videoH": 540
+        }
+      ]
+    },
+    {
+      "page": "recipes/homemade-cinnamon-rolls.html",
+      "sizes": [
+        {
+          "width": 320,
+          "doc": 320,
+          "win": 320,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 390,
+          "doc": 390,
+          "win": 390,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 768,
+          "doc": 768,
+          "win": 768,
+          "font": "19px",
+          "videoH": 405
+        },
+        {
+          "width": 1440,
+          "doc": 1440,
+          "win": 1440,
+          "font": "20px",
+          "videoH": 540
+        }
+      ]
+    },
+    {
+      "page": "recipes/homemade-meatloaf.html",
+      "sizes": [
+        {
+          "width": 320,
+          "doc": 320,
+          "win": 320,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 390,
+          "doc": 390,
+          "win": 390,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 768,
+          "doc": 768,
+          "win": 768,
+          "font": "19px",
+          "videoH": 405
+        },
+        {
+          "width": 1440,
+          "doc": 1440,
+          "win": 1440,
+          "font": "20px",
+          "videoH": 540
+        }
+      ]
+    },
+    {
+      "page": "recipes/hummingbird-cake.html",
+      "sizes": [
+        {
+          "width": 320,
+          "doc": 320,
+          "win": 320,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 390,
+          "doc": 390,
+          "win": 390,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 768,
+          "doc": 768,
+          "win": 768,
+          "font": "19px",
+          "videoH": 405
+        },
+        {
+          "width": 1440,
+          "doc": 1440,
+          "win": 1440,
+          "font": "20px",
+          "videoH": 540
+        }
+      ]
+    },
+    {
+      "page": "recipes/instant-pot-cottage-pie.html",
+      "sizes": [
+        {
+          "width": 320,
+          "doc": 320,
+          "win": 320,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 390,
+          "doc": 390,
+          "win": 390,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 768,
+          "doc": 768,
+          "win": 768,
+          "font": "19px",
+          "videoH": 405
+        },
+        {
+          "width": 1440,
+          "doc": 1440,
+          "win": 1440,
+          "font": "20px",
+          "videoH": 540
+        }
+      ]
+    },
+    {
+      "page": "recipes/instant-pot-gumbo.html",
+      "sizes": [
+        {
+          "width": 320,
+          "doc": 320,
+          "win": 320,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 390,
+          "doc": 390,
+          "win": 390,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 768,
+          "doc": 768,
+          "win": 768,
+          "font": "19px",
+          "videoH": 405
+        },
+        {
+          "width": 1440,
+          "doc": 1440,
+          "win": 1440,
+          "font": "20px",
+          "videoH": 540
+        }
+      ]
+    },
+    {
+      "page": "recipes/korean-fried-chicken.html",
+      "sizes": [
+        {
+          "width": 320,
+          "doc": 320,
+          "win": 320,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 390,
+          "doc": 390,
+          "win": 390,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 768,
+          "doc": 768,
+          "win": 768,
+          "font": "19px",
+          "videoH": 405
+        },
+        {
+          "width": 1440,
+          "doc": 1440,
+          "win": 1440,
+          "font": "20px",
+          "videoH": 540
+        }
+      ]
+    },
+    {
+      "page": "recipes/lemon-pie.html",
+      "sizes": [
+        {
+          "width": 320,
+          "doc": 320,
+          "win": 320,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 390,
+          "doc": 390,
+          "win": 390,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 768,
+          "doc": 768,
+          "win": 768,
+          "font": "19px",
+          "videoH": 405
+        },
+        {
+          "width": 1440,
+          "doc": 1440,
+          "win": 1440,
+          "font": "20px",
+          "videoH": 540
+        }
+      ]
+    },
+    {
+      "page": "recipes/lemon-pound-cake.html",
+      "sizes": [
+        {
+          "width": 320,
+          "doc": 320,
+          "win": 320,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 390,
+          "doc": 390,
+          "win": 390,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 768,
+          "doc": 768,
+          "win": 768,
+          "font": "19px",
+          "videoH": 405
+        },
+        {
+          "width": 1440,
+          "doc": 1440,
+          "win": 1440,
+          "font": "20px",
+          "videoH": 540
+        }
+      ]
+    },
+    {
+      "page": "recipes/maple-apple-muffins.html",
+      "sizes": [
+        {
+          "width": 320,
+          "doc": 320,
+          "win": 320,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 390,
+          "doc": 390,
+          "win": 390,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 768,
+          "doc": 768,
+          "win": 768,
+          "font": "19px",
+          "videoH": 405
+        },
+        {
+          "width": 1440,
+          "doc": 1440,
+          "win": 1440,
+          "font": "20px",
+          "videoH": 540
+        }
+      ]
+    },
+    {
+      "page": "recipes/mashed-potatoes.html",
+      "sizes": [
+        {
+          "width": 320,
+          "doc": 320,
+          "win": 320,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 390,
+          "doc": 390,
+          "win": 390,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 768,
+          "doc": 768,
+          "win": 768,
+          "font": "19px",
+          "videoH": 405
+        },
+        {
+          "width": 1440,
+          "doc": 1440,
+          "win": 1440,
+          "font": "20px",
+          "videoH": 540
+        }
+      ]
+    },
+    {
+      "page": "recipes/matilda-chocolate-cake.html",
+      "sizes": [
+        {
+          "width": 320,
+          "doc": 320,
+          "win": 320,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 390,
+          "doc": 390,
+          "win": 390,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 768,
+          "doc": 768,
+          "win": 768,
+          "font": "19px",
+          "videoH": 405
+        },
+        {
+          "width": 1440,
+          "doc": 1440,
+          "win": 1440,
+          "font": "20px",
+          "videoH": 540
+        }
+      ]
+    },
+    {
+      "page": "recipes/nobake-oreo-chocolate-pie.html",
+      "sizes": [
+        {
+          "width": 320,
+          "doc": 320,
+          "win": 320,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 390,
+          "doc": 390,
+          "win": 390,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 768,
+          "doc": 768,
+          "win": 768,
+          "font": "19px",
+          "videoH": 405
+        },
+        {
+          "width": 1440,
+          "doc": 1440,
+          "win": 1440,
+          "font": "20px",
+          "videoH": 540
+        }
+      ]
+    },
+    {
+      "page": "recipes/peach-cobbler.html",
+      "sizes": [
+        {
+          "width": 320,
+          "doc": 320,
+          "win": 320,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 390,
+          "doc": 390,
+          "win": 390,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 768,
+          "doc": 768,
+          "win": 768,
+          "font": "19px",
+          "videoH": 405
+        },
+        {
+          "width": 1440,
+          "doc": 1440,
+          "win": 1440,
+          "font": "20px",
+          "videoH": 540
+        }
+      ]
+    },
+    {
+      "page": "recipes/ravioli-bake.html",
+      "sizes": [
+        {
+          "width": 320,
+          "doc": 320,
+          "win": 320,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 390,
+          "doc": 390,
+          "win": 390,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 768,
+          "doc": 768,
+          "win": 768,
+          "font": "19px",
+          "videoH": 405
+        },
+        {
+          "width": 1440,
+          "doc": 1440,
+          "win": 1440,
+          "font": "20px",
+          "videoH": 540
+        }
+      ]
+    },
+    {
+      "page": "recipes/red-velvet-cupcakes.html",
+      "sizes": [
+        {
+          "width": 320,
+          "doc": 320,
+          "win": 320,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 390,
+          "doc": 390,
+          "win": 390,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 768,
+          "doc": 768,
+          "win": 768,
+          "font": "19px",
+          "videoH": 405
+        },
+        {
+          "width": 1440,
+          "doc": 1440,
+          "win": 1440,
+          "font": "20px",
+          "videoH": 540
+        }
+      ]
+    },
+    {
+      "page": "recipes/southern-fried-chicken.html",
+      "sizes": [
+        {
+          "width": 320,
+          "doc": 320,
+          "win": 320,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 390,
+          "doc": 390,
+          "win": 390,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 768,
+          "doc": 768,
+          "win": 768,
+          "font": "19px",
+          "videoH": 405
+        },
+        {
+          "width": 1440,
+          "doc": 1440,
+          "win": 1440,
+          "font": "20px",
+          "videoH": 540
+        }
+      ]
+    },
+    {
+      "page": "recipes/strawberry-biscoff-rolls.html",
+      "sizes": [
+        {
+          "width": 320,
+          "doc": 320,
+          "win": 320,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 390,
+          "doc": 390,
+          "win": 390,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 768,
+          "doc": 768,
+          "win": 768,
+          "font": "19px",
+          "videoH": 405
+        },
+        {
+          "width": 1440,
+          "doc": 1440,
+          "win": 1440,
+          "font": "20px",
+          "videoH": 540
+        }
+      ]
+    },
+    {
+      "page": "recipes/strawberry-icebox-cake.html",
+      "sizes": [
+        {
+          "width": 320,
+          "doc": 320,
+          "win": 320,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 390,
+          "doc": 390,
+          "win": 390,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 768,
+          "doc": 768,
+          "win": 768,
+          "font": "19px",
+          "videoH": 405
+        },
+        {
+          "width": 1440,
+          "doc": 1440,
+          "win": 1440,
+          "font": "20px",
+          "videoH": 540
+        }
+      ]
+    },
+    {
+      "page": "recipes/strawberry-tiramisu.html",
+      "sizes": [
+        {
+          "width": 320,
+          "doc": 320,
+          "win": 320,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 390,
+          "doc": 390,
+          "win": 390,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 768,
+          "doc": 768,
+          "win": 768,
+          "font": "19px",
+          "videoH": 405
+        },
+        {
+          "width": 1440,
+          "doc": 1440,
+          "win": 1440,
+          "font": "20px",
+          "videoH": 540
+        }
+      ]
+    },
+    {
+      "page": "recipes/sweet-chili-chicken-bake.html",
+      "sizes": [
+        {
+          "width": 320,
+          "doc": 320,
+          "win": 320,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 390,
+          "doc": 390,
+          "win": 390,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 768,
+          "doc": 768,
+          "win": 768,
+          "font": "19px",
+          "videoH": 405
+        },
+        {
+          "width": 1440,
+          "doc": 1440,
+          "win": 1440,
+          "font": "20px",
+          "videoH": 540
+        }
+      ]
+    },
+    {
+      "page": "recipes/tuna-croquette.html",
+      "sizes": [
+        {
+          "width": 320,
+          "doc": 320,
+          "win": 320,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 390,
+          "doc": 390,
+          "win": 390,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 768,
+          "doc": 768,
+          "win": 768,
+          "font": "19px",
+          "videoH": 405
+        },
+        {
+          "width": 1440,
+          "doc": 1440,
+          "win": 1440,
+          "font": "20px",
+          "videoH": 540
+        }
+      ]
+    },
+    {
+      "page": "recipes/vodka-sauce-lasagna.html",
+      "sizes": [
+        {
+          "width": 320,
+          "doc": 320,
+          "win": 320,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 390,
+          "doc": 390,
+          "win": 390,
+          "font": "18px",
+          "videoH": 240
+        },
+        {
+          "width": 768,
+          "doc": 768,
+          "win": 768,
+          "font": "19px",
+          "videoH": 405
+        },
+        {
+          "width": 1440,
+          "doc": 1440,
+          "win": 1440,
+          "font": "20px",
+          "videoH": 540
+        }
+      ]
+    }
+  ],
+  "measurements": 1126,
+  "checkboxes": 645,
+  "known_videos": 19,
+  "missing_videos": 24,
+  "external_playback_verified": false,
+  "network_during_render": "External requests blocked, so fallback fonts were tested.",
+  "local_links_checked": 4360,
+  "video_helper_fixture_tests": 13,
+  "conversion_unit_tests": 29,
+  "bookmarklet_template_integrity": true
+}

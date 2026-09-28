@@ -1,0 +1,320 @@
+{
+  "test_cases": [
+    {
+      "input": "All-purpose flour: 3 cups",
+      "expected": [
+        "360 g",
+        "3 cups"
+      ],
+      "actual": [
+        "360 g",
+        "3 cups"
+      ],
+      "pass": true
+    },
+    {
+      "input": "Milk: 1 cup",
+      "expected": [
+        "237 mL",
+        "1 cup"
+      ],
+      "actual": [
+        "237 mL",
+        "1 cup"
+      ],
+      "pass": true
+    },
+    {
+      "input": "All-purpose flour: 420 grams",
+      "expected": [
+        "420 g",
+        "3 ½ cups"
+      ],
+      "actual": [
+        "420 g",
+        "3 ½ cups"
+      ],
+      "pass": true
+    },
+    {
+      "input": "Brown sugar: 1 cup",
+      "expected": [
+        "213 g",
+        "1 cup"
+      ],
+      "actual": [
+        "213 g",
+        "1 cup"
+      ],
+      "pass": true
+    },
+    {
+      "input": "Granulated sugar: 1 cup",
+      "expected": [
+        "198 g",
+        "1 cup"
+      ],
+      "actual": [
+        "198 g",
+        "1 cup"
+      ],
+      "pass": true
+    },
+    {
+      "input": "Powdered sugar: 1 cup",
+      "expected": [
+        "113 g",
+        "1 cup"
+      ],
+      "actual": [
+        "113 g",
+        "1 cup"
+      ],
+      "pass": true
+    },
+    {
+      "input": "Baking powder: 1 teaspoon",
+      "expected": [
+        "4 g",
+        "1 tsp"
+      ],
+      "actual": [
+        "4 g",
+        "1 tsp"
+      ],
+      "pass": true
+    },
+    {
+      "input": "Baking soda: 1/2 teaspoon",
+      "expected": [
+        "3 g",
+        "½ tsp"
+      ],
+      "actual": [
+        "3 g",
+        "½ tsp"
+      ],
+      "pass": true
+    },
+    {
+      "input": "Cocoa powder: 1/2 cup",
+      "expected": [
+        "42 g",
+        "½ cup"
+      ],
+      "actual": [
+        "42 g",
+        "½ cup"
+      ],
+      "pass": true
+    },
+    {
+      "input": "9x13 inch baking pan",
+      "expected": [
+        "22.9 × 33 cm",
+        "9 × 13 in"
+      ],
+      "actual": [
+        "22.9 × 33 cm",
+        "9 × 13 in"
+      ],
+      "pass": true
+    },
+    {
+      "input": "Set oven to 350°F",
+      "expected": [
+        "176.7 °C",
+        "350 °F"
+      ],
+      "actual": [
+        "176.7 °C",
+        "350 °F"
+      ],
+      "pass": true
+    },
+    {
+      "input": "Set oven to 180°C (350°F)",
+      "expected": [
+        "180 °C",
+        "350 °F"
+      ],
+      "actual": [
+        "180 °C",
+        "350 °F"
+      ],
+      "pass": true
+    },
+    {
+      "input": "Cream: 1 cup (200 ml)",
+      "expected": [
+        "200 mL",
+        "0.85 cup"
+      ],
+      "actual": [
+        "200 mL",
+        "0.85 cup"
+      ],
+      "pass": true
+    },
+    {
+      "input": "All-purpose flour: 500g (approx. 3 cups)",
+      "expected": [
+        "500 g",
+        "4 ⅛ cups"
+      ],
+      "actual": [
+        "500 g",
+        "4 ⅛ cups"
+      ],
+      "pass": true
+    },
+    {
+      "input": "Hot coffee: 1 1/2 cups (Used to bloom the cocoa powder)",
+      "expected": [
+        "355 mL",
+        "1 ½ cups"
+      ],
+      "actual": [
+        "355 mL",
+        "1 ½ cups"
+      ],
+      "pass": true
+    },
+    {
+      "input": "Cornstarch: 18g (for mimicking soft cake flour)",
+      "expected": [
+        "18 g",
+        "2.57 tbsp"
+      ],
+      "actual": [
+        "18 g",
+        "2.57 tbsp"
+      ],
+      "pass": true
+    },
+    {
+      "input": "Pour 4 cups of chicken stock into the rice.",
+      "expected": [
+        "946 mL",
+        "4 cups"
+      ],
+      "actual": [
+        "946 mL",
+        "4 cups"
+      ],
+      "pass": true
+    },
+    {
+      "input": "Drop 187g of butter into the amber sugar.",
+      "expected": [
+        "187 g",
+        "6.6 oz"
+      ],
+      "actual": [
+        "187 g",
+        "6.6 oz"
+      ],
+      "pass": true
+    },
+    {
+      "input": "Add 1 tsp of vanilla after the cream cheese.",
+      "expected": [
+        "5 mL",
+        "1 tsp"
+      ],
+      "actual": [
+        "5 mL",
+        "1 tsp"
+      ],
+      "pass": true
+    },
+    {
+      "input": "2 tablespoons each of ginger powder, garlic powder, onion powder, and white pepper.",
+      "expected": [
+        "29.5 mL",
+        "2 tbsp"
+      ],
+      "actual": [
+        "29.5 mL",
+        "2 tbsp"
+      ],
+      "pass": true
+    },
+    {
+      "input": "Add 250g of cold butter into the lemon sugar.",
+      "expected": [
+        "250 g",
+        "8.82 oz"
+      ],
+      "actual": [
+        "250 g",
+        "8.82 oz"
+      ],
+      "pass": true
+    },
+    {
+      "input": "Add 2 tablespoons of tangy Greek yogurt to the ricotta.",
+      "expected": [
+        "29.5 mL",
+        "2 tbsp"
+      ],
+      "actual": [
+        "29.5 mL",
+        "2 tbsp"
+      ],
+      "pass": true
+    },
+    {
+      "input": "Sift the flour (120g) into the bowl.",
+      "expected": [
+        "120 g",
+        "1 cup"
+      ],
+      "actual": [
+        "120 g",
+        "1 cup"
+      ],
+      "pass": true
+    },
+    {
+      "input": "1 lb chicken",
+      "expected": [
+        "454 g",
+        "16 oz"
+      ],
+      "actual": [
+        "454 g",
+        "16 oz"
+      ],
+      "pass": true
+    },
+    {
+      "input": "1.5 litres stock",
+      "expected": [
+        "1.5 L",
+        "6 ⅓ cups"
+      ],
+      "actual": [
+        "1.5 L",
+        "6 ⅓ cups"
+      ],
+      "pass": true
+    },
+    {
+      "input": "Salt: 2-3 teaspoons",
+      "expected": [
+        "10–15 mL",
+        "2–3 tsp"
+      ],
+      "actual": [
+        "10–15 mL",
+        "2–3 tsp"
+      ],
+      "pass": true
+    }
+  ],
+  "count_and_time_tests": 3,
+  "canonical_values_validated": 1126,
+  "errors": [],
+  "references": "See MEASUREMENTS.md; no recipe has been kitchen-tested."
+}

@@ -1,0 +1,31 @@
+{
+  "type": "CSS-only light design polish",
+  "method": "Local HTML/CSS/JS/SVG inlined into Chromium documents; no remote fonts. File/localhost navigation is disabled by the test browser policy.",
+  "changedRuntimeFiles": [
+    "assets/css/styles.css"
+  ],
+  "htmlFiles": 54,
+  "recipePages": 43,
+  "referenceCount": 4216,
+  "brokenReferences": [],
+  "duplicateIds": [],
+  "layoutIssues": [],
+  "javascriptErrors": [],
+  "interactionChecks": [
+    "Biography expands/collapses; desktop category opens from keyboard; Escape restores focus.",
+    "390px mobile navigation and category accordion open/close without overflow.",
+    "Recipe search, empty-state reset, all 43 cards, and A-Z/Z-A sorting work.",
+    "Recipe toolbar fits one row at 390px with 44px controls; ingredient checklist/reset and print-only recipe layout work.",
+    "Contact form still validates and explicitly confirms preview messages are not sent.",
+    "Reduced-motion mode suppresses hover movement and smooth scrolling."
+  ],
+  "widths": [
+    320,
+    390,
+    768,
+    1440
+  ],
+  "screenshotsUseFallbackFonts": true,
+  "pageRenders": 208,
+  "status": "passed"
+}

@@ -1,0 +1,33 @@
+{
+  "staticHtmlFiles": 54,
+  "uniqueRecipePages": 43,
+  "localReferencesChecked": 4216,
+  "brokenLocalReferences": 0,
+  "duplicateIds": 0,
+  "recipeTextAudit": "All 43 complete recipe bodies match the user-supplied export after whitespace normalization.",
+  "browserMethod": "Local files inlined into a blank Chromium document; remote fonts disabled.",
+  "checks": [
+    "Homepage biography expands and collapses",
+    "Desktop dropdown menus and Escape/focus behavior",
+    "390px mobile menu, category accordion and Escape behavior",
+    "Recipe name search (banana: 4 matches)",
+    "Ingredient text search",
+    "Search empty state, reset, and A-Z/Z-A sorting",
+    "Ingredient checkboxes, progress, reset, and print action",
+    "Print stylesheet retains the recipe and hides page chrome/media",
+    "Contact preview validates and explicitly confirms nothing was sent",
+    "All 52 non-redirect pages fit 320px and 1440px without horizontal overflow",
+    "No uncaught JavaScript errors during the browser checks"
+  ],
+  "layoutIssues": [],
+  "javascriptErrors": [],
+  "screenshots": [
+    "home-desktop.png",
+    "home-mobile.png",
+    "directory-desktop.png",
+    "directory-mobile.png",
+    "recipe-desktop.png",
+    "recipe-mobile.png"
+  ],
+  "status": "passed"
+}

@@ -1,0 +1,266 @@
+{
+  "primary_videos_recovered": 19,
+  "primary_videos_missing": 24,
+  "live_playback_verified": false,
+  "source": "Recipe timestamp URLs from supplied full export; no guessed video IDs.",
+  "recipes": [
+    {
+      "slug": "apple-pie-pound-cake",
+      "source": "https://aaroninthekitchen.com/apple-pie-pound-cake",
+      "videoId": null,
+      "status": "missing-in-export"
+    },
+    {
+      "slug": "banana-cake",
+      "source": "https://aaroninthekitchen.com/banana-cake",
+      "videoId": null,
+      "status": "missing-in-export"
+    },
+    {
+      "slug": "blueberry-cobbler",
+      "source": "https://aaroninthekitchen.com/blueberry-cobbler",
+      "videoId": "IyBHs4ApmGQ",
+      "status": "recovered-from-source-links"
+    },
+    {
+      "slug": "blueberry-pie",
+      "source": "https://aaroninthekitchen.com/blueberry-pie",
+      "videoId": "kLsLcWl_cPI",
+      "status": "recovered-from-source-links"
+    },
+    {
+      "slug": "brioche",
+      "source": "https://aaroninthekitchen.com/brioche",
+      "videoId": "axvT9XXz1KQ",
+      "status": "recovered-from-source-links"
+    },
+    {
+      "slug": "buffalo-chicken-sandwiches",
+      "source": "https://aaroninthekitchen.com/buffalo-chicken-sandwichs-1",
+      "videoId": null,
+      "status": "missing-in-export"
+    },
+    {
+      "slug": "caramel-banana-pudding",
+      "source": "https://aaroninthekitchen.com/caramel-banana-pudding-1",
+      "videoId": "iqZ4yUoqXOQ",
+      "status": "recovered-from-source-links"
+    },
+    {
+      "slug": "carrot-sheet-cake",
+      "source": "https://aaroninthekitchen.com/carrot-sheet-cake",
+      "videoId": "VHZq1E4Spnw",
+      "status": "recovered-from-source-links"
+    },
+    {
+      "slug": "chicken-rice-casserole",
+      "source": "https://aaroninthekitchen.com/chicken-%26-rice-casserole",
+      "videoId": null,
+      "status": "missing-in-export"
+    },
+    {
+      "slug": "chicken-salad",
+      "source": "https://aaroninthekitchen.com/chicken-salad-1",
+      "videoId": "_pXLW4Fpksg",
+      "status": "recovered-from-source-links"
+    },
+    {
+      "slug": "chicken-sausage-alfredo",
+      "source": "https://aaroninthekitchen.com/chicken-%26-sausage-alfredo",
+      "videoId": null,
+      "status": "missing-in-export"
+    },
+    {
+      "slug": "chocolate-chunk-muffins",
+      "source": "https://aaroninthekitchen.com/chocolate-chunk-muffins",
+      "videoId": null,
+      "status": "missing-in-export"
+    },
+    {
+      "slug": "chocolate-mousse",
+      "source": "https://aaroninthekitchen.com/chocolate-mousse",
+      "videoId": null,
+      "status": "missing-in-export"
+    },
+    {
+      "slug": "deviled-eggs",
+      "source": "https://aaroninthekitchen.com/deviled-eggs-1",
+      "videoId": null,
+      "status": "missing-in-export"
+    },
+    {
+      "slug": "dirty-rice",
+      "source": "https://aaroninthekitchen.com/dirty-rice",
+      "videoId": "bQ3VWZju-no",
+      "status": "recovered-from-source-links"
+    },
+    {
+      "slug": "double-batch-banana-bread",
+      "source": "https://aaroninthekitchen.com/double-batch-banana-bread",
+      "videoId": null,
+      "status": "missing-in-export"
+    },
+    {
+      "slug": "double-chocolate-cookies",
+      "source": "https://aaroninthekitchen.com/double-chocolate-cookies",
+      "videoId": null,
+      "status": "missing-in-export"
+    },
+    {
+      "slug": "double-chocolate-muffins",
+      "source": "https://aaroninthekitchen.com/double-chocolate-muffins",
+      "videoId": null,
+      "status": "missing-in-export"
+    },
+    {
+      "slug": "hachis-parmentier",
+      "source": "https://aaroninthekitchen.com/hachis-parmentier",
+      "videoId": null,
+      "status": "missing-in-export"
+    },
+    {
+      "slug": "homemade-brownie-pudding",
+      "source": "https://aaroninthekitchen.com/homemade-brownie-pudding",
+      "videoId": "dn5yBv9Q7P0",
+      "status": "recovered-from-source-links"
+    },
+    {
+      "slug": "homemade-chicken-pot-pie",
+      "source": "https://aaroninthekitchen.com/homemade-chicken-pot-pie-1",
+      "videoId": null,
+      "status": "missing-in-export"
+    },
+    {
+      "slug": "homemade-cinnamon-rolls",
+      "source": "https://aaroninthekitchen.com/homemade-cinnamon-rolls",
+      "videoId": null,
+      "status": "missing-in-export"
+    },
+    {
+      "slug": "homemade-meatloaf",
+      "source": "https://aaroninthekitchen.com/homemade-meatloaf",
+      "videoId": "JAiOKifyYEM",
+      "status": "recovered-from-source-links"
+    },
+    {
+      "slug": "hummingbird-cake",
+      "source": "https://aaroninthekitchen.com/hummingbird-cake",
+      "videoId": "dffGfhgZ9uo",
+      "status": "recovered-from-source-links"
+    },
+    {
+      "slug": "instant-pot-cottage-pie",
+      "source": "https://aaroninthekitchen.com/instant-pot-cottage-pie",
+      "videoId": null,
+      "status": "missing-in-export"
+    },
+    {
+      "slug": "instant-pot-gumbo",
+      "source": "https://aaroninthekitchen.com/instant-pot-gumbo",
+      "videoId": "lWmCDa1q7ls",
+      "status": "recovered-from-source-links"
+    },
+    {
+      "slug": "korean-fried-chicken",
+      "source": "https://aaroninthekitchen.com/korean-fried-chicken",
+      "videoId": "F1Bm01fBBpo",
+      "status": "recovered-from-source-links"
+    },
+    {
+      "slug": "lemon-pie",
+      "source": "https://aaroninthekitchen.com/lemon-pie",
+      "videoId": "QmPcTte_SZY",
+      "status": "recovered-from-source-links"
+    },
+    {
+      "slug": "lemon-pound-cake",
+      "source": "https://aaroninthekitchen.com/lemon-pound-cake",
+      "videoId": "kgUVm9wVgRA",
+      "status": "recovered-from-source-links"
+    },
+    {
+      "slug": "maple-apple-muffins",
+      "source": "https://aaroninthekitchen.com/maple-apple-muffins",
+      "videoId": null,
+      "status": "missing-in-export"
+    },
+    {
+      "slug": "mashed-potatoes",
+      "source": "https://aaroninthekitchen.com/mashed-potatoes",
+      "videoId": null,
+      "status": "missing-in-export"
+    },
+    {
+      "slug": "matilda-chocolate-cake",
+      "source": "https://aaroninthekitchen.com/matilda-chocolate-cake-1",
+      "videoId": null,
+      "status": "missing-in-export"
+    },
+    {
+      "slug": "nobake-oreo-chocolate-pie",
+      "source": "https://aaroninthekitchen.com/nobake-oreo-chocolate-pie",
+      "videoId": null,
+      "status": "missing-in-export"
+    },
+    {
+      "slug": "peach-cobbler",
+      "source": "https://aaroninthekitchen.com/peach-cobbler",
+      "videoId": "NT-0AUFGBk0",
+      "status": "recovered-from-source-links"
+    },
+    {
+      "slug": "ravioli-bake",
+      "source": "https://aaroninthekitchen.com/ravioli-bake",
+      "videoId": null,
+      "status": "missing-in-export"
+    },
+    {
+      "slug": "red-velvet-cupcakes",
+      "source": "https://aaroninthekitchen.com/red-velvet-cupcakes",
+      "videoId": "SB7z3sC0X2M",
+      "status": "recovered-from-source-links"
+    },
+    {
+      "slug": "southern-fried-chicken",
+      "source": "https://aaroninthekitchen.com/southern-fried-chicken",
+      "videoId": null,
+      "status": "missing-in-export"
+    },
+    {
+      "slug": "strawberry-biscoff-rolls",
+      "source": "https://aaroninthekitchen.com/strawberry-biscoff-rolls",
+      "videoId": "3UdSQp_9sdI",
+      "status": "recovered-from-source-links"
+    },
+    {
+      "slug": "strawberry-icebox-cake",
+      "source": "https://aaroninthekitchen.com/strawberry-icebox-cake",
+      "videoId": null,
+      "status": "missing-in-export"
+    },
+    {
+      "slug": "strawberry-tiramisu",
+      "source": "https://aaroninthekitchen.com/strawberry-tiramisu",
+      "videoId": null,
+      "status": "missing-in-export"
+    },
+    {
+      "slug": "sweet-chili-chicken-bake",
+      "source": "https://aaroninthekitchen.com/sweet-chili-chicken-bake",
+      "videoId": "n-lpCRp8qzw",
+      "status": "recovered-from-source-links"
+    },
+    {
+      "slug": "tuna-croquette",
+      "source": "https://aaroninthekitchen.com/tuna-croquette",
+      "videoId": "91k3XnJaFz8",
+      "status": "recovered-from-source-links"
+    },
+    {
+      "slug": "vodka-sauce-lasagna",
+      "source": "https://aaroninthekitchen.com/vodka-sauce-lasagna",
+      "videoId": null,
+      "status": "missing-in-export"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "method": "In-memory browser fixture tests; same-origin fetch results and download sink mocked. No live original-site scan or YouTube playback.",
+  "checks": [
+    {
+      "name": "43 recipe fields in manual editor",
+      "passed": true
+    },
+    {
+      "name": "Automatic scan disabled on non-original origin",
+      "passed": true
+    },
+    {
+      "name": "19 recovered videos prefilled",
+      "passed": true
+    },
+    {
+      "name": "Manual video addition updates available count",
+      "passed": true
+    },
+    {
+      "name": "Generated JavaScript contains all recipes and the manual change",
+      "passed": true
+    },
+    {
+      "name": "Correct output filename",
+      "passed": true
+    },
+    {
+      "name": "Actual iframe preferred to unrelated timestamp link",
+      "passed": true
+    },
+    {
+      "name": "VideoObject structured metadata recovered",
+      "passed": true
+    },
+    {
+      "name": "Lazy privacy-enhanced iframe recovered",
+      "passed": true
+    },
+    {
+      "name": "Ambiguous multiple embeds do not replace known ID",
+      "passed": true
+    },
+    {
+      "name": "Escaped embed URL in page script recovered",
+      "passed": true
+    },
+    {
+      "name": "All scan outcomes included in report",
+      "passed": true
+    },
+    {
+      "name": "Ambiguity explicitly reported",
+      "passed": true
+    }
+  ],
+  "errors": []
+}
