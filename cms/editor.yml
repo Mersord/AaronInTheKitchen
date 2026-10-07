@@ -1,0 +1,149 @@
+backend:
+  name: github
+  repo: Mersord/AaronInTheKitchen
+  branch: main
+  base_url: https://configure-your-worker.invalid
+  auth_endpoint: auth
+  commit_messages:
+    create: 'Add recipe: {{slug}}'
+    update: 'Update recipe: {{slug}}'
+    delete: 'Remove recipe: {{slug}}'
+publish_mode: simple
+media_folder: assets/uploads
+public_folder: /AaronInTheKitchen/assets/uploads
+site_url: https://mersord.github.io/AaronInTheKitchen/
+display_url: https://mersord.github.io/AaronInTheKitchen/
+show_preview_links: true
+slug:
+  encoding: ascii
+  clean_accents: true
+  sanitize_replacement: '-'
+collections:
+  - name: recipes
+    label: Recipes
+    label_singular: Recipe
+    description: 'Edit a recipe, or create a new one. Publishing saves to GitHub; the website updates after its build finishes.'
+    folder: content/recipes
+    create: true
+    delete: false
+    extension: json
+    format: json
+    slug: '{{slug}}'
+    identifier_field: title
+    summary: '{{title}} - {{category}}'
+    sortable_fields: [title, category, order]
+    preview_path: 'recipes/{{slug}}.html'
+    view_filters:
+      - label: Visible recipes
+        field: published
+        pattern: true
+      - label: Not visible on website
+        field: published
+        pattern: false
+    fields:
+      - {name: title, label: Recipe name, widget: string}
+      - name: published
+        label: Visible on website
+        widget: boolean
+        default: false
+        hint: 'Turn on when the recipe is ready. Hidden recipes are still readable in a public GitHub repository; this is not private storage.'
+      - name: category
+        label: Category
+        widget: select
+        options:
+          - {label: Main Dishes, value: main-dishes}
+          - {label: Desserts, value: desserts}
+          - {label: Breakfast, value: breakfast}
+          - {label: Sides, value: sides}
+        default: main-dishes
+      - {name: nav_title, label: Short menu name (optional), widget: string, required: false, hint: 'Leave empty to use the full recipe name.'}
+      - {name: order, label: Display order, widget: number, value_type: int, default: 100, min: 0, hint: 'Lower numbers appear first.'}
+      - {name: description, label: Short introduction, widget: text, required: false}
+      - {name: servings, label: Servings or yield, widget: string, required: false, hint: 'For example 4, 6-8, or 12 muffins.'}
+      - {name: prep_minutes, label: Preparation time (minutes), widget: number, value_type: int, min: 0, required: false}
+      - {name: cook_minutes, label: Cooking time (minutes), widget: number, value_type: int, min: 0, required: false}
+      - name: video_url
+        label: YouTube video
+        widget: string
+        required: false
+        hint: 'Paste an HTTPS YouTube or youtu.be link. No embed code is needed. Existing video links were imported from your current files.'
+      - {name: image, label: Recipe picture, widget: image, required: false, allow_multiple: false, hint: 'Used on recipe cards. A placeholder is used when empty. Upload an image, not a video.'}
+      - {name: image_alt, label: Picture description (accessibility), widget: string, required: false}
+      - name: ingredient_groups
+        label: Ingredient groups
+        label_singular: Ingredient group
+        widget: list
+        collapsed: true
+        summary: '{{fields.title}}'
+        min: 1
+        fields:
+          - {name: title, label: Group heading, widget: string, required: false, hint: 'For example Ingredients, Cake, Frosting, or Sauce.'}
+          - {name: after_step, label: Display after step (0 = before all steps), widget: number, value_type: int, default: 0, min: 0, required: false, hint: 'Usually 0. Some imported recipes place frosting or topping ingredients later; their original position is retained.'}
+          - {name: _key, widget: hidden, required: false}
+          - name: body
+            label: Formatted ingredients and notes
+            widget: richtext
+            required: false
+            modes: [rich_text]
+            buttons: [bold, italic, link, bulleted-list, numbered-list]
+            editor_components: []
+            sanitize_preview: true
+            hint: 'Existing recipes are imported here to preserve their wording. Edit normally. Recognised units such as 250 g, 150 mL, 180 °C, and 20 cm are converted when published. For new recipes, use measured rows below.'
+          - name: items
+            label: Measured ingredient rows
+            label_singular: Ingredient
+            widget: list
+            required: false
+            collapsed: true
+            summary: '{{fields.amount}} {{fields.unit}} {{fields.ingredient}}'
+            fields:
+              - {name: ingredient, label: Ingredient, widget: string}
+              - {name: amount, label: Amount, widget: number, value_type: float, min: 0, step: 0.01, required: false, hint: 'Leave empty for to taste, a pinch, or an unspecified amount.'}
+              - name: unit
+                label: Unit
+                widget: select
+                default: g
+                options:
+                  - {label: Grams, value: g}
+                  - {label: Kilograms, value: kg}
+                  - {label: Millilitres, value: mL}
+                  - {label: Litres, value: L}
+                  - {label: Pieces / count, value: piece}
+                  - {label: Teaspoons (US), value: tsp}
+                  - {label: Tablespoons (US), value: tbsp}
+              - {name: note, label: Preparation note, widget: string, required: false, hint: 'For example finely chopped or room temperature.'}
+              - name: grams_per_cup
+                label: Grams per US cup (optional)
+                widget: number
+                value_type: float
+                required: false
+                min: 1
+                max: 1500
+                hint: 'Only for weighed ingredients with a known ingredient-specific cup weight. Otherwise the US view uses oz/lb. Do not assume every ingredient weighs the same.'
+              - {name: us_override, label: US display override (optional), widget: string, required: false, hint: 'Only when a tested recipe needs a specific display, for example 1 cup. Metric remains the source amount.'}
+      - name: steps
+        label: Cooking instructions
+        label_singular: Step
+        widget: list
+        collapsed: true
+        summary: '{{fields.title}}'
+        min: 1
+        fields:
+          - {name: title, label: Step heading, widget: string, required: false, hint: 'For example Step 1 - Prepare the sauce.'}
+          - {name: _key, widget: hidden, required: false}
+          - name: body
+            label: Instructions
+            widget: richtext
+            modes: [rich_text]
+            buttons: [bold, italic, link, bulleted-list, numbered-list]
+            editor_components: []
+            sanitize_preview: true
+            hint: 'Type normal instructions. Use metric units such as 200 g, 150 mL, 180 °C, and 20 cm. YouTube timestamp links can be inserted with the link button.'
+      - name: notes
+        label: Extra recipe notes
+        widget: richtext
+        required: false
+        modes: [rich_text]
+        buttons: [bold, italic, link, bulleted-list]
+        editor_components: []
+        sanitize_preview: true

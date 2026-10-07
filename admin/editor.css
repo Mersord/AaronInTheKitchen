@@ -1,0 +1,3 @@
+.editor-loading{max-width:520px;margin:15vh auto;padding:32px;font:17px/1.65 system-ui,sans-serif;color:#4c433b;background:#faf8f5;border:1px solid #e8ded2;border-radius:12px}
+.editor-loading h1{font:400 34px/1.3 Georgia,serif;margin:12px 0;color:#92714f}.editor-loading p{margin:16px 0}.editor-loading a{color:#725333;text-underline-offset:3px}.editor-eyebrow{font-size:11px;letter-spacing:.18em}.editor-loading[hidden]{display:none}
+@media(max-width:600px){.editor-loading{margin:6vh 16px;padding:24px}}
