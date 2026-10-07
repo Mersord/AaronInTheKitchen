@@ -1,0 +1,76 @@
+name: Aaron CMS - 1. Import current recipes
+
+on:
+  workflow_dispatch:
+    inputs:
+      auth_url:
+        description: 'Published Cloudflare Worker origin (https://...workers.dev), without /callback'
+        required: true
+        type: string
+      site_directory:
+        description: 'Folder containing the current index.html, usually . (a single dot)'
+        required: true
+        default: '.'
+        type: string
+      site_url:
+        description: 'Public site URL without a trailing slash'
+        required: true
+        default: 'https://mersord.github.io/AaronInTheKitchen'
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: aaron-cms-import
+  cancel-in-progress: false
+
+jobs:
+  import:
+    if: github.ref_name == github.event.repository.default_branch
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: ${{ github.ref_name }}
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: cms/requirements.txt
+      - name: Install build dependencies
+        run: python -m pip install -r cms/requirements.txt
+      - name: Import the files in this repository, without replacing source HTML
+        env:
+          AUTH_URL: ${{ inputs.auth_url }}
+          SITE_DIRECTORY: ${{ inputs.site_directory }}
+          PUBLIC_SITE_URL: ${{ inputs.site_url }}
+          CONTENT_BRANCH: ${{ github.ref_name }}
+        run: >-
+          python cms/site.py import
+          --site-directory "$SITE_DIRECTORY"
+          --repo "$GITHUB_REPOSITORY"
+          --branch "$CONTENT_BRANCH"
+          --site-url "$PUBLIC_SITE_URL"
+          --auth-url "$AUTH_URL"
+      - name: Test the imported site before committing the migration
+        run: |
+          python -m unittest discover -s cms -p 'test_*.py' -v
+          python cms/site.py build
+      - name: Commit editable content and CMS configuration only
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add content/recipes cms/imported cms/settings.json admin/config.yml assets/uploads/.gitkeep
+          if git diff --cached --quiet; then
+            echo "Already imported. No recipe content was overwritten."
+          else
+            git commit -m "Set up Decap recipe content from current website"
+            git push
+          fi
+      - name: Explain the next step
+        run: |
+          echo '## Import complete' >> "$GITHUB_STEP_SUMMARY"
+          echo 'The original HTML, CSS, video map and contact settings were not overwritten.' >> "$GITHUB_STEP_SUMMARY"
+          echo 'Set Settings > Pages > Source to GitHub Actions, then manually run Aaron CMS - 2. Publish website.' >> "$GITHUB_STEP_SUMMARY"
+          echo 'A commit made with the Actions token does not trigger the publish workflow automatically.' >> "$GITHUB_STEP_SUMMARY"
