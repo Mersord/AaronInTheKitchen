@@ -1,16 +1,5 @@
 {
-  "title": "Blueberry Cobbler",
-  "nav_title": "Blueberry Cobbler",
-  "category": "desserts",
-  "published": true,
-  "order": 36,
-  "description": "",
-  "servings": "",
-  "prep_minutes": null,
-  "cook_minutes": null,
-  "video_url": "https://www.youtube.com/watch?v=IyBHs4ApmGQ",
-  "image": "assets/images/recipes/blueberry-cobbler.svg",
-  "image_alt": "",
+  "notes": "",
   "ingredient_groups": [
     {
       "title": "Blueberry Filling",
@@ -21,12 +10,14 @@
     },
     {
       "title": "Batter & Assembly",
-      "body": "- **180 g** all-purpose flour ([**0:46**](https://www.youtube.com/watch?v=IyBHs4ApmGQ&t=46s))\n- **14 g** baking soda ([**0:55**](https://www.youtube.com/watch?v=IyBHs4ApmGQ&t=55s))\n- **4 g** salt ([**1:32**](https://www.youtube.com/watch?v=IyBHs4ApmGQ&t=92s))\n- **2 g** fresh ginger ([**1:23**](https://www.youtube.com/watch?v=IyBHs4ApmGQ&t=83s))\n- **2 g** ginger powder ([**1:23**](https://www.youtube.com/watch?v=IyBHs4ApmGQ&t=83s))\n- **300 mL** heavy cream (split into 250 mL + 50 mL) ([**5:09**](https://www.youtube.com/watch?v=IyBHs4ApmGQ&t=309s))\n- **A small splash** of water (if needed to loosen the batter) ([**6:17**](https://www.youtube.com/watch?v=IyBHs4ApmGQ&t=377s))\n- **150 mL** melted butter ([**3:52**](https://www.youtube.com/watch?v=IyBHs4ApmGQ&t=232s)) []",
+      "body": "* **180 g** all-purpose flour (**[0:46](https://www.youtube.com/watch?v=IyBHs4ApmGQ&t=46s)**)\n* **14 g** baking soda (**[0:55](https://www.youtube.com/watch?v=IyBHs4ApmGQ&t=55s)**)\n* **4 g** salt (**[1:32](https://www.youtube.com/watch?v=IyBHs4ApmGQ&t=92s)**)\n* **2 g** fresh ginger (**[1:23](https://www.youtube.com/watch?v=IyBHs4ApmGQ&t=83s)**)\n* **2 g** ginger powder (**[1:23](https://www.youtube.com/watch?v=IyBHs4ApmGQ&t=83s)**)\n* **300 mL** heavy cream (split into 250 mL + 50 mL) (**[5:09](https://www.youtube.com/watch?v=IyBHs4ApmGQ&t=309s)**)\n* **A small splash** of water (if needed to loosen the batter) (**[6:17](https://www.youtube.com/watch?v=IyBHs4ApmGQ&t=377s)**)\n* **150 mL** melted butter (**[3:52](https://www.youtube.com/watch?v=IyBHs4ApmGQ&t=232s)**) \\[]",
       "_key": "recipe-section-2",
       "items": [],
       "after_step": 0
     }
   ],
+  "image_alt": "",
+  "servings": "",
   "steps": [
     {
       "title": "Step 1: Prep the Dry Ingredients",
@@ -45,9 +36,18 @@
     },
     {
       "title": "Step 4: Bake & Serve",
-      "body": "1. Preheat your oven to **190 °C** ([**7:30**](https://www.youtube.com/watch?v=IyBHs4ApmGQ&t=450s)).\n2. Bake the cobbler for **50 minutes** ([**8:06**](https://www.youtube.com/watch?v=IyBHs4ApmGQ&t=486s)). As it bakes, the batter will magically float to the top and turn into a big, fluffy biscuit crust ([**7:20**](https://www.youtube.com/watch?v=IyBHs4ApmGQ&t=440s)).\n3. Let it cool slightly, then serve! Warm alongside a slice of cheesecake for a deeply indulgent dessert ([**8:13**](https://www.youtube.com/watch?v=IyBHs4ApmGQ&t=493s)).",
+      "body": "1. Preheat your oven to **190 °C** (**[7:30](https://www.youtube.com/watch?v=IyBHs4ApmGQ&t=450s)**).\n2. Bake the cobbler for **50 minutes** (**[8:06](https://www.youtube.com/watch?v=IyBHs4ApmGQ&t=486s)**). As it bakes, the batter will magically float to the top and turn into a big, fluffy biscuit crust (**[7:20](https://www.youtube.com/watch?v=IyBHs4ApmGQ&t=440s)**).\n3. Let it cool slightly, then serve! Warm alongside a slice of cheesecake for a deeply indulgent dessert (**[8:13](https://www.youtube.com/watch?v=IyBHs4ApmGQ&t=493s)**).",
       "_key": "recipe-section-7"
     }
   ],
-  "notes": ""
+  "cook_minutes": null,
+  "video_url": "https://www.youtube.com/watch?v=IyBHs4ApmGQ",
+  "prep_minutes": null,
+  "published": false,
+  "order": 36,
+  "title": "Blueberry Cobbler 2",
+  "image": "assets/images/recipes/blueberry-cobbler.svg",
+  "nav_title": "Blueberry Cobbler",
+  "description": "",
+  "category": "desserts"
 }
