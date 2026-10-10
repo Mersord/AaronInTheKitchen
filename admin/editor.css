@@ -1,3 +1,34 @@
-.editor-loading{max-width:520px;margin:15vh auto;padding:32px;font:17px/1.65 system-ui,sans-serif;color:#4c433b;background:#faf8f5;border:1px solid #e8ded2;border-radius:12px}
-.editor-loading h1{font:400 34px/1.3 Georgia,serif;margin:12px 0;color:#92714f}.editor-loading p{margin:16px 0}.editor-loading a{color:#725333;text-underline-offset:3px}.editor-eyebrow{font-size:11px;letter-spacing:.18em}.editor-loading[hidden]{display:none}
-@media(max-width:600px){.editor-loading{margin:6vh 16px;padding:24px}}
+/* Admin-only styling. No public website stylesheet is changed.
+   Structural layout, publishing controls and permissions stay with Decap. */
+:root{--studio-ink:#302c27;--studio-muted:#746b60;--studio-accent:#88613c;--studio-border:#e6ded3;--studio-paper:#faf8f5;--studio-focus:#946a42}
+body{margin:0;background:var(--studio-paper)}
+.editor-loading{max-width:520px;margin:13vh auto;padding:38px 40px;font:16px/1.65 system-ui,sans-serif;color:var(--studio-ink);background:#fff;border:1px solid var(--studio-border);border-radius:18px;box-shadow:0 16px 48px #4a39240b}
+.editor-loading h1{font:400 36px/1.3 Georgia,serif;margin:12px 0;color:#88613c}.editor-loading p{margin:18px 0}.editor-loading a{color:#725333;text-underline-offset:4px}.editor-loading p:last-child{font-size:13px;display:flex;gap:14px;flex-wrap:wrap}.editor-eyebrow{font-size:10px;letter-spacing:.2em;font-weight:650}.editor-loading-line{height:3px;background:linear-gradient(90deg,#b49a76,#f2e9dc);border-radius:2px;margin:24px 0}
+[hidden]{display:none!important}
+/* Decap uses labelled Emotion classes. A changed class in a later release
+   simply loses the cosmetic rule; it does not affect the editing controls. */
+body:not(.studio-basic) #nc-root [class*="AppHeader"]{box-shadow:0 1px 0 #ded6cb}
+body:not(.studio-basic) #nc-root [class*="SidebarContainer"]{background:#f8f5f0;border-right:1px solid #e7dfd5}
+body:not(.studio-basic) #nc-root [class*="ControlContainer"]{scroll-margin:90px}
+body:not(.studio-basic) #nc-root [class*="ControlLabel"]{font-size:13px;line-height:1.5;color:#594631;letter-spacing:.02em}
+body:not(.studio-basic) #nc-root [class*="ControlHint"]{font-size:12px;line-height:1.65;color:#776d62}
+body:not(.studio-basic) #nc-root :is(input[type="text"],input[type="number"],input[type="url"],input:not([type]),textarea){font-size:15px;line-height:1.65;border-radius:7px;caret-color:#88613c}
+body:not(.studio-basic) #nc-root [contenteditable="true"]{font-size:16px;line-height:1.75;caret-color:#88613c}
+body:not(.studio-basic) #nc-root :is(input,textarea,[contenteditable="true"]):focus-visible{outline:2px solid var(--studio-focus);outline-offset:2px}
+body:not(.studio-basic) #nc-root [class*="ListItemTopBar"]{border-radius:7px;border-color:#e8dfd4;background:#faf8f5}
+body:not(.studio-basic) #nc-root img[src*="favicon.svg"]{max-width:90px;max-height:90px;object-fit:contain}
+.studio-video-control,.studio-amount-control{font:14px/1.6 system-ui,sans-serif}
+.studio-video-control>input,.studio-amount-control>input{box-sizing:border-box;display:block;width:100%;padding:11px 14px;border:1px solid #d5d9dc;background:#fff;color:#302c27;font:15px/1.6 system-ui,sans-serif;border-radius:7px}
+.studio-video-control>input[aria-invalid="true"],.studio-amount-control>input[aria-invalid="true"]{border-color:#b74131}
+.studio-video-card{display:flex;align-items:center;gap:16px;margin:12px 0 0;padding:12px;border:1px solid var(--studio-border);border-radius:10px;background:#faf8f5}
+.studio-video-card img{width:144px;max-width:34%;aspect-ratio:16/9;object-fit:cover;border-radius:6px}.studio-video-card strong{font-size:13px;color:#514632}.studio-video-card p{margin:3px 0 8px;font-size:12px;line-height:1.5;color:#746b60}
+.studio-inline-actions{display:flex;gap:12px;align-items:center;flex-wrap:wrap}.studio-inline-actions :is(a,button){font:12px/1.6 system-ui,sans-serif;color:#74502f;text-underline-offset:3px}.studio-inline-actions button{border:1px solid #d9c8b6;background:#fff;border-radius:5px;padding:3px 9px;cursor:pointer}
+.studio-field-hint{display:block;color:#6e6254;font:12px/1.6 system-ui,sans-serif;margin-top:5px}.studio-field-error{display:block;color:#a63425;font:12px/1.6 system-ui,sans-serif;margin:7px 0 0}
+.studio-dock{position:fixed;right:20px;bottom:16px;z-index:900;font:13px/1.55 system-ui,sans-serif;color:var(--studio-ink)}
+.studio-dock summary{list-style:none;cursor:pointer;padding:11px 16px;background:#3c493f;color:white;border-radius:24px;box-shadow:0 3px 12px #22302420;display:flex;gap:30px;align-items:center;font-weight:600;min-height:22px}
+.studio-dock summary::-webkit-details-marker{display:none}.studio-dock summary:focus-visible{outline:3px solid #b39c7d;outline-offset:3px}.studio-dock summary span{font-size:20px;line-height:1}
+.studio-dock-menu{position:absolute;right:0;bottom:55px;width:min(295px,calc(100vw - 40px));background:#fff;border:1px solid var(--studio-border);border-radius:13px;padding:12px;box-shadow:0 14px 48px #372a1820}
+.studio-dock-menu a{padding:11px 10px;display:flex;justify-content:space-between;gap:15px;color:#493d30;text-decoration:none;border-radius:6px}.studio-dock-menu a:hover{background:#f6f1e9}.studio-dock-menu a:focus-visible{outline:2px solid var(--studio-focus);outline-offset:0}.studio-dock-label{margin:4px 10px 10px;font-size:10px;text-transform:uppercase;letter-spacing:.1em;color:#7c6c59}.studio-dock-menu small{display:block;padding:10px;color:#837768;font-size:11px;line-height:1.6;border-top:1px solid #eee5db;margin-top:6px}
+.studio-notification{position:fixed;left:22px;bottom:20px;max-width:min(420px,calc(100vw - 44px));padding:15px 18px;background:#34443a;color:#fff;border-radius:10px;z-index:850;box-shadow:0 8px 30px #0002;font:13px/1.65 system-ui,sans-serif;pointer-events:none}
+@media(max-width:650px){.editor-loading{margin:8vh 16px;padding:27px}.editor-loading h1{font-size:30px}.studio-video-card{align-items:flex-start;gap:10px}.studio-dock{right:12px;bottom:12px}.studio-dock summary{font-size:12px;padding:9px 13px}.studio-notification{bottom:72px;left:12px;max-width:calc(100vw - 60px)}}
+@media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}}

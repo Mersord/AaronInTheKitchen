@@ -5,19 +5,35 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="robots" content="noindex,nofollow">
   <meta name="referrer" content="strict-origin-when-cross-origin">
-  <title>Recipe editor | Aaron in the Kitchen</title>
+  <title>Recipe Studio | Aaron in the Kitchen</title>
   <link rel="icon" href="../assets/images/favicon.svg" type="image/svg+xml">
-  <link rel="stylesheet" href="editor.css">
-  <script defer src="boot.js"></script>
+  <link rel="stylesheet" href="editor.css?v=20261010-1">
+  <script defer src="boot.js?v=20261010-1"></script>
 </head>
 <body>
   <div id="cms-loading" role="status" class="editor-loading">
     <p class="editor-eyebrow">AARON IN THE KITCHEN</p>
-    <h1>Your recipe notebook</h1>
-    <p id="cms-loading-message">Loading the recipe editor...</p>
-    <p><a href="../index.html">Back to the website</a> &middot; <a href="help.html">Editor guide</a></p>
+    <h1>Your recipe studio</h1>
+    <p id="cms-loading-message">Getting your recipe notebook ready...</p>
+    <div class="editor-loading-line" aria-hidden="true"></div>
+    <p><a href="../index.html">Website</a> <span aria-hidden="true">/</span> <a href="help.html" target="_blank" rel="noopener">Editor guide</a> <span aria-hidden="true">/</span> <a href="?basic=1">Basic editor mode</a></p>
   </div>
   <div id="nc-root"></div>
-  <noscript>This recipe editor needs JavaScript. Your public recipes remain accessible without it.</noscript>
+  <aside id="studio-dock" class="studio-dock" aria-label="Recipe editor tools" hidden>
+    <details>
+      <summary>Kitchen tools <span aria-hidden="true">+</span></summary>
+      <div class="studio-dock-menu">
+        <p class="studio-dock-label">A little help while you write</p>
+        <a href="tools.html" target="_blank" rel="noopener">Measurement helper <span aria-hidden="true">&#8599;</span></a>
+        <a href="help.html" target="_blank" rel="noopener">Editing guide <span aria-hidden="true">&#8599;</span></a>
+        <a href="../index.html" target="_blank" rel="noopener">View website <span aria-hidden="true">&#8599;</span></a>
+        <a id="studio-build-link" href="#" target="_blank" rel="noopener noreferrer" hidden>Check publishing build <span aria-hidden="true">&#8599;</span></a>
+        <a href="?basic=1" target="_blank" rel="noopener">Basic editor mode <span aria-hidden="true">&#8599;</span></a>
+        <small>Links open in a new tab. Changes in this editor still need to be saved with Publish.</small>
+      </div>
+    </details>
+  </aside>
+  <div id="studio-notification" class="studio-notification" role="status" hidden></div>
+  <noscript>This editor needs JavaScript. Your public recipes remain accessible without it.</noscript>
 </body>
 </html>
