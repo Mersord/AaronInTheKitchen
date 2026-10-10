@@ -1,0 +1,77 @@
+{
+  "title": "Maple Apple Muffins",
+  "nav_title": "Maple Apple Muffins",
+  "category": "breakfast",
+  "published": true,
+  "order": 37,
+  "description": "",
+  "servings": "",
+  "prep_minutes": null,
+  "cook_minutes": null,
+  "video_url": "https://www.youtube.com/watch?v=1wEMajpXYWo",
+  "image": "assets/images/recipes/maple-apple-muffins.svg",
+  "image_alt": "",
+  "ingredient_groups": [
+    {
+      "title": "The Dry Ingredients Foundation",
+      "body": "- **All-purpose flour**: 240 g\n- **Baking powder**: 5 g *(Note: Make sure to use baking powder, not baking soda)*",
+      "_key": "recipe-section-1",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "The Warming Spices & Enhancers",
+      "body": "- **Ground cinnamon**: 15 mL\n- **Sea salt**: 5 mL",
+      "_key": "recipe-section-2",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "The Wet Ingredients & Binders",
+      "body": "- **Brown butter**: 113 g\n- **Brown sugar**: 110 g\n- **White granulated sugar**: 100 g *(Note: These are breakfast muffins, but if you want to turn them into cupcakes, you can double both sugars)*\n- **Large eggs**: 2 eggs *(Left out to sit at room temperature)*\n- **Vanilla paste**: 10 mL\n- **Milk or heavy cream**: 123.6 g *(Note: Heavy cream adds extra richness, but regular milk works perfectly if that is what you have on hand)*\n- **Lemon juice**: 15 g *(Freshly squeezed)*\n- **Maple syrup**: 80 g *(Light maple syrup serves as the secret ingredient)*",
+      "_key": "recipe-section-3",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "The Fruit & Nut Additions",
+      "body": "- **Fresh apples**: 2 whole apples *(Sliced, peeled, and cut down into small pieces)*\n- **Toasted walnuts**: 28 g",
+      "_key": "recipe-section-4",
+      "items": [],
+      "after_step": 0
+    }
+  ],
+  "steps": [
+    {
+      "title": "1. Set Up Your Baking Station",
+      "body": "- Grab a digital kitchen scale and set your main mixing bowl directly on top of it. Baking with a scale is an excellent kitchen hack that allows you to accurately measure everything into one container, keeping you from dirtying a bunch of extra dishes.\n- Remember to zero out your scale every single time you prepare to add a new ingredient.\n- Prepare a mini oven or standard kitchen oven by setting the preheat temperature to **177 °C**.",
+      "_key": "recipe-section-6"
+    },
+    {
+      "title": "2. Compile the Dry Foundation and Sugars",
+      "body": "- Weigh out and add 240 g of all-purpose flour directly into your mixing bowl.\n- Add exactly 5 g of baking powder over the top of the flour.\n- Sprinkle in 15 mL of ground cinnamon and 5 mL of sea salt.\n- Pour in 110 g of brown sugar along with 100 g of regular white granulated sugar.",
+      "_key": "recipe-section-7"
+    },
+    {
+      "title": "3. Add the Wet Ingredients, Liquids, and Additions",
+      "body": "- Squeeze a fresh lemon and add 15 g of the filtered juice directly into the bowl.\n- Pour in 113 g of your prepared brown butter.\n- Crack your 2 room-temperature large eggs straight into the same mixing bowl.\n- Measure and add 10 mL of vanilla paste.\n- Stream in 123.6 g of milk or heavy cream.\n- Pour in 80 g of light maple syrup to finish off the liquid profile.\n- Drop in your 2 pre-sliced and peeled apples along with 28 g of chopped, toasted walnuts.",
+      "_key": "recipe-section-8"
+    },
+    {
+      "title": "4. Mix the Muffin Batter",
+      "body": "- Grab a standard electric hand mixer or a sturdy baking spatula. While stand mixers are common for heavy baking, a hand mixer or manual spoon works perfectly fine for this quick recipe.\n- If you are using a mechanical hand mixer, always ensure you start it on a very low speed setting to keep from splashing liquids or making a dry flour mess across your counters.\n- Because the fresh apple chunks are large and heavy, mechanical mixer blades might encounter physical resistance. If this happens, simply switch over to a rubber spatula or a heavy spoon and finish mixing the batter by hand.\n- Fold the mixture gently. **Stop mixing the absolute second the dry white streaks of flour disappear** into the wet batter. Over-mixing muffin batter will make the final texture dense and gummy rather than light and airy.",
+      "_key": "recipe-section-9"
+    },
+    {
+      "title": "5. Scoop into Muffin Pans",
+      "body": "- Set up your muffin baking trays. You can use standard metal tins lined with paper cups, or flexible silicone mini muffin pans.\n- Grab a medium-sized ice cream scoop or cookie portioner to cleanly transfer the batter. Utilizing a scoop ensures that each muffin cup receives an identical volume of batter, which guarantees uniform baking rates.\n- Plunge the scoop into the thick batter and drop even mounds into each muffin cup. This recipe yields a total batch size of roughly 23 breakfast muffins.",
+      "_key": "recipe-section-10"
+    },
+    {
+      "title": "6. Bake and Verify Doneness",
+      "body": "- Slide your filled muffin trays carefully into the center rack of your preheated oven at **177 °C**.\n- Close the oven door and bake the muffins continuously.\n- While standard small muffins typically require less heat exposure, the heavy addition of fresh, juicy apple pieces dramatically elevates the internal moisture levels of this specific batter. Because of this extra moisture, **the muffins require an extended baking window over the baseline expectation to thoroughly cook through to the center**.\n- Verify that they are completely done by inserting a toothpick into the sponge center; it should come out dry without trailing wet batter.\n- Remove the trays from the oven and let the muffins sit undisturbed until they drop in temperature. Serve them warm alongside morning coffee or tea for a beautiful cafe-style autumn breakfast experience.",
+      "_key": "recipe-section-11"
+    }
+  ],
+  "notes": ""
+}

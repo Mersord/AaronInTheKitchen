@@ -1,0 +1,84 @@
+{
+  "title": "Homemade Cinnamon Rolls",
+  "nav_title": "Homemade Cinnamon Rolls",
+  "category": "desserts",
+  "published": true,
+  "order": 35,
+  "description": "",
+  "servings": "",
+  "prep_minutes": null,
+  "cook_minutes": null,
+  "video_url": "https://www.youtube.com/watch?v=JmCrdU12D6w",
+  "image": "assets/images/recipes/homemade-cinnamon-rolls.svg",
+  "image_alt": "",
+  "ingredient_groups": [
+    {
+      "title": "For the Tangzhong (Dough Starter)",
+      "body": "- **Bread flour:** 56 g\n- **Whole milk:** 112 g",
+      "_key": "recipe-section-1",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "For the Main Dough",
+      "body": "- **Whole milk:** 240 g (warmed to 43 °C [01.69, 01.71]\n- **Active dry yeast:** 7 g\n- **Sugar:** 100 g\n- **Eggs:** 2 large eggs\n- **Bread flour:** 504 g (plus an extra 56 g used during the video for a total of 560 g)\n- **Sea salt:** 6 g\n- **Softened butter:** 250 g (room temperature, cut into small pads)",
+      "_key": "recipe-section-2",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "For the Mascarpone Filling",
+      "body": "- **Mascarpone cheese:** 125 g (slightly softened)\n- **Brown sugar:** 220 g\n- **Ground cinnamon:** 16 g\n- **Butter:** 25 g (added to help soften the cold cheese mix)",
+      "_key": "recipe-section-3",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "For the Baking Step",
+      "body": "**Heavy cream:** 120–150 mL (poured over the buns before baking)",
+      "_key": "recipe-section-4",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "For the Cream Cheese Frosting & Topping",
+      "body": "- **Cold cream cheese**: 440 g ([**11:23**](https://www.youtube.com/watch?v=VHZq1E4Spnw&t=683s))\n- **Butter**: 250 g (Slightly chilled, but soft enough to leave a thumbprint) ([**11:59**](https://www.youtube.com/watch?v=VHZq1E4Spnw&t=719s))\n- **Powdered sugar**: 400 g *(Adjusted down from 600 g for perfect sweetness)* ([**13:21**](https://www.youtube.com/watch?v=VHZq1E4Spnw&t=801s))\n- **Vanilla paste**: 5 mL ([**12:50**](https://www.youtube.com/watch?v=VHZq1E4Spnw&t=770s))\n- **Walnuts**: An extra generous handful (Roughly chopped for topping) ([**17:12**](https://www.youtube.com/watch?v=VHZq1E4Spnw&t=1032s))",
+      "_key": "recipe-section-12",
+      "items": [],
+      "after_step": 6
+    }
+  ],
+  "steps": [
+    {
+      "title": "Step 1: Prep the Yeast and Liquids",
+      "body": "- Warm 240 g of whole milk to roughly 43 °C.\n- Pour the warm milk into your mixer bowl and stir in 7 g of active dry yeast . *Tip: If your yeast is fresh, you do not need to let it sit and bloom first*",
+      "_key": "recipe-section-6"
+    },
+    {
+      "title": "Step 2: Build and Knead the Dough",
+      "body": "- Add 2 large eggs, 560 g of bread flour, 100 g of sugar, and 6 g of sea salt directly into the bowl with the yeast mixture.\n- Fit your stand mixer with the dough hook and turn it on a low speed (between settings 1 and 2).\n- Gradually add your 250 g of softened butter, throwing in one small pad at a time as the machine kneads.\n- Continue kneading for about 20 minutes until the dough gathers into a smooth, glossy brioche-style ball that no longer sticks to the bottom or sides of the bowl",
+      "_key": "recipe-section-7"
+    },
+    {
+      "title": "Step 3: The First Proof",
+      "body": "- Remove the dough ball and transfer it into a clean bowl lightly coated with canola oil.\n- Turn the dough to coat it in the oil, then seal the bowl tightly with plastic wrap.\n- Let the dough rest and rise undisturbed for 30 minutes",
+      "_key": "recipe-section-8"
+    },
+    {
+      "title": "Step 4: Mix the Creamy Filling",
+      "body": "- While the dough rises, combine 125 g of mascarpone cheese, 220 g of brown sugar, and 16 g of cinnamon in a bowl.\n- *Fixing stiff cheese:* If your mascarpone is too cold to mix smoothly, add 25 g of butter and microwave the mixture in brief 15-second bursts until it softens into a spreadable paste",
+      "_key": "recipe-section-9"
+    },
+    {
+      "title": "Step 5: Roll, Fill, and Cut",
+      "body": "- Preheat your oven to 190 °C.\n- Dust a pastry mat with a tiny bit of flour and grease your rolling pin with a splash of oil.\n- Turn the dough out onto the mat and roll it into a large rectangle, gently popping any massive air bubbles as you push the rolling pin across.\n- Spread the mascarpone filling smoothly over the surface with a spatula, leaving a narrow clean border around all the edges so it doesn't leak out later.\n- Using a sharp pizza cutter, slice the sheet into even strips about 2.5 cm wide. Roll each individual strip up tightly to shape your buns",
+      "_key": "recipe-section-10"
+    },
+    {
+      "title": "Step 6: The Cream Trick & Baking",
+      "body": "- Arrange the shaped rolls side-by-side inside a large baking dish, leaving a little room for them to puff up.\n- Slowly pour 120–150 mL of heavy cream directly over the tops of the rolls right before they go into the oven—this keeps them unbelievably soft and pillowy.\n- Bake at 190 °C for exactly 25 minutes until golden brown. Top them with leftover cream cheese frosting from your Hummingbird Cake if you have any handy",
+      "_key": "recipe-section-11"
+    }
+  ],
+  "notes": ""
+}

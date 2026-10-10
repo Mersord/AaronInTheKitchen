@@ -1,0 +1,82 @@
+{
+  "title": "Apple Pie Pound Cake",
+  "nav_title": "Apple Pie Pound Cake",
+  "category": "desserts",
+  "published": true,
+  "order": 27,
+  "description": "",
+  "servings": "",
+  "prep_minutes": null,
+  "cook_minutes": null,
+  "video_url": "https://www.youtube.com/watch?v=5Ei-C0V64qE",
+  "image": "assets/images/recipes/apple-pie-pound-cake.svg",
+  "image_alt": "",
+  "ingredient_groups": [
+    {
+      "title": "The Dry Ingredients Foundation",
+      "body": "- **All-purpose flour**: 360 g\n- **White granulated sugar**: 198 g\n- **Brown sugar**: 213 g\n- **Baking powder**: 12 g *(Note: While the video description mentions baking soda, the chef explicitly measures and states baking powder during preparation)*",
+      "_key": "recipe-section-1",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "The Warming Spices & Enhancers",
+      "body": "- **Cinnamon**: 10 mL\n- **Nutmeg**: 5 mL\n- **Cardamom**: 2.5 mL\n- **Sea salt**: 5 mL *(Note: Standard sea salt or kosher salt works perfectly; avoid using pink Himalayan salt as its flavor profile is too aggressive for this cake)*",
+      "_key": "recipe-section-2",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "The Wet Ingredients & Binders",
+      "body": "At Aaron in the Kitchen, we're al**Vegetable oil**: 237 mL\n\n- **Large eggs**: 3 eggs\n- **Homemade apple butter**: 237 mL *(Note: The apple butter is highly recommended to inject the signature apple pie flavor, but it can technically be omitted if you only want the moisture)*\n- **Vanilla paste**: 10 mL *(Vanilla extract can be used as a direct 1:1 substitute)*l about experimenting with unique flavor combinations that will surprise and delight your taste buds. Our chefs are constantly coming up with new and exciting dishes that you won't find anywhere else.",
+      "_key": "recipe-section-3",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "The Fruit Element",
+      "body": "**Fresh apples**: 3 medium-sized apples *(Any variety available at your local grocery store works well; this is a great way to use up apples that are on the verge of turning bad)*",
+      "_key": "recipe-section-4",
+      "items": [],
+      "after_step": 0
+    }
+  ],
+  "steps": [
+    {
+      "title": "1. Prep and Sift the Dry Base",
+      "body": "- Grab a large, deep mixing bowl to act as the foundation for your dry ingredients.\n- Measure and pour 360 g of all-purpose flour straight into the bowl.\n- Add 198 g of white granulated sugar followed immediately by 213 g of brown sugar.\n- Measure out your warming spices to build the apple pie aromatics: sprinkle in 10 mL of cinnamon, 5 mL of nutmeg, and 2.5 mL of ground cardamom.\n- Add 5 mL of sea salt and 12 g of baking powder into the mix.\n- Take a hand whisk and stir all the dry elements together until the sugars, spices, and leavening agents are distributed evenly throughout the flour.",
+      "_key": "recipe-section-6"
+    },
+    {
+      "title": "2. Introduce the Wet Binders",
+      "body": "- Crack 3 large eggs directly into the center of your seasoned dry flour mixture.\n- Measure and pour 237 mL of neutral vegetable oil over the eggs to act as the primary moisture agent.\n- Add 237 mL of your homemade apple butter to the bowl to drastically amplify the rich, spiced fruit profile of the cake batter.\n- Measure out and add 10 mL of rich vanilla paste (or standard vanilla extract) into the wet pool.\n- *Note on Mixing Equipment:* You can easily use a heavy-duty stand mixer to pull this dense batter together. However, a stand mixer is not mandatory; you can comfortably mix the entire recipe by hand using a thick, heavy-duty plastic spoon. Avoid using a standard wooden spoon, as the sheer weight and density of the fruit batter can cause a wooden handle to snap under pressure.",
+      "_key": "recipe-section-7"
+    },
+    {
+      "title": "3. Prepare and Process the Apples",
+      "body": "- Take your 3 fresh apples and thoroughly wash them under cold water.\n- Use a sharp knife or vegetable peeler to strip the outer skins off the apples. If you prefer a more rustic texture with extra fiber, you can choose to leave the skins completely intact.\n- Slice into the apples with a pairing knife to carefully cut around and remove the hard central core and seeds. Use a cutting board for safety to protect your fingers.\n- Chop the cored apples down into rough chunks.\n- Transfer the apple chunks into the bowl of a food processor to speed up the dicing process. Always be incredibly cautious never to reach your bare hands inside the processor bowl while the sharp chopping blade is seated.\n- Pulse the machine until the fruit is finely shredded or finely diced. If you do not own a food processor, you can easily dice the apples by hand into small, chunky bits; having tiny fruit pockets embedded within the finished cake yields a wonderful, jammy texture.\n- Empty the processed apples directly into your main mixing bowl with the other ingredients.",
+      "_key": "recipe-section-8"
+    },
+    {
+      "title": "4. Mix the Pound Cake Batter",
+      "body": "- Turn on your stand mixer or begin stirring by hand, starting out on a very low speed setting to prevent the dry flour from puffing out over the edges of the bowl.\n- Keep mixing just until the wet ingredients absorb all the dry powders and the visible streaks of white flour at the absolute bottom of the bowl vanish completely.\n- Stop the mixer and use a flexible rubber kitchen spatula to aggressively scrape down the interior walls and base of the bowl. This pound cake dough is exceptionally thick, heavy, and dense, meaning unmixed flour pockets like to hide at the bottom.\n- Turn the mixer back on briefly to finalize a completely cohesive, uniform cake batter. Do not be alarmed by the heavy density of the mix; the intense level of natural moisture derived from both the apple butter and the raw processed fruit prevents it from drying out, ensuring a remarkably soft and fluffy final crumb.",
+      "_key": "recipe-section-9"
+    },
+    {
+      "title": "5. Preheat and Prepare the Baking Pan",
+      "body": "- Preheat your kitchen oven or countertop oven to **160 °C**. These are the rounded oven settings stated in the original recipe.\n- Grab a standard decorative Bundt pan or your preferred baking form.\n- Spray the entire inside of the baking pan generously with a high-quality non-stick baking spray. Utilizing a baking spray that contains flour built right into the formula is highly recommended to ensure the caramelized fruit surfaces release cleanly from the pan design after baking.",
+      "_key": "recipe-section-10"
+    },
+    {
+      "title": "Fill and Bake",
+      "body": "- Remove the mixing paddle or beaters, scraping off any excess clinging batter back into the bowl.\n- Carefully pour the thick cake batter into the prepared Bundt pan. To do this cleanly, pour the batter continuously into one deep side of the pan and allow the heavy mass to slowly slide and distribute around the central ring on its own. Try your absolute best to keep the batter from spilling inside the hollow central cone of the pan.\n- Take a spatula or spoon and lightly smooth out the exposed top surface of the batter to level it out perfectly.\n- Place the filled pan into the center of your preheated oven.\n- Bake at **160 °C**. The cake is fully baked when the top turns deeply golden and a toothpick inserted into the thickest center section comes out completely clean.",
+      "_key": "recipe-section-11"
+    },
+    {
+      "title": "7. Invert, Cool, and Serve",
+      "body": "- Carefully remove the hot pan from the oven and set it onto a heat-safe surface.\n- Allow the pound cake to sit undisturbed in the pan for a bit to let the structure firm up slightly as it begins to drop temperature.\n- Position a flat serving platter or a rotating cake turntable directly over the open top of the Bundt pan.\n- Securely grip both the pan edges and the platter together, and swiftly invert the assembly upside down. Gently lift the pan straight up; if properly greased, the cake will slide right out onto the plate effortlessly.\n- *Optional Fancy Presentation:* While the cake can be served plain, you can elevate the presentation by spreading an extra layer of your warm homemade apple butter across the crown and scattering crispy streusel crumbles over the top.\n- Use a sharp kitchen knife to slice the warm cake into clean portions. The exterior crust will carry a subtle, delicate crunch while the inner cake remains extraordinarily moist, spiced, and soft. Serve warm or at room temperature.",
+      "_key": "recipe-section-12"
+    }
+  ],
+  "notes": ""
+}

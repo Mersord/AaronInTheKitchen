@@ -1,0 +1,70 @@
+{
+  "title": "Double Chocolate Chunk Cookies",
+  "nav_title": "Double Chocolate Cookies",
+  "category": "desserts",
+  "published": true,
+  "order": 30,
+  "description": "",
+  "servings": "",
+  "prep_minutes": null,
+  "cook_minutes": null,
+  "video_url": "https://www.youtube.com/watch?v=9FCr5nroS9g",
+  "image": "assets/images/recipes/double-chocolate-cookies.svg",
+  "image_alt": "",
+  "ingredient_groups": [
+    {
+      "title": "The Dry Ingredients Foundation",
+      "body": "- **All-purpose flour**: 120 g\n- **Dutch-processed cocoa powder**: 33 g\n- **Cornstarch**: 7 g *(The chef's secret addition to ensure a soft, gooey bakery-style center)*\n- **Baking soda**: 3 g\n- **Sea salt**: 2.5 mL",
+      "_key": "recipe-section-1",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "The Sugars, Binders, & Fats",
+      "body": "- **Brown sugar**: 110 g\n- **White granulated sugar**: 66 g\n- **Maple syrup**: 45 g *(Note: While the video description lists 120 mL, the chef explicitly weighs out and states 45 g in the kitchen)*\n- **Brown butter**: 113 g\n- **Eggs**: 2 large eggs\n- **Vanilla paste**: 10 mL",
+      "_key": "recipe-section-2",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "The Mix-Ins",
+      "body": "**Chopped chocolate**: 100 g *(Note: The description notes 80 g, but the chef adds 100 g on the scale for a more decadent bite)*",
+      "_key": "recipe-section-3",
+      "items": [],
+      "after_step": 0
+    }
+  ],
+  "steps": [
+    {
+      "title": "1. Set Up Your Baking Station",
+      "body": "- Grab your digital kitchen scale and place your primary mixing bowl directly on top.\n- Remember to turn on and zero out or tare your scale before adding any ingredients to ensure absolute measurement accuracy.\n- Prepare your mini oven or standard kitchen oven by setting the preheat temperature to a steady **190 °C**.",
+      "_key": "recipe-section-5"
+    },
+    {
+      "title": "2. Compile the Dry Foundation",
+      "body": "- Weigh out and add 33 g of Dutch-processed cocoa powder directly into the bowl. Because the cookie dough is remarkably wet, you do not need to sift it beforehand; any tiny cocoa lumps will melt out easily during mixing.\n- Weigh and add 120 g of all-purpose flour to the cocoa.\n- Add 2.5 mL of sea salt, 3 g of baking soda, and 7 g of cornstarch. Including cornstarch is a crucial baking trick that blocks excessive gluten development, guaranteeing a gooey texture that stays soft long after baking.",
+      "_key": "recipe-section-6"
+    },
+    {
+      "title": "3. Introduce the Sweeteners and Fats",
+      "body": "- Pour 66 g of white granulated sugar and 110 g of brown sugar straight over the flour. Using a higher ratio of brown sugar adds an extra layer of moisture and deep caramel undertones.\n- Measure and pour 45 g of pure maple syrup into the bowl to enhance the gooeyness of the dough.\n- Stream in 113 g of melted brown butter, ensuring you capture all the nutty, toasted milk solids from the bottom of your pan.\n- Crack your 2 large eggs cleanly into the mixture.\n- Measure out and add your 10 mL of vanilla paste.",
+      "_key": "recipe-section-7"
+    },
+    {
+      "title": "4. Throw in the Chocolate and Mix",
+      "body": "- Dump 100 g of coarsely chopped chocolate bars or chunks directly into the wet bowl.\n- *Flavor Enhancer Hack:* If you want to intensify the chocolate profile to an even higher level, you can choose to fold a splash of brewed coffee or espresso powder into the wet dough during this stage.\n- Grab a standard electric hand mixer. You can comfortably use a heavy stand mixer or even a simple baking spatula to pull this together by hand, as the dough forms rapidly without mechanical assistance.\n- Mix on a low speed setting just until the dry powders absorb the wet butter and syrup, forming a completely cohesive, uniform, and glossy cookie dough.",
+      "_key": "recipe-section-8"
+    },
+    {
+      "title": "5. Scoop and Freeze the Dough",
+      "body": "- Lay a sheet of parchment paper over a clean baking tray or dish.\n- Grab a large 57 g cookie scoop. Avoid using a standard giant 113 g ice cream scoop, as smaller portions ensure a better bake-to-gooey-center ratio.\n- Plunge the scoop into the rich chocolate dough and drop even mounds onto your prepared sheet, yielding roughly 10 cookies in total.\n- **Mandatory Step:** Transfer the tray of scooped cookie dough directly into the freezer. Because the brown butter and maple syrup create a relaxed, highly fluid dough, you cannot bake them straight away. Freezing the portioned dough prevents the cookies from flattening out into thin discs in the oven, keeping them beautifully thick.",
+      "_key": "recipe-section-9"
+    },
+    {
+      "title": "6. Bake and Reveal",
+      "body": "- Slide the frozen cookie dough balls directly into your preheated oven at **190 °C**.\n- Bake the cookies continuously. They require a swift baking duration inside the oven to cook perfectly.\n- Remove the tray from the oven. The cookies will look extraordinarily shiny and feel incredibly delicate. Let them sit undisturbed on the hot baking sheet for a few minutes to let the fudgy structure set up safely before handling. Serve warm while the chocolate chunks remain melted, molten, and beautifully gooey.",
+      "_key": "recipe-section-10"
+    }
+  ],
+  "notes": ""
+}

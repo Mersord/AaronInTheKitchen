@@ -1,0 +1,51 @@
+{
+  "title": "Lemon Pound Cake",
+  "nav_title": "Lemon Pound Cake",
+  "category": "desserts",
+  "published": true,
+  "order": 33,
+  "description": "",
+  "servings": "",
+  "prep_minutes": null,
+  "cook_minutes": null,
+  "video_url": "https://www.youtube.com/watch?v=kgUVm9wVgRA",
+  "image": "assets/images/recipes/lemon-pound-cake.svg",
+  "image_alt": "",
+  "ingredient_groups": [
+    {
+      "title": "For the Cake Batter",
+      "body": "- **All-purpose flour:** 240 g\n- **Baking powder:** 7 g\n- **Sea salt:** 5 mL\n- **Butter:** 250 g (cold) ([**5:48**](https://www.youtube.com/watch?v=kgUVm9wVgRA&t=348s))\n- **Granulated white sugar:** 100 g\n- **Brown sugar:** 150 g\n- **Fresh lemons:** 2 lemons (to get 44.5 mL of zest) ([**0:22**](https://www.youtube.com/watch?v=kgUVm9wVgRA&t=22s))\n- **Whole milk:** 120 mL\n- **Eggs:** 4 large eggs\n- **Dark maple syrup:** 80 mL (the secret twist!) ([**8:30**](https://www.youtube.com/watch?v=kgUVm9wVgRA&t=510s))\n\n**For the Quick Lemon Glaze:**\n\n- **Powdered sugar:** 120 g ([**10:18**](https://www.youtube.com/watch?v=kgUVm9wVgRA&t=618s))\n- **Whole milk:** 10 mL ([**10:31**](https://www.youtube.com/watch?v=kgUVm9wVgRA&t=631s))\n- **Fresh lemon juice:** 15 mL ([**10:31**](https://www.youtube.com/watch?v=kgUVm9wVgRA&t=631s))",
+      "_key": "recipe-section-1",
+      "items": [],
+      "after_step": 0
+    }
+  ],
+  "steps": [
+    {
+      "title": "Step 1: Prep and Zesting",
+      "body": "- Preheat your oven to 175 °C ([**8:08**](https://www.youtube.com/watch?v=kgUVm9wVgRA&t=488s)).\n- Zest the outer yellow layer of 2 fresh lemons until you have 44.5 mL of zest ([**0:22**](https://www.youtube.com/watch?v=kgUVm9wVgRA&t=22s)).\n- *Tip:* Use a microplane upside down to collect the zest on top ([**1:37**](https://www.youtube.com/watch?v=kgUVm9wVgRA&t=97s)), and avoid grating into the bitter white pith ([**0:33**](https://www.youtube.com/watch?v=kgUVm9wVgRA&t=33s)).",
+      "_key": "recipe-section-3"
+    },
+    {
+      "title": "Step 2: Make the Lemon Sugar",
+      "body": "- Weigh 100 g of white granulated sugar and 150 g of brown sugar into a bowl ([**3:32**](https://www.youtube.com/watch?v=kgUVm9wVgRA&t=212s)).\n- Add the lemon zest directly into the sugar mixture ([**2:02**](https://www.youtube.com/watch?v=kgUVm9wVgRA&t=122s)).\n- Rub the zest and sugars thoroughly between your hands (or pulse in a food processor) until the texture resembles wet sand ([**2:11**](https://www.youtube.com/watch?v=kgUVm9wVgRA&t=131s)). This releases the essential oils from the zest for an explosive flavor ([**2:16**](https://www.youtube.com/watch?v=kgUVm9wVgRA&t=136s)).",
+      "_key": "recipe-section-4"
+    },
+    {
+      "title": "Step 3: Reverse Creaming & Batter MixAdd",
+      "body": "- Add 250 g of cold butter into the lemon sugar and cream them together ([**5:32**](https://www.youtube.com/watch?v=kgUVm9wVgRA&t=332s)).\n- Add 240 g of all-purpose flour, 7 g of baking powder, and 5 mL of sea salt ([**6:43**](https://www.youtube.com/watch?v=kgUVm9wVgRA&t=403s)).\n- Pour in 120 mL of whole milk, crack in 4 large eggs, and add the special 80 mL twist of dark maple syrup ([**7:20**](https://www.youtube.com/watch?v=kgUVm9wVgRA&t=440s)).\n- Mix everything until just combined, ensuring you scrape any remaining flour from the edges of the bowl ([**9:09**](https://www.youtube.com/watch?v=kgUVm9wVgRA&t=549s)).",
+      "_key": "recipe-section-5"
+    },
+    {
+      "title": "Step 4: Fill and Bake",
+      "body": "- Generously spray a bundt pan (a silicone bundt mold helps prevent cracking) or a standard loaf pan ([**8:46**](https://www.youtube.com/watch?v=kgUVm9wVgRA&t=526s)).\n- Pour the batter in and tap the pan against the counter to distribute it evenly ([**9:14**](https://www.youtube.com/watch?v=kgUVm9wVgRA&t=554s)).\n- Bake at 175 °C for exactly 1 hour ([**8:08**](https://www.youtube.com/watch?v=kgUVm9wVgRA&t=488s)). Let it cool down after baking.",
+      "_key": "recipe-section-6"
+    },
+    {
+      "title": "Step 5: Glaze and Assemble",
+      "body": "- In a small bowl, combine 120 g of powdered sugar, 10 mL of whole milk, and 15 mL of fresh lemon juice ([**10:18**](https://www.youtube.com/watch?v=kgUVm9wVgRA&t=618s)).\n- Whisk with a fork or mini whisk until it forms a thick, smooth glaze ([**11:08**](https://www.youtube.com/watch?v=kgUVm9wVgRA&t=668s)).\n- Drizzle the glaze over the top of the cooled pound cake, letting it run beautifully down the sides.",
+      "_key": "recipe-section-7"
+    }
+  ],
+  "notes": ""
+}

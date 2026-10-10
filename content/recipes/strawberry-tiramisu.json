@@ -1,0 +1,60 @@
+{
+  "title": "Strawberry Tiramisu",
+  "nav_title": "Strawberry Tiramisu",
+  "category": "desserts",
+  "published": true,
+  "order": 16,
+  "description": "",
+  "servings": "",
+  "prep_minutes": null,
+  "cook_minutes": null,
+  "video_url": "https://www.youtube.com/watch?v=g99SxNluZPs",
+  "image": "assets/images/recipes/strawberry-tiramisu.svg",
+  "image_alt": "",
+  "ingredient_groups": [
+    {
+      "title": "Strawberry Base (for Maceration & Dipping)",
+      "body": "- **Strawberries**: Diced small\n- **Water**: 473 mL\n- **Gin or Vodka**: 5 mL (used to help with maceration, though water can be used instead)\n- **Sugar**: 37 g",
+      "_key": "recipe-section-1",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "Cream Mixture",
+      "body": "- **Egg Yolks**: 6 large egg yolks\n- **Sugar**: 200 g (can be reduced to 150 g or 100 g for less sweetness)\n- **Heavy Cream**: 473 mL\n- **Mascarpone Cheese**: 500 g\n- **Vanilla Extract**: To taste (Aaron uses homemade vanilla with vanilla beans)",
+      "_key": "recipe-section-2",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "Assembly & Topping",
+      "body": "- **Ladyfingers**\n- **Strawberry Jam**: Optional, for topping (I used thawed, homemade jam)",
+      "_key": "recipe-section-3",
+      "items": [],
+      "after_step": 0
+    }
+  ],
+  "steps": [
+    {
+      "title": "Step 1: Macerate the Strawberries",
+      "body": "1. **Dice the strawberries** into small pieces.\n2. **Prepare the liquid**: In a bowl, combine 473 mL of water with 5 mL of gin or vodka.\n3. **Add sugar**: Mix 37 g of sugar into the liquid to help the strawberries release their juices.\n4. **Macerate**: Submerge the diced strawberries into the liquid and set the bowl aside to let the juices form. This liquid will be used to dip the ladyfingers later.",
+      "_key": "recipe-section-5"
+    },
+    {
+      "title": "Step 2: Cook the Egg Base",
+      "body": "1. **Whisk eggs and sugar**: In a bowl, whisk 6 egg yolks with 200 g of sugar until combined.\n2. **Cook the mixture**: Transfer the mixture into a pot over a stovetop.\n3. **Whisk constantly**: Cook the mixture continuously until it thickens and the color transforms from a deep orange to a pale yellow. *(Note: Aaron recommends using a double boiler instead of direct heat to prevent the eggs from accidentally scrambling).*\n4. **Strain (if needed)**: Remove from heat. If any parts of the egg scrambled during cooking, pour the mixture through a sifter/strainer into a clean bowl to remove the lumps.",
+      "_key": "recipe-section-6"
+    },
+    {
+      "title": "Step 3: Whip the Cream & Mascarpone",
+      "body": "1. **Whip the cream**: In a stand mixer or large bowl, whip 473 mL of heavy cream until it reaches stiff peaks.\n2. **Add mascarpone**: Add 500 g of mascarpone cheese to the whipped cream and mix to combine.\n3. **Incorporate eggs**: Add the cooled, strained egg yolk mixture into the cream.\n4. **Flavor**: Add vanilla extract to the bowl. Scrape down the sides and mix everything until smooth and fully incorporated.",
+      "_key": "recipe-section-7"
+    },
+    {
+      "title": "Step 4: Assemble the Tiramisu",
+      "body": "1. **Taste check**: Taste your strawberry maceration juice. If it isn't sweet enough for your preference, mix in a little more sugar.\n2. **Dip the ladyfingers**: Take a ladyfinger, quickly dip it into the strawberry juice, flip it, and take it out immediately. Do not leave it in the juice for too long, or it will become soggy.\n3. **Layer**: Arrange the dipped ladyfingers into the bottom of your serving dish to form the base layer, and proceed to alternate layers with the cream mixture, macerated strawberry pieces, and optional strawberry jam on top.",
+      "_key": "recipe-section-8"
+    }
+  ],
+  "notes": ""
+}

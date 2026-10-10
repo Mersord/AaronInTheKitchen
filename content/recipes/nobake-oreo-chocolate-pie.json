@@ -1,0 +1,73 @@
+{
+  "title": "NO BAKE Oreo Chocolate Pie",
+  "nav_title": "NoBake Oreo Chocolate Pie",
+  "category": "desserts",
+  "published": true,
+  "order": 26,
+  "description": "",
+  "servings": "",
+  "prep_minutes": null,
+  "cook_minutes": null,
+  "video_url": "https://www.youtube.com/watch?v=zUPJI686nUE",
+  "image": "assets/images/recipes/nobake-oreo-chocolate-pie.svg",
+  "image_alt": "",
+  "ingredient_groups": [
+    {
+      "title": "The Cookie Crust",
+      "body": "- **Crushed Oreo cookies**: 300 g *(Note: You can scale this up to 450 g if you prefer a thicker crust or want extra pieces mixed into the pie filling)*\n- **Melted butter**: 60 g",
+      "_key": "recipe-section-1",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "The Chocolate Custard Filling",
+      "body": "- **Egg yolks**: 4 large yolks\n- **Granulated sugar**: 300 g\n- **Whole milk**: 350 mL\n- **Dutch-processed cocoa powder**: 50 g *(Standard cocoa powder can be used as a direct substitute based on what you have in your pantry)*\n- **All-purpose flour**: 30 g *(Serves as an initial thickening agent along with the egg yolks)*\n- **Sea salt**: 7 g *(An essential addition to enhance the flavors and ensure the dessert does not taste bland)*\n- **Dark chocolate bar (85% cacao)**: 50 g *(Acts as an extra structural stabilizer for the chilled pie)*\n\n*Alternative Thickening Option: If you want to skip the dark chocolate bar entirely, replace the 30 g of flour with* ***60 g of cornstarch*** *to achieve the same stable, thick slice.*",
+      "_key": "recipe-section-2",
+      "items": [],
+      "after_step": 0
+    }
+  ],
+  "steps": [
+    {
+      "title": "1. Crush the Cookies for the Crust",
+      "body": "- Weigh out 300 g of Oreo cookies.\n- Transfer the whole cookies into a heavy plastic storage bag.\n- Use a kitchen mallet or rolling pin to smash the cookies down into fine, uniform crumbs. Alternatively, you can pulse the cookies in a food processor to speed up the process and achieve an even finer texture.\n- Pour the finely crushed cookie crumbs into a clean mixing bowl.",
+      "_key": "recipe-section-4"
+    },
+    {
+      "title": "2. Mix and Press the Pie Crust",
+      "body": "- Place the bowl of crumbs onto a digital kitchen scale and weigh out exactly 60 g of melted butter.\n- Stir the melted butter into the cookie crumbs thoroughly until the mixture resembles wet sand and begins to clump together. *Pro tip: Always take your bowl off the scale before mixing to avoid throwing the internal mechanism out of balance.*\n- Transfer the buttery cookie mixture directly into a standard pie tin.\n- Use your hands or the bottom of a flat glass to press the crumbs firmly and evenly across the bottom and up the sides of the tin. Ensure it is tightly packed so it holds its shape cleanly when sliced later.",
+      "_key": "recipe-section-5"
+    },
+    {
+      "title": "3. Chill the Cookie Foundation",
+      "body": "- Place the assembled pie tin uncovered into your refrigerator or freezer.\n- Allow the crust to sit undisturbed. This resting window lets the melted butter solidify, locking the cookie crumbs into a sturdy, stable crust shell.",
+      "_key": "recipe-section-6"
+    },
+    {
+      "title": "4. Separate the Eggs",
+      "body": "- Crack your eggs one by one over a small bowl, carefully separating the whites from the yolks.\n- Collect 4 intact egg yolks and set them aside. The whites can be saved in a separate container in the fridge for future baking projects.",
+      "_key": "recipe-section-7"
+    },
+    {
+      "title": "5. Combine the Dry and Wet Ingredients",
+      "body": "- Place your cooking pot directly onto a digital scale. *(Note: You can reuse the same pot used to melt your butter earlier to save on dishwashing).*\n- Weigh out 300 g of granulated sugar, 30 g of all-purpose flour, and 7 g of sea salt directly into the cold pot.\n- Weigh and add 50 g of Dutch-processed cocoa powder. Sifting the cocoa powder is not necessary, as the liquid whisking process on the stove will naturally break up any stubborn clumps.\n- Drop the 4 separated egg yolks directly into the dry mixture.\n- Measure and pour 350 mL of whole milk over the top of the ingredients.",
+      "_key": "recipe-section-8"
+    },
+    {
+      "title": "6. Cook the Chocolate Custard",
+      "body": "- Place the pot onto your stovetop burner and dial the heat down to a low setting.\n- Begin stirring the mixture immediately using a narrow French whisk, which works best for scraping into the sharp lower corners of a saucepan.\n- Whisk continuously and maintain patience. **Do not turn the heat up to high**, as chocolate scorched on the bottom of a pan cannot be saved and will ruin the entire batch.\n- Keep stirring until the sugar dissolves completely and the mixture forms a completely smooth, glossy liquid that smells like rich hot chocolate.",
+      "_key": "recipe-section-9"
+    },
+    {
+      "title": "7. Thicken the Filling and Melt the Chocolate",
+      "body": "- Continue whisking the custard over low to medium-low heat. You will slowly begin to feel a distinct physical resistance against your whisk as the flour and egg yolks cook and thicken the liquid.\n- Once the chocolate custard thickens to a heavy, pudding-like consistency and starts releasing steam and bubbles, immediately turn off the stove burner.\n- Drop 50 g of finely broken pieces from your 85% dark chocolate bar directly into the hot pudding.\n- Whisk the hot custard off the heat until the dark chocolate bar melts completely and integrates into a thick, ultra-stable filling.",
+      "_key": "recipe-section-10"
+    },
+    {
+      "title": "8. Fill the Crust and Freeze",
+      "body": "- Remove your chilled Oreo pie crust from the refrigerator or freezer.\n- Carefully pour the hot, thick chocolate custard filling straight into the center of the set crust.\n- Use a silicone spatula or an offset knife to smooth out the top surface of the chocolate layer, spreading it evenly out to the perimeter to cleanly cover the edges of the cookie crust.\n- *(Optional: If you reserved extra crushed cookie pieces earlier, scatter them across the top of the smooth chocolate layer now for added visual texture).*\n- Set the filled pie uncovered into the freezer to chill rapidly.\n- Let the pie chill thoroughly to ensure the center sets firmly enough to slice cleanly. Serve cold straight from the freezer.",
+      "_key": "recipe-section-11"
+    }
+  ],
+  "notes": ""
+}

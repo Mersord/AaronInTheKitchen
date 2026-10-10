@@ -1,0 +1,92 @@
+{
+  "title": "Biscoff Salted Caramel Banana Pudding",
+  "nav_title": "Caramel Banana Pudding",
+  "category": "desserts",
+  "published": true,
+  "order": 23,
+  "description": "",
+  "servings": "",
+  "prep_minutes": null,
+  "cook_minutes": null,
+  "video_url": "https://www.youtube.com/watch?v=iqZ4yUoqXOQ",
+  "image": "assets/images/recipes/caramel-banana-pudding.svg",
+  "image_alt": "",
+  "ingredient_groups": [
+    {
+      "title": "The Homemade Pudding Custard",
+      "body": "- **Evaporated milk**: 680 g ([**1:17**](https://www.youtube.com/watch?v=iqZ4yUoqXOQ&t=77s))\n- **Brown sugar**: 400 g *(Used for a richer, deeper flavor than white sugar)* ([**1:08**](https://www.youtube.com/watch?v=iqZ4yUoqXOQ&t=68s))\n- **Large egg yolks**: 6 yolks\n- **Cornstarch**: 30 g ([**0:15**](https://www.youtube.com/watch?v=iqZ4yUoqXOQ&t=15s)) *(Note: The video description mistakenly lists all-purpose flour, but Aaron explicitly measures and uses cornstarch to thicken the scratch-made base)* ([**0:15**](https://www.youtube.com/watch?v=iqZ4yUoqXOQ&t=15s))\n- **Butter**: 57 g\n- **Vanilla paste**: 5 mL",
+      "_key": "recipe-section-1",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "The Light Whipped Cream Fold-In",
+      "body": "- **Heavy whipping cream**: 237–473 mL\n- **Vanilla paste**: 5 mL",
+      "_key": "recipe-section-2",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "The Salted Caramel Sauce",
+      "body": "- **Granulated sugar**: 300 g\n- **Butter**: 187 g (Ideally a rich European-style butter like Kerrygold to reduce popping) ([**9:26**](https://www.youtube.com/watch?v=iqZ4yUoqXOQ&t=566s))\n- **Heavy cream**: 250 mL ([**1:31**](https://www.youtube.com/watch?v=iqZ4yUoqXOQ&t=91s))\n- **Sea salt**: 5 mL",
+      "_key": "recipe-section-3",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "The Layering Inclusions",
+      "body": "- **Bananas**: 6 small bananas ([**18:12**](https://www.youtube.com/watch?v=iqZ4yUoqXOQ&t=1092s))\n- **Lotus Biscoff cookies**: 1 package ([**17:56**](https://www.youtube.com/watch?v=iqZ4yUoqXOQ&t=1076s)) *(An excellent alternative if you live somewhere like Austria where standard Nilla wafers aren't available)* ([**17:48**](https://www.youtube.com/watch?v=iqZ4yUoqXOQ&t=1068s))",
+      "_key": "recipe-section-4",
+      "items": [],
+      "after_step": 0
+    }
+  ],
+  "steps": [
+    {
+      "title": "Step 1: Prep a Cold Mixing Bowl",
+      "body": "- Place a metal mixing bowl straight into the fridge or freezer ([**3:49**](https://www.youtube.com/watch?v=iqZ4yUoqXOQ&t=229s)). Whipping cream succeeds best when both the equipment and cream are icy cold ([**3:57**](https://www.youtube.com/watch?v=iqZ4yUoqXOQ&t=237s)).",
+      "_key": "recipe-section-6"
+    },
+    {
+      "title": "Step 2: Start the Pudding Liquid",
+      "body": "- Set a heavy pot over medium heat ([**0:45**](https://www.youtube.com/watch?v=iqZ4yUoqXOQ&t=45s)). Pour in 400 g of brown sugar, 500 mL of evaporated milk, and 237 mL of heavy cream ([**0:54**](https://www.youtube.com/watch?v=iqZ4yUoqXOQ&t=54s)). Whisk together and bring the mixture to a boil ([**5:20**](https://www.youtube.com/watch?v=iqZ4yUoqXOQ&t=320s)).",
+      "_key": "recipe-section-7"
+    },
+    {
+      "title": "Step 3: Mix the Egg Base and Temper",
+      "body": "- In a separate bowl, whisk your 6 egg yolks with 30 g of cornstarch until smooth ([**0:38**](https://www.youtube.com/watch?v=iqZ4yUoqXOQ&t=38s)). Once your milk mixture boils, turn off the heat ([**5:42**](https://www.youtube.com/watch?v=iqZ4yUoqXOQ&t=342s)). Slowly drizzle a few splashes of the hot liquid into the eggs while whisking vigorously ([**6:33**](https://www.youtube.com/watch?v=iqZ4yUoqXOQ&t=393s)). This tempers the eggs so you do not accidentally scramble them ([**6:45**](https://www.youtube.com/watch?v=iqZ4yUoqXOQ&t=405s)).",
+      "_key": "recipe-section-8"
+    },
+    {
+      "title": "Step 4: Thicken and Strain the Custard",
+      "body": "- Pour the tempered egg mixture back into the main pot ([**7:30**](https://www.youtube.com/watch?v=iqZ4yUoqXOQ&t=450s)). Stir as the residual heat cooks down and visibly thickens the pudding ([**7:42**](https://www.youtube.com/watch?v=iqZ4yUoqXOQ&t=462s)). Remove from the stove and melt in 57 g of butter ([**8:28**](https://www.youtube.com/watch?v=iqZ4yUoqXOQ&t=508s)). Stir in 5 mL of vanilla paste ([**12:24**](https://www.youtube.com/watch?v=iqZ4yUoqXOQ&t=744s)). Press the pudding through a fine mesh strainer into a bowl to ensure an ultra-smooth finish ([**12:11**](https://www.youtube.com/watch?v=iqZ4yUoqXOQ&t=731s)), then set it aside to chill ([**11:59**](https://www.youtube.com/watch?v=iqZ4yUoqXOQ&t=719s)).",
+      "_key": "recipe-section-9"
+    },
+    {
+      "title": "Step 5: Melt the Caramel Sugar",
+      "body": "- In a separate pot over medium heat, add 300 g of regular granulated sugar ([**2:09**](https://www.youtube.com/watch?v=iqZ4yUoqXOQ&t=129s)). Let it sit undisturbed until the sugar melts down into a golden amber liquid ([**4:11**](https://www.youtube.com/watch?v=iqZ4yUoqXOQ&t=251s)). Scrape the sides occasionally so it does not burn ([**6:26**](https://www.youtube.com/watch?v=iqZ4yUoqXOQ&t=386s)).",
+      "_key": "recipe-section-10"
+    },
+    {
+      "title": "Step 6: Finish the Salted Caramel Sauce",
+      "body": "- Turn off the heat and drop 187 g of butter into the amber sugar ([**8:51**](https://www.youtube.com/watch?v=iqZ4yUoqXOQ&t=531s)). Once the butter melts, pour in 237 mL of heavy cream and 5 mL of sea salt ([**10:31**](https://www.youtube.com/watch?v=iqZ4yUoqXOQ&t=631s)). It will bubble up fiercely but keep stirring until it forms a unified sauce ([**9:26**](https://www.youtube.com/watch?v=iqZ4yUoqXOQ&t=566s)). Run the caramel through a clean strainer, transfer it to a jar, and let it cool ([**10:49**](https://www.youtube.com/watch?v=iqZ4yUoqXOQ&t=649s)).",
+      "_key": "recipe-section-11"
+    },
+    {
+      "title": "Step 7: Whip the Cream and Fold",
+      "body": "Retrieve your frozen metal bowl ([**14:36**](https://www.youtube.com/watch?v=iqZ4yUoqXOQ&t=876s)). Add your heavy cream and 5 mL of vanilla paste ([**14:46**](https://www.youtube.com/watch?v=iqZ4yUoqXOQ&t=886s)), then whip until soft-to-medium peaks form ([**14:57**](https://www.youtube.com/watch?v=iqZ4yUoqXOQ&t=897s)). Pull your chilled pudding base out of the freezer and gently fold the whipped cream into it a little at a time ([**15:40**](https://www.youtube.com/watch?v=iqZ4yUoqXOQ&t=940s)). This incorporates air, making the pudding beautifully light and fluffy ([**14:30**](https://www.youtube.com/watch?v=iqZ4yUoqXOQ&t=870s)).",
+      "_key": "recipe-section-12"
+    },
+    {
+      "title": "Step 8: Chop the Bananas",
+      "body": "Peel your bananas and slice them ([**16:52**](https://www.youtube.com/watch?v=iqZ4yUoqXOQ&t=1012s)). Cutting them on a slight diagonal yields great, chunky bites for the final assembly ([**18:21**](https://www.youtube.com/watch?v=iqZ4yUoqXOQ&t=1101s)).",
+      "_key": "recipe-section-13"
+    },
+    {
+      "title": "Step 9: Layer, Chill, and Serve",
+      "body": "- Grab a glass serving dish ([**20:15**](https://www.youtube.com/watch?v=iqZ4yUoqXOQ&t=1215s)). Lay down a foundation layer of Biscoff cookies, followed by a layer of diagonal banana slices ([**18:33**](https://www.youtube.com/watch?v=iqZ4yUoqXOQ&t=1113s)). Drizzle a generous amount of your homemade salted caramel right over the fruit, and then spread a thick layer of the fluffy pudding over the top ([**19:01**](https://www.youtube.com/watch?v=iqZ4yUoqXOQ&t=1141s)). Repeat the layering process until the dish is filled ([**19:13**](https://www.youtube.com/watch?v=iqZ4yUoqXOQ&t=1153s)). Place the completed dish into the freezer or fridge to chill completely before serving ([**20:11**](https://www.youtube.com/watch?v=iqZ4yUoqXOQ&t=1211s)).",
+      "_key": "recipe-section-14"
+    }
+  ],
+  "notes": ""
+}

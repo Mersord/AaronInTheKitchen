@@ -1,0 +1,88 @@
+{
+  "title": "Banana Cake",
+  "nav_title": "Banana Cake",
+  "category": "desserts",
+  "published": true,
+  "order": 28,
+  "description": "",
+  "servings": "",
+  "prep_minutes": null,
+  "cook_minutes": null,
+  "video_url": "https://www.youtube.com/watch?v=evdNbP5v2TM",
+  "image": "assets/images/recipes/banana-cake.svg",
+  "image_alt": "",
+  "ingredient_groups": [
+    {
+      "title": "The Cake Batter",
+      "body": "- **Ripe bananas**: 5 whole bananas *(Choose overripe, highly fragrant bananas for the most intense flavor)*\n- **Whole milk**: 123.6 g *(Can be substituted with heavy cream for added richness)*\n- **Lemon juice**: 15 g *(Freshly squeezed; provides the acidity required to react with the baking soda)*\n- **All-purpose flour**: 420 g\n- **Ground cinnamon**: 5 mL\n- **Maple syrup**: 160 g *(Light or dark variant depending on your preferred depth of flavor)*\n- **Toasted walnuts**: 75 g *(Roughly chopped; can be substituted with pecans or hazelnuts)*\n- **Ground cardamom**: 5 mL\n- **Ground nutmeg**: 2.5 mL\n- **Baking soda**: 9 g\n- **Sea salt**: 5 mL\n- **Unsalted butter**: 227 g *(Melted down and deeply browned to create an enhanced, nutty profile)*\n- **Granulated sugar**: 300 g\n- **Brown sugar**: 220 g *(Adds a natural caramelly flavor to the cake)*\n- **Large eggs**: 4 eggs\n- **Vanilla paste**: 15 mL *(Vanilla extract can be used as a standard alternative)*",
+      "_key": "recipe-section-1",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "The Maple Cream Cheese Frosting",
+      "body": "- **Cream cheese**: 227 g *(Standard pack, left out to soften completely)*\n- **Unsalted butter**: 113 g *(Melted brown butter)*\n- **Vanilla paste**: 10 mL\n- **Powdered sugar**: 450–585 g\n- **Maple syrup**: 80 g",
+      "_key": "recipe-section-2",
+      "items": [],
+      "after_step": 0
+    }
+  ],
+  "steps": [
+    {
+      "title": "1. Toast and Chop the Walnuts",
+      "body": "- Measure out your 75 g of walnuts and spread them evenly across a dry baking sheet.\n- Preheat your oven to **177 °C**.\n- Slide the tray inside and toast the nuts until they become fragrant and lightly golden.\n- Transfer the toasted walnuts to a clean cutting board. Use a sharp chef's knife to rough-chop them down into small, bite-sized pieces to scatter through the batter. Set them aside in a prep container.",
+      "_key": "recipe-section-4"
+    },
+    {
+      "title": "2. Squeeze the Citrus Base",
+      "body": "- Set up a small clean bowl on your digital kitchen scale.\n- Take a fresh lemon, slice it directly in half, and use a manual kitchen juicer to squeeze out the liquid.\n- Filter out any stray seeds and weigh exactly 15 g of the fresh juice into your bowl, leaving it nearby to activate your leavening agents later.",
+      "_key": "recipe-section-5"
+    },
+    {
+      "title": "3. Brown the Butter",
+      "body": "- Place a light-colored saucepan or white pot over high heat on your stovetop. *Pro Tip: Utilizing light-colored cookware is an essential defense against burning, as dark pans make it nearly impossible to visually track the color changes of the milk solids.*\n- Melt your 227 g of unsalted butter completely.\n- Keep the pan on the burner as it climbs to a rapid boil and begins bubbling heavily. Whisk constantly and do not leave the stove.\n- Watch for the bright yellow butter to shift into a deep amber-brown tint as dark speckles form at the bottom. As soon as it smells strongly of toasted nuts, pull the pot off the hot burner entirely and let it cool.",
+      "_key": "recipe-section-6"
+    },
+    {
+      "title": "4. Process the Overripe Bananas",
+      "body": "- Peel your 5 overripe bananas and drop the fruit into a wide, stable mixing bowl.\n- Take a standard stainless steel potato ricer or potato masher to crush the fruit down.\n- Press firmly to extrude the bananas until you achieve a completely smooth, fluid purée that smells intensely fragrant.",
+      "_key": "recipe-section-7"
+    },
+    {
+      "title": "5. Compile the Liquid Batter Ingredients",
+      "body": "- Zero out your digital kitchen scale with the banana bowl resting on top.\n- Pour 123.6 g of whole milk and your 15 g of pre-squeezed fresh lemon juice directly into the puréed bananas.\n- Add 160 g of pure maple syrup into the same wet pool. Whisk the wet ingredients together briefly until combined, then set the bowl aside.",
+      "_key": "recipe-section-8"
+    },
+    {
+      "title": "6. Whisk the Seasoned Dry Base",
+      "body": "- In a secondary large mixing bowl, compile the structural dry components of the cake.\n- Weigh and add 420 g of all-purpose flour, 5 mL of ground cinnamon, 5 mL of ground cardamom, and 2.5 mL of ground nutmeg.\n- Add 5 mL of sea salt and exactly 9 g of baking soda. Whisk all the dry elements together until uniform.",
+      "_key": "recipe-section-9"
+    },
+    {
+      "title": "7. Build the Sugar and Butter Cream Base",
+      "body": "- Set up your stand mixer fitted with the paddle attachment.\n- Pour 300 g of white granulated sugar and 220 g of rich brown sugar directly into the mixer bowl.\n- Pour your 227 g of cooled brown butter over the sugars, making sure to scrape out all the toasted dark flecks from the bottom of the pan.\n- Turn the mixer on a low speed setting to combine the fat and sugars cleanly.\n- Crack your 4 large eggs into the bowl one at a time while mixing, followed by 15 mL of your vanilla paste.\n- Add the dry flour and spice mixture into the bowl, letting the machine turn until a very thick dough forms. Stop and perform a thorough scrape down of the sides and base of the bowl with a rubber spatula.",
+      "_key": "recipe-section-10"
+    },
+    {
+      "title": "8. Finalize the Banana Cake Batter",
+      "body": "- Turn the mixer back on low and pour in half of your reserved banana and milk mixture to loosen up the thick dough.\n- Pour in the remaining half of the wet fruit purée along with the 75 g of chopped toasted walnuts.\n- Mix until a smooth, pourable batter forms. **Do not overmix the cake batter once the liquids are in**, as over-agitating develops excess gluten, making the finished cake tough instead of soft and gooey. Complete the final folds gently by hand using your spatula.",
+      "_key": "recipe-section-11"
+    },
+    {
+      "title": "9. Prepare the Cake Pans and Bake",
+      "body": "- Confirm your oven is holding a steady heat floor of **177 °C**.\n- Take two 20.3 cm round metal cake pans, line the bases with precut parchment paper rounds, and coat the interior surfaces generously with non-stick baking spray.\n- Pour the batter evenly between the two prepared tins, using a kitchen scale to ensure both pans carry an identical weight for uniform baking.\n- *Optional Moisture Hack:* Wrap wet fabric cake strips securely around the exterior perimeter of both cake pans before baking to prevent a high dome from forming and keep the edges soft.\n- Place the pans into the oven and bake at **177 °C**. Do not open the oven door early. The cakes are fully cooked when a toothpick inserted into the center emerges clean; remove them and let them cool completely down to room temperature.",
+      "_key": "recipe-section-12"
+    },
+    {
+      "title": "10. Whip the Maple Frosting",
+      "body": "- In a clean mixing bowl, place 227 g of completely softened cream cheese and 113 g of melted unsalted brown butter.\n- Add 10 mL of vanilla paste and 80 g of maple syrup.\n- Add an initial 450 g of sifted powdered sugar into the bowl.\n- Turn your hand mixer or stand mixer onto a low speed to incorporate the sugar slowly without creating a white cloud.\n- Increase the speed and beat the frosting thoroughly until it turns completely smooth, silky, and fluffy. Add up to 585 g of powdered sugar if needed to achieve a stable spreadability.",
+      "_key": "recipe-section-13"
+    },
+    {
+      "title": "11. Assemble and Decorate the Layer Cake",
+      "body": "- Ensure your baked banana cake rounds are perfectly cool to the touch before assembling. *Note: Because the crumb structure is remarkably moist and gooey, do not attempt to slice the rounds horizontally into four layers while fresh, as they will tear; if you want more layers, freeze the rounds first to firm them up.*\n- Place your first solid 20.3 cm cake layer flat onto a serving platter or rotating turntable.\n- Spoon a heavy portion of the maple cream cheese frosting directly onto the center of the cake. Use an offset spatula to push the frosting cleanly out to the edges.\n- Align the second cake layer cleanly over the frosted base, pressing down lightly to secure the assembly.\n- Spread the remaining frosting smoothly across the top surface of the cake, leaving the outer vertical sides lightly exposed for a beautiful rustic \"naked cake\" presentation. Slice with a sharp knife and serve fresh.",
+      "_key": "recipe-section-14"
+    }
+  ],
+  "notes": ""
+}

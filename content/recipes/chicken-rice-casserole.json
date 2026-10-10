@@ -1,0 +1,58 @@
+{
+  "title": "Cheesy Chicken Broccoli Rice Casserole",
+  "nav_title": "Chicken & Rice Casserole",
+  "category": "main-dishes",
+  "published": true,
+  "order": 13,
+  "description": "",
+  "servings": "",
+  "prep_minutes": null,
+  "cook_minutes": null,
+  "video_url": "https://www.youtube.com/watch?v=WCQbpbvX_Kk",
+  "image": "assets/images/recipes/chicken-rice-casserole.svg",
+  "image_alt": "",
+  "ingredient_groups": [
+    {
+      "title": "For the Casserole Base",
+      "body": "- **Dry rice:** 500 g\n- **Frozen broccoli:** 750 g\n- **Chicken bouillon cubes:** 2 cubes\n- **Boiling hot water:** 473 mL\n- **Whole milk:** 473 mL\n- **Cheddar cheese:** 200 g (shredded)\n- **Base Seasonings:** 29.5 mL each of garlic powder, onion powder, creole seasoning, steak seasoning, and \"Slap Ya Mama\" Cajun seasoning. Plus 15 mL each of rosemary and oregano, and 10 mL of black pepper. *Note: No extra salt is added since the bouillon cubes are already quite salty*",
+      "_key": "recipe-section-1",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "For the Chicken Layer",
+      "body": "- **Chicken:** Bone-in chicken legs\n- **Olive oil spray:** For coating\n- **Chicken Seasonings:** 5 mL each of onion powder, garlic powder, creole seasoning, steak seasoning, and \"Slap Ya Mama\" Cajun seasoning",
+      "_key": "recipe-section-2",
+      "items": [],
+      "after_step": 0
+    }
+  ],
+  "steps": [
+    {
+      "title": "Step 1: Prep the Oven and Rice",
+      "body": "- Preheat your oven to 200 °C.\n- Weigh out 500 g of dry rice into your baking dish and flatten it out evenly across the bottom",
+      "_key": "recipe-section-4"
+    },
+    {
+      "title": "Step 2: Add Vegetables and Seasoning Base",
+      "body": "- Layer 750 g of frozen broccoli directly over the top of the dry rice layer.\n- Use your fingers to completely crumble the 2 chicken bouillon cubes over the dish.\n- Measure out and add your heavy base seasonings evenly across the top: 29.5 mL each of garlic powder, onion powder, creole, steak seasoning, and Cajun seasoning. Follow up with 15 mL each of rosemary and oregano, and 10 mL of black pepper.",
+      "_key": "recipe-section-5"
+    },
+    {
+      "title": "Step 3: Pour the Liquids and Mix",
+      "body": "- Pour 473 mL of whole milk and 473 mL of boiling hot water straight into the dish over the seasoned ingredients.\n- Grate or shred 200 g of cheddar cheese (freshly processed or pre-bagged) and add it into the dish.\n- Give everything a thorough mix to distribute the cheese, broccoli, liquids, and spices evenly into the rice matrix.",
+      "_key": "recipe-section-6"
+    },
+    {
+      "title": "Step 4: Season and Layer the Chicken",
+      "body": "- Lay your chicken legs directly on top of the mixed broccoli and rice bed.\n- Lightly spray the chicken skin with olive oil spray so the spices can adhere well.\n- Dust the chicken surface evenly with 5 mL each of onion powder, garlic powder, creole seasoning, steak seasoning, and Cajun seasoning.",
+      "_key": "recipe-section-7"
+    },
+    {
+      "title": "Step 5: Bake and Serve",
+      "body": "- Place the uncovered casserole dish into the preheated oven.\n- Bake until the liquid is entirely absorbed, the rice turns incredibly fluffy, and the chicken is fully cooked through and juicy.\n- Serve straight from the hot dish",
+      "_key": "recipe-section-8"
+    }
+  ],
+  "notes": ""
+}

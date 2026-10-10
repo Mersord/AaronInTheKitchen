@@ -1,0 +1,80 @@
+{
+  "title": "Korean Fried Chicken",
+  "nav_title": "Korean Fried Chicken",
+  "category": "main-dishes",
+  "published": true,
+  "order": 5,
+  "description": "",
+  "servings": "",
+  "prep_minutes": null,
+  "cook_minutes": null,
+  "video_url": "https://www.youtube.com/watch?v=F1Bm01fBBpo",
+  "image": "assets/images/recipes/korean-fried-chicken.svg",
+  "image_alt": "",
+  "ingredient_groups": [
+    {
+      "title": "The Chicken & Marinade",
+      "body": "- **Chicken pieces**: 2–3 whole leg quarters or equivalent pieces ([**0:35**](https://www.youtube.com/watch?v=F1Bm01fBBpo&t=35s))\n- **Gochujang (Korean red pepper paste)**: A generous dollop ([**0:48**](https://www.youtube.com/watch?v=F1Bm01fBBpo&t=48s))\n- **Yellow mustard**: A squeeze (standard hot dog style) ([**1:01**](https://www.youtube.com/watch?v=F1Bm01fBBpo&t=61s))\n- **Sweet pickle juice**: A splash ([**0:48**](https://www.youtube.com/watch?v=F1Bm01fBBpo&t=48s))\n- **Cornstarch**: A handful to bind the marinade ([**1:01**](https://www.youtube.com/watch?v=F1Bm01fBBpo&t=61s))\n- **Seasoning baseline**: A pinch of ginger powder, garlic powder, onion powder, and white pepper ([**0:54**](https://www.youtube.com/watch?v=F1Bm01fBBpo&t=54s))",
+      "_key": "recipe-section-1",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "The Crispy Batter Coating",
+      "body": "- **Potato starch**: 150 g\n- **Cornstarch**: 30 g\n- **All-purpose flour**: 30 g\n- **Tapioca starch**: 30 g\n- **Baking soda**: 7 g\n- **Eggs**: 2 large\n- **Spices**: 29.5 mL each of ginger powder, garlic powder, onion powder, and white pepper",
+      "_key": "recipe-section-2",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "The Sticky Glaze Sauce",
+      "body": "- **Garlic**: 3 cloves (pressed)\n- **Vegetable oil**: 29.5 mL\n- **Ketchup**: 80 g\n- **Rice syrup**: 105 g *(Crucial ingredient for an authentic gloss)* ([**10:28**](https://www.youtube.com/watch?v=F1Bm01fBBpo&t=628s))\n- **Apple cider vinegar**: 32 g\n- **Gochujang (Korean red pepper paste)**: 60 g\n- **Soy sauce**: 18 g\n- **Sugar**: 18 g [[1](https://youtu.be/F1Bm01fBBpo#:~:text=Join%20our%20chef%20in%20the%20kitchen%20for,easy%20recipe%20for%20a%20truly%20fantastic%20meal.)]",
+      "_key": "recipe-section-3",
+      "items": [],
+      "after_step": 0
+    }
+  ],
+  "steps": [
+    {
+      "title": "1. Marinate the Chicken",
+      "body": "- Place your chicken pieces into a large bowl ([**0:20**](https://www.youtube.com/watch?v=F1Bm01fBBpo&t=20s)). Coat them entirely with gochujang, yellow mustard, sweet pickle juice, a handful of cornstarch, and a light sprinkling of your ginger powder, garlic powder, onion powder, and white pepper ([**0:48**](https://www.youtube.com/watch?v=F1Bm01fBBpo&t=48s)). Massage the flavor deeply into the meat and let it rest ([**0:20**](https://www.youtube.com/watch?v=F1Bm01fBBpo&t=20s)).  \n  *Pro-Tip: Do not skip the marinade! This step infuses structural juiciness and deep flavor directly into the meat grains so the chicken tastes excellent even without sauce (*[***1:47***](https://www.youtube.com/watch?v=F1Bm01fBBpo&t=107s)*).*",
+      "_key": "recipe-section-5"
+    },
+    {
+      "title": "Step 2: Add the Egg Binder",
+      "body": "- Crack 2 large eggs directly into your marinated chicken bowl. Mix them entirely by hand until every piece of meat is slick, slippery, and fully covered in a wet glaze ([**1:24**](https://www.youtube.com/watch?v=F1Bm01fBBpo&t=84s)). [[1](https://youtu.be/F1Bm01fBBpo#:~:text=Join%20our%20chef%20in%20the%20kitchen%20for,easy%20recipe%20for%20a%20truly%20fantastic%20meal.)]",
+      "_key": "recipe-section-6"
+    },
+    {
+      "title": "Step 3: Whisk the Dry Dredge",
+      "body": "- In a clean, dry bowl, weigh out 150 g of potato starch, 30 g of cornstarch, 30 g of all-purpose flour, and 30 g of tapioca starch. Whisk in 7 g of baking soda along with 29.5 mL each of ginger powder, garlic powder, onion powder, and white pepper. Blend this flour combination thoroughly until uniform ([**4:23**](https://www.youtube.com/watch?v=F1Bm01fBBpo&t=263s)).",
+      "_key": "recipe-section-7"
+    },
+    {
+      "title": "Step 4: Dredge and Rest the Chicken",
+      "body": "- Take one wet chicken piece at a time and drop it into the dry dredge mixture ([**5:11**](https://www.youtube.com/watch?v=F1Bm01fBBpo&t=311s)). Press the dry powder firmly and patiently into every single crevice of the meat to guarantee massive crunch coverage ([**5:11**](https://www.youtube.com/watch?v=F1Bm01fBBpo&t=311s)). Lay the coated chicken on a clean surface and let it rest for a few minutes while you bring your frying oil up to heat ([**5:30**](https://www.youtube.com/watch?v=F1Bm01fBBpo&t=330s)).",
+      "_key": "recipe-section-8"
+    },
+    {
+      "title": "Step 5: The First Fry",
+      "body": "- Drop the rested chicken carefully into a pot of clean hot cooking oil. Fry for exactly 7 minutes ([**6:36**](https://www.youtube.com/watch?v=F1Bm01fBBpo&t=396s)). This initial blast crisps up the outer starches and locks the exterior framework into place ([**9:06**](https://www.youtube.com/watch?v=F1Bm01fBBpo&t=546s)). Remove the chicken and let it rest briefly.",
+      "_key": "recipe-section-9"
+    },
+    {
+      "title": "Step 6: The Second Fry",
+      "body": "- Drop the chicken pieces back into the hot oil for a secondary fry lasting another 7 minutes ([**6:36**](https://www.youtube.com/watch?v=F1Bm01fBBpo&t=396s)). *Do not skip this step!* This second deep fry forces deep pocket moisture out of the interior flesh, ensuring the coating remains insanely crunchy even after it gets doused in sticky sauce ([**9:14**](https://www.youtube.com/watch?v=F1Bm01fBBpo&t=554s)).",
+      "_key": "recipe-section-10"
+    },
+    {
+      "title": "Step 7: Build the Glaze Sauce",
+      "body": "- In a saucepan over medium heat, sauté 3 pressed garlic cloves in 29.5 mL of vegetable oil. Whisk in 80 g of ketchup, 105 g of rice syrup, 32 g of apple cider vinegar, 60 g of gochujang, 18 g of soy sauce, and 18 g of sugar. Whisk continuously until the mixture comes to a gentle simmer and glazes into a shiny, unified sauce ([**11:28**](https://www.youtube.com/watch?v=F1Bm01fBBpo&t=688s)).",
+      "_key": "recipe-section-11"
+    },
+    {
+      "title": "Step 8: Toss and Serve",
+      "body": "- Place your hot, double-fried chicken into a large mixing bowl ([**11:28**](https://www.youtube.com/watch?v=F1Bm01fBBpo&t=688s)). Pour the warm, glistening red glaze entirely over the crispy skin and toss vigorously until every surface is covered ([**11:28**](https://www.youtube.com/watch?v=F1Bm01fBBpo&t=688s)). Serve immediately while roaring hot ([**12:38**](https://www.youtube.com/watch?v=F1Bm01fBBpo&t=758s)).",
+      "_key": "recipe-section-12"
+    }
+  ],
+  "notes": ""
+}

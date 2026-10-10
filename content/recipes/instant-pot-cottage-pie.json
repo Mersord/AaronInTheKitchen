@@ -1,0 +1,58 @@
+{
+  "title": "Instant Pot Cottage Pie",
+  "nav_title": "Instant Pot Cottage Pie",
+  "category": "main-dishes",
+  "published": true,
+  "order": 14,
+  "description": "",
+  "servings": "",
+  "prep_minutes": null,
+  "cook_minutes": null,
+  "video_url": "https://www.youtube.com/watch?v=yp1R29-0YEM",
+  "image": "assets/images/recipes/instant-pot-cottage-pie.svg",
+  "image_alt": "",
+  "ingredient_groups": [
+    {
+      "title": "For the Cheesy Potato Layer",
+      "body": "- **Russet potatoes:** 500 g (cooked and peeled)\n- **Egg yolks:** 2 large egg yolks\n- **Whole milk:** 118 mL\n- **Shredded cheese:** 500 g total (divided into two 250 g portions)\n- **Potato Seasonings:** 19.5 mL sea salt (added in two 10 mL steps) , 29.5 mL black pepper, 15 mL dill, 29.5 mL garlic powder (divided) , 15 mL oregano , 15 mL rosemary, 5 mL lemon pepper , and 10 mL beef bouillon powder. Extra dill for garnishing the top",
+      "_key": "recipe-section-1",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "For the Beef Matrix",
+      "body": "- **Ground beef:** 1 kg\n- **Olive oil:** 29.5 mL\n- **Large white onion:** 1 onion (processed finely)\n- **Garlic cloves:** 8 to 9 cloves (pressed)\n- **Vodka:** 100 mL (a heavy splash)\n- **Water:** 237 mL\n- **All-purpose flour:** 30 g (approx. 15 g to thicken the gravy)\n- **Tomato paste:** 59–74 mL\n- **Frozen mixed vegetables:** 237 mL (peas and carrots work best)\n- **Meat Seasonings:** 29.5 mL chicken bouillon powder, 29.5 mL lemon pepper, 29.5 mL Tajín, 5 mL ginger powder, 29.5 mL garlic powder, 10 mL rosemary, 10 mL oregano, 10 mL dill, and 5 mL sea salt",
+      "_key": "recipe-section-2",
+      "items": [],
+      "after_step": 0
+    }
+  ],
+  "steps": [
+    {
+      "title": "Step 1: Mash and Season the Potatoes",
+      "body": "- Preheat your oven to 200 °C.\n- Pass your 500 g of cooked russet potatoes through a potato ricer into a large bowl.\n- Stir in 2 large egg yolks and 118 mL of whole milk.\n- Mix in the first 250 g bag of shredded cheese.\n- Add the potato seasoning base: 19.5 mL salt, 29.5 mL black pepper, 15 mL dill, 29.5 mL garlic powder, 15 mL oregano, 15 mL rosemary, 5 mL lemon pepper, and 10 mL beef bouillon powder. Stir well and set aside",
+      "_key": "recipe-section-4"
+    },
+    {
+      "title": "Step 2: Brown the Meat with Aromatics",
+      "body": "- Set your Instant Pot to its sauté function and add 29.5 mL of olive oil.\n- Drop in 1 kg of ground beef (it is perfectly fine if it is still halfway frozen). Begin breaking it apart.\n- Pulse your onion in a food processor and press 9 cloves of garlic. Toss them directly into the pot with the browning beef.\n- Pour in a 100 mL splash of vodka to help build depth of flavor",
+      "_key": "recipe-section-5"
+    },
+    {
+      "title": "Step 3: Spice and Thicken the Gravy",
+      "body": "- While the beef continues cooking down, add the meat seasonings: 29.5 mL chicken bouillon, 29.5 mL lemon pepper, 29.5 mL Tajín, 5 mL ginger powder, 29.5 mL garlic powder, 10 mL rosemary, 10 mL oregano, 10 mL dill, and 5 mL salt.\n- Pour in 237 mL of water and stir to dissolve the bouillon powder.\n- Add 59 mL of tomato paste to change the liquid baseline.\n- Dust 30 g of all-purpose flour over the mixture. Stir it consistently for a few minutes until the sauce reduces into a thick, chunky chili-like consistency. *Note: It is fine if some meat pieces remain slightly pink before baking*",
+      "_key": "recipe-section-6"
+    },
+    {
+      "title": "Step 4: Incorporate Vegetables and Assemble",
+      "body": "- Turn off the Instant Pot heat. Stir in 237 mL of frozen mixed vegetables and let them sit in the hot meat mixture for 2 minutes to thaw.\n- Transfer the entire thick beef mix into the bottom of a 9x13 baking dish.\n- Sprinkle a light coating of cheese from your second bag directly over the hot meat layer",
+      "_key": "recipe-section-7"
+    },
+    {
+      "title": "Step 5: Top and Bake",
+      "body": "- Spread your seasoned mashed potatoes evenly across the top of the cheese and beef layer.\n- Empty the remaining shredded cheese from the second bag across the entire top surface of the potatoes to ensure a gorgeous crust forms.\n- Bake uncovered at 200 °C for exactly 20 minutes until the top cheese is bubbly and golden brown.\n- Garnish with an extra pinch of dill right out of the oven and serve hot",
+      "_key": "recipe-section-8"
+    }
+  ],
+  "notes": ""
+}

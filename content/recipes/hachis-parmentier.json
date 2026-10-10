@@ -1,0 +1,75 @@
+{
+  "title": "Hachis Parmentier",
+  "nav_title": "Hachis Parmentier",
+  "category": "main-dishes",
+  "published": true,
+  "order": 9,
+  "description": "",
+  "servings": "",
+  "prep_minutes": null,
+  "cook_minutes": null,
+  "video_url": "https://www.youtube.com/watch?v=X62OeWRp7QQ",
+  "image": "assets/images/recipes/hachis-parmentier.svg",
+  "image_alt": "",
+  "ingredient_groups": [
+    {
+      "title": "The Savory Beef Layer",
+      "body": "- **Ground beef**: 1 kg\n- **Large onion**: 1 onion\n- **Fresh garlic**: 6 cloves\n- **Olive oil**: 59 mL (or substitute with butter)\n- **Vodka**: 118 mL *(Used to deglaze the aromatics and enhance sweetness)*\n- **Chicken stock/broth**: (optional, for added moisture)\n- **Seasoning Blend**: Creole seasoning, Slap Ya Mama Cajun seasoning, thyme, rosemary, onion powder, white pepper, and salt",
+      "_key": "recipe-section-1",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "The Goat Cheese Mashed Potatoes",
+      "body": "- **Potatoes**: 2 kg\n- **Chicken stock**: Enough to submerge the potatoes during cooking\n- **Goat cheese**: 300 g\n- **Unsalted butter**: 113 g\n- **Heavy cream**: 123.6 g (or up to one small carton)\n- **Extra Spices**: Garlic powder, onion powder, salt, and black pepper",
+      "_key": "recipe-section-2",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "The Crispy Topping & Garnish",
+      "body": "- **Emmental cheese**: 200 g (shredded)\n- **Fresh chives**: 20 g (chopped)",
+      "_key": "recipe-section-3",
+      "items": [],
+      "after_step": 0
+    }
+  ],
+  "steps": [
+    {
+      "title": "1. Prep the Aromatics",
+      "body": "- Peel one large onion and 6 cloves of garlic.\n- Drop the onion and garlic cloves directly into a food processor and pulse until they are cleanly chopped down into fine bits.",
+      "_key": "recipe-section-5"
+    },
+    {
+      "title": "2. Sauté and Deglaze",
+      "body": "- Set your cooking pot over high heat.\n- Add 59 mL of olive oil to the bottom of the pot.\n- Dump in the processed garlic and onions, stirring continuously to let them sweat and cook down.\n- Pour 118 mL of vodka directly over the hot garlic and onions. Stir gently and allow the liquid to cook down to bring out the natural sweetness of the aromatics.",
+      "_key": "recipe-section-6"
+    },
+    {
+      "title": "3. Brown and Season the Beef",
+      "body": "- Add your 1 kg of ground beef into the pan with the sweet onions and garlic.\n- Shake in your first heavy layer of seasonings: add a balanced amount of onion powder, Creole seasoning, Slap Ya Mama, thyme, white pepper, rosemary, and salt.\n- Stir well to break up the meat as it browns.\n- Taste the meat as it cooks and repeat with a duplicate layer of seasonings if it requires more flavor depth.\n- *Juiciness Pro-Tip:* To ensure your meat base stays exceptionally moist, slightly undercook the beef so there are still a few pink bits remaining. Because the dish finishes in the oven, the meat will cook through perfectly later without drying out. Spoon in a small splash of leftover chicken broth if you prefer an even juicier meat sauce.\n- Transfer the finished beef mixture into a separate bowl and set it aside.",
+      "_key": "recipe-section-7"
+    },
+    {
+      "title": "4. Cook the Potatoes",
+      "body": "- Peel and chop your 2 kg of potatoes into uniform chunks.\n- Place the potatoes directly into a cooking vessel and submerge them completely in chicken stock instead of plain water.\n- Cook the potatoes until they are completely tender.\n- Strain the cooked potatoes out of the liquid using a slotted spoon, allowing a tiny splash of the starchy chicken stock to remain behind for flavor. *Note: Avoid letting too much boiling liquid stay with the potatoes, as excess water will cause your mash to turn gritty and runny.*",
+      "_key": "recipe-section-8"
+    },
+    {
+      "title": "5. Mash and Build the Goat Cheese Potatoes",
+      "body": "- Transfer the hot potatoes to a mixing bowl and drop in 300 g of goat cheese, 113 g of butter, and pour over the heavy cream.\n- Mash the ingredients together aggressively. The residual heat from the hot starches will naturally melt the cheese and butter into a thick, velvety consistency.\n- Taste for seasoning and spice up the mash by folding in garlic powder, salt, onion powder, black pepper, and a light touch of rosemary and thyme. Stir until the cheese completely dissolves and the mixture is totally smooth.",
+      "_key": "recipe-section-9"
+    },
+    {
+      "title": "6. Assemble the Casserole",
+      "body": "- Grab a standard deep baking dish.\n- Spread your seasoned, juicy ground beef mixture evenly across the absolute bottom of the dish to form the first solid layer.\n- Spoon the rich goat cheese mashed potatoes directly over the beef. Use a spatula to carefully smooth the potatoes out to the perimeters of the dish, locking the meat beneath it.\n- Scatter 200 g of shredded Emmental cheese generously across the entire top surface of the potatoes to ensure full coverage.",
+      "_key": "recipe-section-10"
+    },
+    {
+      "title": "7. Bake, Garnish, and Serve",
+      "body": "- Preheat your oven to **175 °C**.\n- Place the uncovered baking dish onto the center rack of your oven.\n- Bake until the casserole is bubbling hot and the Emmental cheese transforms into a beautiful, crispy, golden-brown crunchy topping.\n- Carefully remove the hot dish from the oven.\n- Scatter your 20 g of chopped fresh chives evenly across the molten cheese crown for a vibrant pop of color and freshness. Slice into thick squares and serve hot.",
+      "_key": "recipe-section-11"
+    }
+  ],
+  "notes": ""
+}

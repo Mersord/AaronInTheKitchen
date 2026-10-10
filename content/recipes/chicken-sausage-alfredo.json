@@ -1,0 +1,70 @@
+{
+  "title": "Chicken and Sausage Alfredo",
+  "nav_title": "Chicken & Sausage Alfredo",
+  "category": "main-dishes",
+  "published": true,
+  "order": 6,
+  "description": "",
+  "servings": "",
+  "prep_minutes": null,
+  "cook_minutes": null,
+  "video_url": "https://www.youtube.com/watch?v=kKdIb5kmrsY",
+  "image": "assets/images/recipes/chicken-sausage-alfredo.svg",
+  "image_alt": "",
+  "ingredient_groups": [
+    {
+      "title": "The Proteins & Aromatics",
+      "body": "- **Small yellow onion**: 1 onion\n- **Olive oil**: 44.5 mL\n- **Jalapeño cheese sausage**: 250 g\n- **Chicken tenders**: 250 g *(Chosen for quick cooking; chicken thighs can be used as an alternative)*\n- **Fresh garlic**: 1 whole head",
+      "_key": "recipe-section-1",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "The Seasoning Blend",
+      "body": "- **Creole seasoning**: 15 mL\n- **Sea salt**: 10 mL\n- **Steak seasoning**: 15 mL\n- **Slap Ya Mama Cajun seasoning**: 5 mL\n- **Red chili flakes**: 2.5 mL\n- **Freshly cracked black pepper**: 5 mL (plus extra for the sauce)\n- **Chicken bouillon cube**: 1 cube",
+      "_key": "recipe-section-2",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "The Pasta & Creamy Alfredo Base",
+      "body": "- **Penne pasta**: 150 g *(Fettuccine can be substituted if you prefer a traditional look)*\n- **Unsalted butter**: 113 g\n- **Heavy cream**: 500–600 mL total (approx. 473–591 mL, added in stages)\n- **Parmesan cheese**: 250 g (pre-shredded bag cheese works fine for convenience)\n- **Reserved pasta water**: Kept nearby to emulsify the starch and bind the sauce",
+      "_key": "recipe-section-3",
+      "items": [],
+      "after_step": 0
+    }
+  ],
+  "steps": [
+    {
+      "title": "1. Prep and Sauté the Aromatics & Sausage",
+      "body": "- Peel one small yellow onion and slice it into rustic half-moon shapes. This intentional cut ensures large, flavorful bites of onion remain scattered throughout the pasta dish.\n- Place a large skillet or deep pan over medium-high heat and add 44.5 mL of olive oil.\n- Drop the sliced onions into the hot oil to begin cooking.\n- While the onions soften, slice your 250 g of jalapeño cheese sausage into bite-sized rounds.\n- Toss the sausage slices directly into the pan with the onions. The natural fats, spices, and cheeses packed inside the sausage rounds will melt out into the pan, creating a deeply savory oil foundation that flavors the entire dish.\n- Turn the stove down slightly if the pan gets too hot, ensuring the onions cook down beautifully without scorching.",
+      "_key": "recipe-section-5"
+    },
+    {
+      "title": "2. Sear and Season the Chicken",
+      "body": "- Cut your 250 g of chicken tenders into bite-sized pieces and add them directly into the skillet with the sausage and onions. Tenders are used here because they cook through rapidly while staying moist.\n- Immediately introduce the spice profile over the cooking meats. Sprinkle in roughly 15 mL of Creole seasoning, 10 mL of sea salt, 15 mL of your preferred steak seasoning, and 5 mL of Slap Ya Mama Cajun seasoning.\n- Add 2.5 mL of red chili flakes to build a gentle background warmth, followed by 5 mL of freshly cracked black pepper.\n- Stir the contents of the pan thoroughly to coat every piece of meat evenly in the spices.\n- Cook for a few minutes until the chicken turns opaque. Test the doneness by gently pressing a wooden cooking spoon or spatula through a piece of chicken. If it slices through smoothly, it is perfectly cooked and ready.\n- Remove the meat and onion mixture from the pan using a slotted spoon and transfer it into a separate clean bowl.\n- *Pro Tip:* If you have a metal mixing bowl, use it to hold the cooked meat. Metal retains ambient heat beautifully, allowing the chicken to rest and continue internal cooking gently without drying out.",
+      "_key": "recipe-section-6"
+    },
+    {
+      "title": "3. Build the Garlic Alfredo Foundation",
+      "body": "- Keep the skillet on the stove over medium-low heat, retaining all the leftover spiced oil and pan scrapings from the meats.\n- Drop 113 g of unsalted butter directly into the pan. The remaining surface oil will actually act as a shield, preventing the milk solids in the butter from burning too quickly.\n- Take an entire head of fresh garlic, peel the cloves, and crush them directly into the melting butter using a garlic press.\n- Stir the garlic into the butter. If the butter begins to brown intensely or smell toasted, immediately lower the heat on your burner. A slight browning is perfectly acceptable, as it injects an extra layer of nutty richness into the sauce.",
+      "_key": "recipe-section-7"
+    },
+    {
+      "title": "4. Simmer and Thicken the Cream Sauce",
+      "body": "- Pour an initial 500 mL of heavy cream into the garlic-infused butter mixture. Stir well to allow the fats to seamlessly merge.\n- To bind the heavy cream and oil together into a cohesive sauce, add an initial 125 g of your shredded Parmesan cheese. Whisk continuously on low heat as the cheese melts into the liquid.\n- Take one chicken bouillon cube and crush it into a fine dust directly between your fingers, scattering it into the simmering cream sauce to elevate the depth of flavor.\n- Add a few more turns of freshly cracked black pepper.\n- Watch the pan closely and bring the mixture to a very gentle bubble. **Do not let the sauce climb into an aggressive, rolling boil**. Excess heat will break the emulsion, splitting the Alfredo into an unappealing layer of clear oil on top of curdled cream.\n- Once the sauce bubbles softly and thickens enough to coat the back of a spoon, turn off the heat entirely and slide the pan to a cool burner.",
+      "_key": "recipe-section-8"
+    },
+    {
+      "title": "5. Cook the Pasta",
+      "body": "- Fill a secondary deep pot with water and bring it to a rolling boil on your hottest burner.\n- Drop in 150 g of penne pasta.\n- Toss a generous handful of sea salt directly into the boiling water, seasoning it thoroughly like ocean water to flavor the pasta from the inside out.\n- Cook the penne until it reaches a perfect *1 L dente* texture—firm to the bite but completely cooked through.\n- Place your Alfredo skillet back onto a very low heat setting to warm up.\n- Use a slotted kitchen spoon to scoop the hot penne directly out of the boiling pot and drop it straight into the warm cream sauce.",
+      "_key": "recipe-section-9"
+    },
+    {
+      "title": "6. Emulsify and Assemble the Dish",
+      "body": "- Allow a small amount of the starchy pasta water to travel into the skillet along with the noodles. The natural starches floating in the cooking water act as an excellent binder, helping the silky Alfredo sauce wrap tightly around the slick exterior of the penne pasta. Keep the main pot of pasta water nearby in case the dish requires thinning later.\n- Dump the remaining 125 g of Parmesan cheese into the pan (bringing the total to 250 g). Stir everything thoroughly on low heat to let the fresh cheese melt into the warm noodles. Switch to a larger pan if your skillet feels overcrowded.\n- Use your slotted spoon to transfer the rested bowl of chicken, sausage, and onions back into the pasta. Leave behind any excess oil pools that collected at the bottom of the meat bowl to prevent the pasta from turning overly greasy.\n- Fold the meats gently into the cheesy noodles until every ingredient is completely coated.\n- Check the consistency of your sauce. If the pasta noodles absorb the liquid too quickly and the dish appears tight or dry, stream in an additional 118 mL of extra heavy cream.\n- Stir one final time until a glossy, incredibly rich, and creamy coating cloaks the entire chicken and sausage mixture. Spoon onto plates and serve immediately while piping hot.",
+      "_key": "recipe-section-10"
+    }
+  ],
+  "notes": ""
+}

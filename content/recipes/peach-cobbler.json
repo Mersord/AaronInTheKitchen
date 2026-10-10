@@ -1,0 +1,53 @@
+{
+  "title": "Peach Cobbler",
+  "nav_title": "Peach Cobbler",
+  "category": "desserts",
+  "published": true,
+  "order": 34,
+  "description": "",
+  "servings": "",
+  "prep_minutes": null,
+  "cook_minutes": null,
+  "video_url": "https://www.youtube.com/watch?v=NT-0AUFGBk0",
+  "image": "assets/images/recipes/peach-cobbler.svg",
+  "image_alt": "",
+  "ingredient_groups": [
+    {
+      "title": "Peach Filling",
+      "body": "- Fresh peaches (left unpeeled to prevent slipping while cutting) ([**0:08**](https://www.youtube.com/watch?v=NT-0AUFGBk0&t=8s))\n- 100 g white sugar ([**3:12**](https://www.youtube.com/watch?v=NT-0AUFGBk0&t=192s))\n- 50 g brown sugar ([**3:26**](https://www.youtube.com/watch?v=NT-0AUFGBk0&t=206s))\n- 14 g cornstarch ([**3:26**](https://www.youtube.com/watch?v=NT-0AUFGBk0&t=206s))\n- 100 mL water ([**3:26**](https://www.youtube.com/watch?v=NT-0AUFGBk0&t=206s))\n- A splash of white vinegar (used as a substitute for lemon juice) ([**3:56**](https://www.youtube.com/watch?v=NT-0AUFGBk0&t=236s))\n- 29.5 mL ground ginger ([**4:17**](https://www.youtube.com/watch?v=NT-0AUFGBk0&t=257s))\n- 29.5 mL ground cinnamon ([**4:24**](https://www.youtube.com/watch?v=NT-0AUFGBk0&t=264s))\n- 19.5 mL salt ([**4:36**](https://www.youtube.com/watch?v=NT-0AUFGBk0&t=276s))",
+      "_key": "recipe-section-1",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "Crust & Assembly",
+      "body": "- 180 g all-purpose flour ([**5:19**](https://www.youtube.com/watch?v=NT-0AUFGBk0&t=319s))\n- 14 g baking soda ([**5:46**](https://www.youtube.com/watch?v=NT-0AUFGBk0&t=346s))\n- 4 g salt ([**5:34**](https://www.youtube.com/watch?v=NT-0AUFGBk0&t=334s))\n- 29.5 mL ground ginger ([**6:08**](https://www.youtube.com/watch?v=NT-0AUFGBk0&t=368s))\n- 29.5 mL ground cinnamon ([**6:08**](https://www.youtube.com/watch?v=NT-0AUFGBk0&t=368s))\n- 100 mL water (plus a teeny splash more if needed) ([**5:19**](https://www.youtube.com/watch?v=NT-0AUFGBk0&t=319s))\n- 250 mL heavy whipping cream ([**6:56**](https://www.youtube.com/watch?v=NT-0AUFGBk0&t=416s))\n- 150 mL melted butter ([**7:50**](https://www.youtube.com/watch?v=NT-0AUFGBk0&t=470s))",
+      "_key": "recipe-section-2",
+      "items": [],
+      "after_step": 0
+    }
+  ],
+  "steps": [
+    {
+      "title": "Step 1: Prep and Cook the Peaches",
+      "body": "1. Slice and core your fresh peaches, leaving the skin on for easier handling ([**1:01**](https://www.youtube.com/watch?v=NT-0AUFGBk0&t=61s)).\n2. In a small bowl, mix together the white sugar, brown sugar, cornstarch, and 100 mL of water ([**3:00**](https://www.youtube.com/watch?v=NT-0AUFGBk0&t=180s)).\n3. Pour this dry and wet sugar mixture over the peaches in a pot ([**3:46**](https://www.youtube.com/watch?v=NT-0AUFGBk0&t=226s)).\n4. Add a splash of white vinegar, ginger, cinnamon, and 19.5 mL of salt ([**3:56**](https://www.youtube.com/watch?v=NT-0AUFGBk0&t=236s)).\n5. Cook on the stovetop over low heat until the peaches brown slightly and a thick syrup develops ([**4:49**](https://www.youtube.com/watch?v=NT-0AUFGBk0&t=289s)). Remove from heat and set aside ([**6:40**](https://www.youtube.com/watch?v=NT-0AUFGBk0&t=400s)).",
+      "_key": "recipe-section-4"
+    },
+    {
+      "title": "Step 2: Make the Batter",
+      "body": "1. In a mixing bowl, combine the flour, baking soda, 4 g of salt, and 29.5 mL each of ginger and cinnamon to ensure the dough is flavorful ([**5:19**](https://www.youtube.com/watch?v=NT-0AUFGBk0&t=319s)).\n2. Pour in 100 mL of water and the heavy whipping cream ([**6:56**](https://www.youtube.com/watch?v=NT-0AUFGBk0&t=416s)).\n3. Whisk everything together until it reaches a thick pancake batter consistency (add a tiny splash of water if it is too thick) ([**8:17**](https://www.youtube.com/watch?v=NT-0AUFGBk0&t=497s)).",
+      "_key": "recipe-section-5"
+    },
+    {
+      "title": "Step 3: Assemble the Cobbler",
+      "body": "1. Pour 150 mL of melted butter into the bottom of your baking dish ([**7:50**](https://www.youtube.com/watch?v=NT-0AUFGBk0&t=470s)).\n2. Pour the thick batter directly over the butter and spread it out evenly across the dish ([**8:17**](https://www.youtube.com/watch?v=NT-0AUFGBk0&t=497s)). *Do not mix the batter into the butter.*\n3. Carefully spoon the cooked peaches and their syrup right on top of the batter, spacing the fruit out evenly ([**8:55**](https://www.youtube.com/watch?v=NT-0AUFGBk0&t=535s)). The crust will naturally rise up around the fruit as it bakes ([**9:07**](https://www.youtube.com/watch?v=NT-0AUFGBk0&t=547s)).",
+      "_key": "recipe-section-6"
+    },
+    {
+      "title": "Step 4: Bake",
+      "body": "1. Bake in a preheated oven at **190 °C for 50 minutes** ([**9:26**](https://www.youtube.com/watch?v=NT-0AUFGBk0&t=566s)).\n2. Serve warm, ideally topped with vanilla ice cream ([**9:58**](https://www.youtube.com/watch?v=NT-0AUFGBk0&t=598s))!",
+      "_key": "recipe-section-7"
+    }
+  ],
+  "notes": ""
+}

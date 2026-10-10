@@ -1,0 +1,70 @@
+{
+  "title": "Double Chocolate Chunk Muffins",
+  "nav_title": "Double Chocolate Muffins",
+  "category": "breakfast",
+  "published": true,
+  "order": 40,
+  "description": "",
+  "servings": "",
+  "prep_minutes": null,
+  "cook_minutes": null,
+  "video_url": "https://www.youtube.com/watch?v=l5Pw2Flf4uA",
+  "image": "assets/images/recipes/double-chocolate-muffins.svg",
+  "image_alt": "",
+  "ingredient_groups": [
+    {
+      "title": "The Wet Ingredients & Fats",
+      "body": "- **Large eggs**: 2 fresh eggs\n- **Greek yogurt or sour cream**: 70 g *(The chef's secret trick to ensure an ultra-moist crumb)*\n- **Heavy cream**: 116 g *(Note: While the video description notes 170 g, the chef explicitly weighs out 116 g on the kitchen scale to keep the cake from turning out dry)*\n- **Vegetable oil**: 180 g *(Note: The description notes 108 g, but the chef explicitly weighs out 180 g on camera)*\n- **Vanilla extract or paste**: 10 mL",
+      "_key": "recipe-section-1",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "The Dry Ingredients Foundation",
+      "body": "- **Dutch-processed cocoa powder**: 60 g *(Provides an intense, deep chocolate flavor without the bitterness of natural cocoa)*\n- **All-purpose flour**: 210 g\n- **Brown sugar**: 110 g *(Note: While the description lists 200 g of granulated sugar, the chef uses 110 g of rich brown sugar for better moisture)*\n- **Baking powder**: 3 g\n- **Baking soda**: 5 g\n- **Fine sea salt**: 3 g *(An essential addition to awaken the chocolate profiles)*",
+      "_key": "recipe-section-2",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "The Mix-In",
+      "body": "**Chopped chocolate**: 125 g *(The chef adds a massive pile of hand-chopped chocolate to create pockets of molten goo)*",
+      "_key": "recipe-section-3",
+      "items": [],
+      "after_step": 0
+    }
+  ],
+  "steps": [
+    {
+      "title": "1. Set Up Your Baking Station",
+      "body": "- Grab your digital kitchen scale and place your primary mixing bowl directly on top.\n- Remember to turn on and zero out or tare your scale before adding any ingredients to ensure absolute measurement accuracy.\n- Prepare your mini oven or standard kitchen oven by setting the preheat temperature to a steady **220 °C**.",
+      "_key": "recipe-section-5"
+    },
+    {
+      "title": "2. Compile the Wet Ingredients",
+      "body": "- Crack 2 large eggs cleanly into the mixing bowl.\n- Weigh out and add 70 g of Greek yogurt or sour cream directly over the eggs.\n- Pour 116 g of heavy cream straight into the wet base.\n- Add 10 mL of vanilla extract or paste.",
+      "_key": "recipe-section-6"
+    },
+    {
+      "title": "3. Add the Dry Ingredients & Chocolate",
+      "body": "- Keep your bowl resting on the scale and dust in 60 g of Dutch-processed cocoa powder. *Pro Tip: Dutch-processed cocoa is ideal for building an intense mud-cake color, though natural cocoa can be substituted if you are intentionally seeking a pinker hue for something like a red velvet variant*.\n- Weigh and add 210 g of all-purpose flour directly over the cocoa.\n- Pour in 110 g of rich brown sugar to complement the structural texture.\n- Measure and drop in 3 g of baking powder, 5 g of baking soda, and 3 g of fine sea salt.\n- Add 125 g of your coarsely chopped chocolate bars or chunks directly into the dry pile.\n- Conclude the assembly by pouring 180 g of neutral vegetable oil over the top.",
+      "_key": "recipe-section-7"
+    },
+    {
+      "title": "4. Mix into a Thick Batter",
+      "body": "- **Crucial Pro-Tip:** Lift your mixing bowl completely off the kitchen scale before beginning to blend. Mixing directly on top of a digital scale with a mechanical mixer can throw the delicate internal weights completely off balance.\n- Grab a standard electric hand mixer. You can comfortably use a heavy stand mixer or even a simple baking spatula to fold this together cleanly by hand, as you do not need to worry about developing tight gluten structures in this soft recipe.\n- Mix on a low speed setting just until the flour absorbs the oils and cream, forming a completely uniform, thick, and ultra-chocolatey muffin batter. The beauty of using a hand mixer here is that it naturally combines everything cleanly without needing constant spatula scrape-downs.",
+      "_key": "recipe-section-8"
+    },
+    {
+      "title": "5. Scoop into Muffin Trays",
+      "body": "- Set up your muffin baking trays, utilizing non-stick silicone muffin pans or metal tins lined with paper cups.\n- Grab a medium-sized cookie scoop to cleanly transfer the thick dough.\n- Plunge the scoop into the rich batter and drop even mounds into each individual muffin cavity. Fill each cup relatively high to ensure the muffins bake up with tall, signature bakery-style crowns. This batch size will yield a total count of **exactly 22 muffins**.",
+      "_key": "recipe-section-9"
+    },
+    {
+      "title": "6. Bake and Serve",
+      "body": "- Slide the filled muffin trays carefully onto the center rack of your preheated oven at **220 °C**.\n- Bake the muffins continuously until the tops rise beautifully and a toothpick inserted into the center sponge comes out clean.\n- Remove the trays from the oven. The muffins will be extraordinarily fragile and blazing hot. Let them sit undisturbed until the fudgy structure sets up securely. Serve warm while the hand-chopped chocolate chunks remain melted, molten, and beautifully gooey.",
+      "_key": "recipe-section-10"
+    }
+  ],
+  "notes": ""
+}

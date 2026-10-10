@@ -1,0 +1,82 @@
+{
+  "title": "Vodka Sauce Lasagna",
+  "nav_title": "Vodka Sauce Lasagna",
+  "category": "main-dishes",
+  "published": true,
+  "order": 7,
+  "description": "",
+  "servings": "",
+  "prep_minutes": null,
+  "cook_minutes": null,
+  "video_url": "https://www.youtube.com/watch?v=ZC6ghfGwt04",
+  "image": "assets/images/recipes/vodka-sauce-lasagna.svg",
+  "image_alt": "",
+  "ingredient_groups": [
+    {
+      "title": "The Vodka Cream Sauce",
+      "body": "- **Canned whole or diced tomatoes**: 800 g\n- **Tomato paste**: 200 g\n- **White granulated sugar**: 37 g\n- **Heavy cream or oat milk**: 591 mL\n- **Vodka**: 355 mL (or 237 mL based on preference)\n- **Onions**: 1 medium onion and 1 small onion\n- **Garlic**: 6 fresh cloves\n- **Thyme**: 5 mL\n- **Rosemary**: 5 mL\n- **Red chili pepper flakes**: 5 mL\n- **Freshly cracked black pepper**: 5 mL\n- **Creole seasoning**: 15 mL\n- **Slap Ya Mama Cajun seasoning**: 15 mL\n- **Ground nutmeg**: 2.5 mL\n- **Fine sea salt**: 6 g",
+      "_key": "recipe-section-1",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "The Meat Blend",
+      "body": "- **Mixed ground meat**: 1 kg total (Ideally a 500 g blend of ground beef and 500 g of sweet or spicy Italian sausage)\n- **Seasoning duplicates**: Additional matching measures of Creole seasoning, Slap Ya Mama, rosemary, thyme, black pepper, chili flakes, sea salt, and a pinch of nutmeg to coat the meat",
+      "_key": "recipe-section-2",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "The Cheese Sauce",
+      "body": "- **Ricotta cheese**: 250 g\n- **Cheddar cheese**: 200 g (divided for the mixture and the layering process)\n- **Large eggs**: 2 eggs\n- **Greek yogurt**: 29.5 mL (or up to 12.5 mL)\n- **Rosemary**: 5 mL\n- **Thyme**: 5 mL\n- **Black pepper & sea salt**: To taste",
+      "_key": "recipe-section-3",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "The Pasta Assembly",
+      "body": "- **Lasagna noodles**: 1 standard box package\n- **Sea salt and black pepper**: For seasoning the boiling noodle water",
+      "_key": "recipe-section-4",
+      "items": [],
+      "after_step": 0
+    }
+  ],
+  "steps": [
+    {
+      "title": "1. Process the Aromatics",
+      "body": "- Peel one medium-sized onion and one small onion, giving them a quick, rough chop into broad pieces.\n- Take 6 fresh cloves of garlic, place the flat side of your kitchen knife blade over each clove, and press down firmly to crack the skins open cleanly. Strip away the paper shells.\n- Toss both the rough-chopped onions and the peeled garlic cloves directly into the bowl of a food processor to save time and prevent your hands from absorbing strong odors.",
+      "_key": "recipe-section-6"
+    },
+    {
+      "title": "2. Formulate the Vodka Cream Sauce",
+      "body": "- Open your cans and pour 800 g of whole or diced tomatoes directly into the food processor alongside the aromatics.\n- Squeeze in 200 g of concentrated tomato paste out of a tube to provide structure and safeguard against a thin, runny consistency.\n- Measure and pour in 355 mL of vodka followed by 591 mL of heavy cream or oat milk.\n- Sprinkle your heavy spice profile directly over the liquids: add 37 g of granulated sugar, 5 mL of thyme, 5 mL of rosemary, 5 mL of red chili pepper flakes, and 5 mL of black pepper.\n- Conclude the sauce base with 15 mL of Creole seasoning, 15 mL of Slap Ya Mama Cajun seasoning, 2.5 mL of ground nutmeg, and 6 g of fine sea salt.\n- Secure the lid on your food processor and blend the ingredients thoroughly until the mixture transitions into a smooth, completely uniform pink cream sauce.",
+      "_key": "recipe-section-7"
+    },
+    {
+      "title": "3. Build the Herb Cheese Mixture",
+      "body": "- Grab a separate clean mixing bowl to construct your cheese filling layer.\n- Spoon in 250 g of smooth ricotta cheese followed by 29.5 mL of tangy Greek yogurt to provide extra body and substance.\n- Measure out 118 mL of your shredded cheddar cheese and drop it into the bowl.\n- Crack 2 large eggs directly into the cheese mixture to serve as the binding agent that helps the lasagna hold its shape when sliced.\n- Season the cheese filling with 5 mL of rosemary, 5 mL of thyme, a pinch of black pepper, and a modest dusting of sea salt.\n- Whisk the contents of the bowl together vigorously using a spoon or spatula until the texture matches a thick, spreadable, uniform paste.",
+      "_key": "recipe-section-8"
+    },
+    {
+      "title": "4. Parboil and Hydrate the Pasta",
+      "body": "- Fill a large, deep pasta pot with clean water and bring it to a rolling boil over high heat.\n- Toss a generous handful of sea salt into the boiling water. Shake a heavy layer of black pepper directly into the boiling water as well; the pepper flecks will stick to the noodles and inject an earthy depth of flavor.\n- Drop your lasagna sheets into the boiling seasoned water.\n- Cook the sheets, leaving them deliberately firm and undercooked; they should remain gummy to the bite so they can finish cooking inside the wet lasagna layers later without turning soggy.\n- Drain the hot water immediately and transfer the parboiled lasagna sheets into a clean bowl or sink basin filled with cold tap water. Keeping the sheets completely wet prevents them from sticking together and tearing apart during assembly.",
+      "_key": "recipe-section-9"
+    },
+    {
+      "title": "5. Brown the Meat and Combine Sauces",
+      "body": "- Set a deep, wide skillet over medium-high heat on your stovetop.\n- Add 1 kg of your mixed ground meat (beef and pork/sausage mix) into the pan.\n- Season the raw meat immediately using the exact same spice footprint applied to the cream sauce: add heavy shakes of Creole seasoning, Slap Ya Mama, thyme, rosemary, salt, pepper, a light pinch of chili flakes, and a dash of nutmeg.\n- Use a specialized meat chopper or a heavy wooden spoon to continuously break the meat down into ultra-fine, uniform bits as it cooks.\n- Allow the seasoned meat to cook thoroughly until it browns completely.\n- Carefully pour the entire blended pink vodka cream sauce from your food processor directly into the skillet over the browned meat.\n- Turn the stove burner down to a low heat setting, stirring gently to fully incorporate the meat and sauce together without reduction.",
+      "_key": "recipe-section-10"
+    },
+    {
+      "title": "6. Assemble the Lasagna Layers",
+      "body": "- Grab a standard 22.9 × 33 cm deep baking dish. Do not grease or butter the pan; instead, ladle a clean coating of your thin meat sauce directly over the bare bottom of the dish to keep the pasta from sticking.\n- Lift your wet lasagna sheets from the cold water bath, shaking off major pools of water, and lay them down flat side-by-side to construct your first solid pasta floor.\n- Spread a generous, even layer of your herb ricotta cheese sauce directly across the tops of the noodles.\n- Spoon a heavy layer of the hot, meaty vodka sauce over the cheese layer.\n- Scatter a handful of your remaining dry shredded cheddar cheese across the sauce to create a multi-cheese pull.\n- Repeat this exact stacking cycle: lay down noodles, spread the ricotta mixture, ladle the meat sauce, and sprinkle cheddar cheese until your ingredients are spent or you reach the absolute brim of your baking dish.",
+      "_key": "recipe-section-11"
+    },
+    {
+      "title": "7. Bake and Rest",
+      "body": "- Preheat your oven or countertop mini oven to a steady cooking temperature of **190 °C**.\n- *Pro Tip:* Slide a wide, flat baking sheet or piece of aluminum foil onto the oven rack directly beneath your lasagna dish before baking. The high volume of rich sauce means the lasagna can bubble up and drip over the edges of the pan as it cooks.\n- Place the uncovered lasagna dish into the center of the preheated oven.\n- Bake at **190 °C** until the top cheese layer melts completely, turns bubbly, and develops a beautiful golden-brown crust.\n- Remove the hot lasagna from the oven. **Allow the dish to sit undisturbed and cool before slicing**. Cutting into the pasta immediately will cause the molten cheese and vodka sauce to run like lava; letting it rest completely allows the structure to firm up so you can cut clean, beautiful squares. Slice and serve hot.",
+      "_key": "recipe-section-12"
+    }
+  ],
+  "notes": ""
+}

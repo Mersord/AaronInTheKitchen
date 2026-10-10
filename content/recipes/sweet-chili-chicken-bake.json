@@ -1,0 +1,58 @@
+{
+  "title": "Sweet Chili Chicken Casserole",
+  "nav_title": "Sweet Chili Chicken Bake",
+  "category": "main-dishes",
+  "published": true,
+  "order": 12,
+  "description": "",
+  "servings": "",
+  "prep_minutes": null,
+  "cook_minutes": null,
+  "video_url": "https://www.youtube.com/watch?v=n-lpCRp8qzw",
+  "image": "assets/images/recipes/sweet-chili-chicken-bake.svg",
+  "image_alt": "",
+  "ingredient_groups": [
+    {
+      "title": "For the Rice Base:",
+      "body": "- **Rice:** 500 g ([**0:47**](https://www.youtube.com/watch?v=n-lpCRp8qzw&t=47s))\n- **Boiling water:** 500 mL ([**3:40**](https://www.youtube.com/watch?v=n-lpCRp8qzw&t=220s))\n- **Chicken bouillon cubes:** 2 cubes ([**1:44**](https://www.youtube.com/watch?v=n-lpCRp8qzw&t=104s))\n- **Garlic powder:** 29.5 mL ([**1:52**](https://www.youtube.com/watch?v=n-lpCRp8qzw&t=112s))\n- **Onion powder:** 29.5 mL ([**1:52**](https://www.youtube.com/watch?v=n-lpCRp8qzw&t=112s))\n- **\"Slap Ya Mama\" Cajun seasoning:** 29.5 mL ([**2:13**](https://www.youtube.com/watch?v=n-lpCRp8qzw&t=133s))\n- **Creole seasoning:** 29.5 mL ([**2:13**](https://www.youtube.com/watch?v=n-lpCRp8qzw&t=133s))\n- **Steak seasoning:** 29.5 mL ([**2:13**](https://www.youtube.com/watch?v=n-lpCRp8qzw&t=133s))\n- **Black pepper:** 5 mL ([**2:30**](https://www.youtube.com/watch?v=n-lpCRp8qzw&t=150s))\n- **Mustard:** 100 g ([**3:06**](https://www.youtube.com/watch?v=n-lpCRp8qzw&t=186s))\n- **Sweet chili sauce:** 400 g ([**3:23**](https://www.youtube.com/watch?v=n-lpCRp8qzw&t=203s))\n- **Pickled vegetables:** 1 jar/package (e.g., chop suey or mixed pickled veggies) ([**6:28**](https://www.youtube.com/watch?v=n-lpCRp8qzw&t=388s))",
+      "_key": "recipe-section-1",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "For the Chicken Layer:",
+      "body": "- **Chicken:** Chicken legs/pieces ([**4:40**](https://www.youtube.com/watch?v=n-lpCRp8qzw&t=280s))\n- **Mustard:** Enough to coat the chicken ([**5:18**](https://www.youtube.com/watch?v=n-lpCRp8qzw&t=318s))\n- **Seasonings:** A mix of the same rice spices (garlic powder, onion powder, Cajun, Creole, steak seasoning, black pepper) ([**6:07**](https://www.youtube.com/watch?v=n-lpCRp8qzw&t=367s))\n- **Sweet chili sauce:** Extra for brushing on top ([**6:54**](https://www.youtube.com/watch?v=n-lpCRp8qzw&t=414s))",
+      "_key": "recipe-section-2",
+      "items": [],
+      "after_step": 0
+    }
+  ],
+  "steps": [
+    {
+      "title": "Step 1: Prep and Oven Setup",
+      "body": "- Preheat your oven to 200 °C ([**0:37**](https://www.youtube.com/watch?v=n-lpCRp8qzw&t=37s)).\n- Boil your water in a kettle if you are using bouillon cubes instead of pre-made stock ([**1:25**](https://www.youtube.com/watch?v=n-lpCRp8qzw&t=85s)).",
+      "_key": "recipe-section-4"
+    },
+    {
+      "title": "Step 2: Build the Rice Base Matrix",
+      "body": "- Place your casserole dish directly on a kitchen scale ([**0:37**](https://www.youtube.com/watch?v=n-lpCRp8qzw&t=37s)).\n- Weigh out 500 g of dry rice directly into the bottom of the dish and flatten it out ([**0:47**](https://www.youtube.com/watch?v=n-lpCRp8qzw&t=47s)).\n- Crumble the 2 chicken bouillon cubes directly over the rice with your fingers ([**1:44**](https://www.youtube.com/watch?v=n-lpCRp8qzw&t=104s)).",
+      "_key": "recipe-section-5"
+    },
+    {
+      "title": "Step 3: Season and Sauce the Rice",
+      "body": "- Add 29.5 mL each of garlic powder, onion powder, Cajun seasoning, Creole seasoning, and steak seasoning to the rice ([**1:52**](https://www.youtube.com/watch?v=n-lpCRp8qzw&t=112s)).\n- Add 5 mL of black pepper ([**2:30**](https://www.youtube.com/watch?v=n-lpCRp8qzw&t=150s)).\n- Squirt 100 g of mustard and pour 400 g of sweet chili sauce directly into the seasoned rice ([**3:06**](https://www.youtube.com/watch?v=n-lpCRp8qzw&t=186s)).\n- Pour in 500 mL of boiling water and stir everything with a slotted spoon until fully combined ([**3:40**](https://www.youtube.com/watch?v=n-lpCRp8qzw&t=220s)).\n- Toss in your pickled vegetables and stir them evenly throughout the rice ([**6:28**](https://www.youtube.com/watch?v=n-lpCRp8qzw&t=388s)).",
+      "_key": "recipe-section-6"
+    },
+    {
+      "title": "Step 4: Season the Chicken",
+      "body": "- Coat all sides of your chicken pieces thoroughly with mustard ([**5:18**](https://www.youtube.com/watch?v=n-lpCRp8qzw&t=318s)). This adds flavor and gives the spices a surface to stick to ([**5:29**](https://www.youtube.com/watch?v=n-lpCRp8qzw&t=329s)).\n- Dust the chicken pieces evenly on both sides using 2.5 mL portions of the exact same spice mix used for the rice ([**6:07**](https://www.youtube.com/watch?v=n-lpCRp8qzw&t=367s)).",
+      "_key": "recipe-section-7"
+    },
+    {
+      "title": "Step 5: Assemble and Bake",
+      "body": "- Lay the seasoned chicken pieces directly on top of the prepared rice bed ([**6:45**](https://www.youtube.com/watch?v=n-lpCRp8qzw&t=405s)).\n- **Pro-Tip to avoid burning:** Do not add the final sweet chili sauce layer at the very beginning, as the sugars will turn too dark ([**7:50**](https://www.youtube.com/watch?v=n-lpCRp8qzw&t=470s)). Bake the casserole first, and brush the top of the chicken with extra sweet chili sauce about 5 minutes before it finishes cooking ([**6:54**](https://www.youtube.com/watch?v=n-lpCRp8qzw&t=414s)).\n- Bake the casserole for a total of 40 minutes until the rice is fluffy and the chicken is perfectly juicy ([**7:05**](https://www.youtube.com/watch?v=n-lpCRp8qzw&t=425s)).",
+      "_key": "recipe-section-8"
+    }
+  ],
+  "notes": ""
+}

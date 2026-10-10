@@ -1,0 +1,73 @@
+{
+  "title": "Dirty Rice",
+  "nav_title": "Dirty Rice",
+  "category": "main-dishes",
+  "published": true,
+  "order": 2,
+  "description": "",
+  "servings": "",
+  "prep_minutes": null,
+  "cook_minutes": null,
+  "video_url": "https://www.youtube.com/watch?v=bQ3VWZju-no",
+  "image": "assets/images/recipes/dirty-rice.svg",
+  "image_alt": "",
+  "ingredient_groups": [
+    {
+      "title": "The Inclusions & Base",
+      "body": "- **Cheese sausage**: 1 package (Aaron specifically uses an Austrian *Käsekrainer* cheese sausage) ([**3:17**](https://www.youtube.com/watch?v=bQ3VWZju-no&t=197s))\n- **Onion**: 1 large (chopped) ([**0:05**](https://www.youtube.com/watch?v=bQ3VWZju-no&t=5s))\n- **Garlic**: 1 whole head (pressed) ([**1:59**](https://www.youtube.com/watch?v=bQ3VWZju-no&t=119s))\n- **Olive oil**: 29.5 mL ([**1:00**](https://www.youtube.com/watch?v=bQ3VWZju-no&t=60s))\n- **All-purpose flour**: 5–7.5 g *(Note: The video description says 15 g, but Aaron specifies 5–7.5 g to bind the liquids)* ([**5:31**](https://www.youtube.com/watch?v=bQ3VWZju-no&t=331s))\n- **White rice**: 600 g ([**6:20**](https://www.youtube.com/watch?v=bQ3VWZju-no&t=380s))\n- **Chicken stock**: 946 mL ([**6:43**](https://www.youtube.com/watch?v=bQ3VWZju-no&t=403s))\n- **Cold water**: A small splash *(Optional, to slow down hot garlic)* ([**2:39**](https://www.youtube.com/watch?v=bQ3VWZju-no&t=159s))",
+      "_key": "recipe-section-1",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "Seasonings & Spices",
+      "body": "- **Garlic powder**: 29.5 mL total ([**3:54**](https://www.youtube.com/watch?v=bQ3VWZju-no&t=234s))\n- **Onion powder**: 29.5 mL total ([**4:31**](https://www.youtube.com/watch?v=bQ3VWZju-no&t=271s))\n- **Creole seasoning (Tony Chachere's)**: 29.5 mL total ([**4:05**](https://www.youtube.com/watch?v=bQ3VWZju-no&t=245s))\n- **Slap Ya Mama Cajun seasoning**: 29.5 mL total ([**4:05**](https://www.youtube.com/watch?v=bQ3VWZju-no&t=245s))\n- **Steak seasoning (or all-purpose seasoning)**: 29.5 mL total ([**4:43**](https://www.youtube.com/watch?v=bQ3VWZju-no&t=283s))\n- **White pepper**: 10 mL total ([**3:54**](https://www.youtube.com/watch?v=bQ3VWZju-no&t=234s))\n- **Sea salt**: 10 mL total ([**4:26**](https://www.youtube.com/watch?v=bQ3VWZju-no&t=266s))\n- **Dill**: 10 mL total ([**3:46**](https://www.youtube.com/watch?v=bQ3VWZju-no&t=226s))\n- **Rosemary**: 10 mL total ([**4:14**](https://www.youtube.com/watch?v=bQ3VWZju-no&t=254s))\n\n*(Note: Aaron originally skips the celery and beef bouillon mentioned in his standard description because it's a holiday weekend, but notes you can absolutely add them back into yours!) (*[***0:37***](https://www.youtube.com/watch?v=bQ3VWZju-no&t=37s)*)*",
+      "_key": "recipe-section-2",
+      "items": [],
+      "after_step": 0
+    }
+  ],
+  "steps": [
+    {
+      "title": "Step 1: Sauté the Aromatics",
+      "body": "- Set your Instant Pot to its sauté function and add 29.5 mL of olive oil ([**0:54**](https://www.youtube.com/watch?v=bQ3VWZju-no&t=54s)). Drop in your chopped onion and press an entire head of garlic straight into the pot using a garlic press ([**0:05**](https://www.youtube.com/watch?v=bQ3VWZju-no&t=5s)).  \n  *Pro-Tip: If your garlic begins to cook too fast or look like it might burn while you multitask, toss in a tiny splash of cold water to drop the pot's temperature (*[***2:26***](https://www.youtube.com/watch?v=bQ3VWZju-no&t=146s)*).*",
+      "_key": "recipe-section-4"
+    },
+    {
+      "title": "Step 2: Brown the Sausage",
+      "body": "- Slice your cheese sausage and drop it into the sizzling pot ([**3:24**](https://www.youtube.com/watch?v=bQ3VWZju-no&t=204s)). Sauté the mixture for a few minutes just until the sausage takes on a nice bit of color ([**3:33**](https://www.youtube.com/watch?v=bQ3VWZju-no&t=213s)). As it heats up, the pockets of cheese inside the sausage will slowly melt out into the oil, creating a rich baseline flavor ([**5:16**](https://www.youtube.com/watch?v=bQ3VWZju-no&t=316s)).",
+      "_key": "recipe-section-5"
+    },
+    {
+      "title": "Step 3: Shake in the First Round of Spices",
+      "body": "- Measure out and add 15 mL each of white pepper, garlic powder, Tony Chachere's Creole seasoning, Slap Ya Mama, onion powder, and steak seasoning ([**3:54**](https://www.youtube.com/watch?v=bQ3VWZju-no&t=234s)). Toss in 5 mL each of dill, rosemary, and fine sea salt ([**3:46**](https://www.youtube.com/watch?v=bQ3VWZju-no&t=226s)). Stir well to coat the meat and onions entirely.",
+      "_key": "recipe-section-6"
+    },
+    {
+      "title": "Step 4: Add the Binder",
+      "body": "- Sprinkle 5–7.5 g of all-purpose flour directly over the meat and spices, mixing well ([**5:31**](https://www.youtube.com/watch?v=bQ3VWZju-no&t=331s)). This creates a light thickening layer that helps the rendered oils, melting cheese, and spices stick flush to your rice grains later ([**5:16**](https://www.youtube.com/watch?v=bQ3VWZju-no&t=316s)).",
+      "_key": "recipe-section-7"
+    },
+    {
+      "title": "Step 5: Incorporate Rice and Stock",
+      "body": "- Pour 600 g of white rice into the pot ([**6:20**](https://www.youtube.com/watch?v=bQ3VWZju-no&t=380s)). Stir vigorously for a moment so the individual grains get fully slicked in the spiced oil ([**6:28**](https://www.youtube.com/watch?v=bQ3VWZju-no&t=388s)). Pour in 946 mL of chicken stock ([**6:43**](https://www.youtube.com/watch?v=bQ3VWZju-no&t=403s)). Take a sturdy spoon and scrape the entire bottom surface of the inner liner carefully to lift up any stuck flour or spices so the machine won't trigger a \"burn\" warning ([**7:04**](https://www.youtube.com/watch?v=bQ3VWZju-no&t=424s)).",
+      "_key": "recipe-section-8"
+    },
+    {
+      "title": "Step 6: Double Down on Flavor",
+      "body": "- Give the liquid a quick taste test ([**7:29**](https://www.youtube.com/watch?v=bQ3VWZju-no&t=449s)). To truly make the dish stand out, add 15 mL of all your core seasonings directly into the liquid before sealing ([**7:43**](https://www.youtube.com/watch?v=bQ3VWZju-no&t=463s)).",
+      "_key": "recipe-section-9"
+    },
+    {
+      "title": "Step 7: Pressure Cook",
+      "body": "- Allow the liquid inside the pot to reach a rolling boil ([**7:56**](https://www.youtube.com/watch?v=bQ3VWZju-no&t=476s)). Once boiling, lock the Instant Pot lid in place, set it to manual pressure cook on high for 10 minutes, and let it do its magic ([**8:22**](https://www.youtube.com/watch?v=bQ3VWZju-no&t=502s)).",
+      "_key": "recipe-section-10"
+    },
+    {
+      "title": "Step 8: Fluff and Serve",
+      "body": "- Once the timer goes off, let the pressure release, open the lid, and fluff the dirty rice ([**8:22**](https://www.youtube.com/watch?v=bQ3VWZju-no&t=502s)). The final texture will be wonderfully rich, juicy, and packed with a robust but balanced savory punch ([**9:26**](https://www.youtube.com/watch?v=bQ3VWZju-no&t=566s)).",
+      "_key": "recipe-section-11"
+    }
+  ],
+  "notes": ""
+}

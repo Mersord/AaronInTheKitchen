@@ -1,0 +1,68 @@
+{
+  "title": "Carrot Sheet Cake",
+  "nav_title": "Carrot Sheet Cake",
+  "category": "desserts",
+  "published": true,
+  "order": 25,
+  "description": "",
+  "servings": "",
+  "prep_minutes": null,
+  "cook_minutes": null,
+  "video_url": "https://www.youtube.com/watch?v=VHZq1E4Spnw",
+  "image": "assets/images/recipes/carrot-sheet-cake.svg",
+  "image_alt": "",
+  "ingredient_groups": [
+    {
+      "title": "The Cake Batter",
+      "body": "- **All-purpose flour**: 300 g ([**0:42**](https://www.youtube.com/watch?v=VHZq1E4Spnw&t=42s))\n- **Cornstarch**: 18 g *(Aaron's secret to mimicking soft cake flour)* ([**6:11**](https://www.youtube.com/watch?v=VHZq1E4Spnw&t=371s))\n- **Vegetable oil**: 350 mL ([**2:44**](https://www.youtube.com/watch?v=VHZq1E4Spnw&t=164s))\n- **Brown sugar**: 220 g ([**3:12**](https://www.youtube.com/watch?v=VHZq1E4Spnw&t=192s))\n- **Granulated sugar**: 200 g ([**3:19**](https://www.youtube.com/watch?v=VHZq1E4Spnw&t=199s))\n- **Large eggs**: 4 ([**3:19**](https://www.youtube.com/watch?v=VHZq1E4Spnw&t=199s))\n- **Grated carrots**: 313 g ([**4:49**](https://www.youtube.com/watch?v=VHZq1E4Spnw&t=289s))\n- **Vanilla paste**: 29.5 mL ([**4:23**](https://www.youtube.com/watch?v=VHZq1E4Spnw&t=263s))\n- **Baking powder**: 7 g ([**1:14**](https://www.youtube.com/watch?v=VHZq1E4Spnw&t=74s))\n- **Baking soda**: 5 g ([**1:14**](https://www.youtube.com/watch?v=VHZq1E4Spnw&t=74s))\n- **Fine sea salt**: 3 g ([**2:06**](https://www.youtube.com/watch?v=VHZq1E4Spnw&t=126s))\n- **Cinnamon**: 5 mL ([**2:18**](https://www.youtube.com/watch?v=VHZq1E4Spnw&t=138s))\n- **Ginger**: 5 mL ([**2:18**](https://www.youtube.com/watch?v=VHZq1E4Spnw&t=138s))\n- **Ground nutmeg**: 10 mL ([**8:15**](https://www.youtube.com/watch?v=VHZq1E4Spnw&t=495s))\n- **Ground cardamom**: 7.5 mL ([**8:33**](https://www.youtube.com/watch?v=VHZq1E4Spnw&t=513s))\n- **Golden raisins**: 100 g *(Added by special request)* ([**0:15**](https://www.youtube.com/watch?v=VHZq1E4Spnw&t=15s))\n- **Mixed nuts**: 100 g total (A 50/50 blend of chopped hazelnuts and walnuts) ([**4:49**](https://www.youtube.com/watch?v=VHZq1E4Spnw&t=289s))",
+      "_key": "recipe-section-1",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "For the Cream Cheese Frosting & Topping",
+      "body": "- **Cold cream cheese**: 440 g ([**11:23**](https://www.youtube.com/watch?v=VHZq1E4Spnw&t=683s))\n- **Butter**: 250 g (Slightly chilled, but soft enough to leave a thumbprint) ([**11:59**](https://www.youtube.com/watch?v=VHZq1E4Spnw&t=719s))\n- **Powdered sugar**: 400 g *(Adjusted down from 600 g for perfect sweetness)* ([**13:21**](https://www.youtube.com/watch?v=VHZq1E4Spnw&t=801s))\n- **Vanilla paste**: 5 mL ([**12:50**](https://www.youtube.com/watch?v=VHZq1E4Spnw&t=770s))\n- **Walnuts**: An extra generous handful (Roughly chopped for topping) ([**17:12**](https://www.youtube.com/watch?v=VHZq1E4Spnw&t=1032s))",
+      "_key": "recipe-section-2",
+      "items": [],
+      "after_step": 0
+    }
+  ],
+  "steps": [
+    {
+      "title": "Step 1: Prep the Oven and Baking Pan",
+      "body": "- Preheat your oven to 175 °C ([**10:31**](https://www.youtube.com/watch?v=VHZq1E4Spnw&t=631s)). Take a standard 22.9 × 33 cm baking dish and line the entire bottom and sides completely with parchment paper ([**4:17**](https://www.youtube.com/watch?v=VHZq1E4Spnw&t=257s)). Use kitchen shears to snip the corners so the paper folds and lays perfectly flat ([**9:54**](https://www.youtube.com/watch?v=VHZq1E4Spnw&t=594s)).",
+      "_key": "recipe-section-4"
+    },
+    {
+      "title": "Step 2: Mix the Dry Ingredients",
+      "body": "- Set up your kitchen scale ([**0:50**](https://www.youtube.com/watch?v=VHZq1E4Spnw&t=50s)). Weigh out and whisk together 300 g of all-purpose flour, 18 g of cornstarch, 7 g of baking powder, 5 g of baking soda, and 3 g of fine sea salt ([**0:42**](https://www.youtube.com/watch?v=VHZq1E4Spnw&t=42s)). Whisk in your dry spices: cinnamon, ginger, nutmeg, and cardamom ([**2:18**](https://www.youtube.com/watch?v=VHZq1E4Spnw&t=138s)).",
+      "_key": "recipe-section-5"
+    },
+    {
+      "title": "Step 3: Combine the Wet Elements & Inclusions",
+      "body": "- Pour 350 mL of vegetable oil directly into the bowl ([**2:36**](https://www.youtube.com/watch?v=VHZq1E4Spnw&t=156s)). Add the brown sugar, granulated sugar, four eggs, and 29.5 mL of vanilla paste ([**3:12**](https://www.youtube.com/watch?v=VHZq1E4Spnw&t=192s)). Add your 313 g of freshly grated carrots, the 100 g nut blend, and the golden raisins ([**4:49**](https://www.youtube.com/watch?v=VHZq1E4Spnw&t=289s)).",
+      "_key": "recipe-section-6"
+    },
+    {
+      "title": "Step 4: Mix the Batter Carefully by Hand",
+      "body": "- Mix everything together gently using a hand spoon or spatula ([**5:14**](https://www.youtube.com/watch?v=VHZq1E4Spnw&t=314s)). Scrape the absolute bottom of the bowl and drag it up to ensure no dry pockets remain ([**7:19**](https://www.youtube.com/watch?v=VHZq1E4Spnw&t=439s)). *Do not use an electric mixer here; carrot cake batter is incredibly easy to over-mix!* ([**5:14**](https://www.youtube.com/watch?v=VHZq1E4Spnw&t=314s))",
+      "_key": "recipe-section-7"
+    },
+    {
+      "title": "Step 5: Bake and Cool",
+      "body": "- Pour your smooth, rich batter into your fully lined 9x13 pan ([**10:23**](https://www.youtube.com/watch?v=VHZq1E4Spnw&t=623s)). Bake at 175 °C for exactly 30 minutes ([**10:31**](https://www.youtube.com/watch?v=VHZq1E4Spnw&t=631s)). Let the cake cool completely before attempting to frost it.",
+      "_key": "recipe-section-8"
+    },
+    {
+      "title": "Step 6: Whip up the Frosting",
+      "body": "- While the cake cools, place 440 g of cold cream cheese and 250 g of slightly chilled butter into a clean bowl ([**11:23**](https://www.youtube.com/watch?v=VHZq1E4Spnw&t=683s)). Mix on a low speed with a hand mixer to combine them ([**12:19**](https://www.youtube.com/watch?v=VHZq1E4Spnw&t=739s)). Blend in 5 mL of vanilla paste and 400 g of powdered sugar until the texture is completely smooth ([**12:50**](https://www.youtube.com/watch?v=VHZq1E4Spnw&t=770s)).",
+      "_key": "recipe-section-9"
+    },
+    {
+      "title": "Step 7: Frost and Garnish",
+      "body": "- Pour your cream cheese frosting smoothly over the top of the sheet cake ([**15:01**](https://www.youtube.com/watch?v=VHZq1E4Spnw&t=901s)). Use your spatula to create texturized, elegant \"sideways swoops\" in the frosting while ensuring no cake peeks through ([**16:25**](https://www.youtube.com/watch?v=VHZq1E4Spnw&t=985s)). Roughly chop a handful of walnuts into large, chunky pieces and sprinkle them generously over the top ([**17:20**](https://www.youtube.com/watch?v=VHZq1E4Spnw&t=1040s)).",
+      "_key": "recipe-section-10"
+    }
+  ],
+  "notes": ""
+}

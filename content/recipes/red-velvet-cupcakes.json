@@ -1,0 +1,87 @@
+{
+  "title": "Red Velvet Cupcakes",
+  "nav_title": "Red Velvet Cupcakes",
+  "category": "desserts",
+  "published": true,
+  "order": 24,
+  "description": "",
+  "servings": "",
+  "prep_minutes": null,
+  "cook_minutes": null,
+  "video_url": "https://www.youtube.com/watch?v=SB7z3sC0X2M",
+  "image": "assets/images/recipes/red-velvet-cupcakes.svg",
+  "image_alt": "",
+  "ingredient_groups": [
+    {
+      "title": "Dry Ingredients",
+      "body": "- **All-purpose flour**: 280 g\n- **Cornstarch**: 19 g *(Note: In the video, Aaron mentions using 18 g or 19 g to soften the AP flour into a bakery-soft cake flour texture)* ([**0:59**](https://www.youtube.com/watch?v=SB7z3sC0X2M&t=59s))\n- **Dutch-processed cocoa powder**: 13 g ([**2:07**](https://www.youtube.com/watch?v=SB7z3sC0X2M&t=127s))\n- **Granulated sugar**: 350 g ([**2:22**](https://www.youtube.com/watch?v=SB7z3sC0X2M&t=142s))\n- **Baking soda**: 5 g ([**2:22**](https://www.youtube.com/watch?v=SB7z3sC0X2M&t=142s))\n- **Baking powder**: 5 g ([**2:22**](https://www.youtube.com/watch?v=SB7z3sC0X2M&t=142s))\n- **Sea salt**: 5 mL ([**2:49**](https://www.youtube.com/watch?v=SB7z3sC0X2M&t=169s)) [[1](https://youtu.be/SB7z3sC0X2M#:~:text=These%20amazing%20red%20velvet%20cupcakes%20have%20a,cakes%20a%20festive%20and%20bright%20scarlet%20hue.)]",
+      "_key": "recipe-section-1",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "Wet Ingredients & Liquid Additions",
+      "body": "- **Whole milk (for vinegar mix)**: 120 mL ([**3:13**](https://www.youtube.com/watch?v=SB7z3sC0X2M&t=193s))\n- **White distilled vinegar**: 30 g ([**3:13**](https://www.youtube.com/watch?v=SB7z3sC0X2M&t=193s))\n- **Flavorless vegetable oil**: 200 mL ([**3:13**](https://www.youtube.com/watch?v=SB7z3sC0X2M&t=193s))\n- **Vanilla paste (or extract)**: 10 mL ([**3:30**](https://www.youtube.com/watch?v=SB7z3sC0X2M&t=210s))\n- **Large eggs**: 4 ([**3:47**](https://www.youtube.com/watch?v=SB7z3sC0X2M&t=227s))",
+      "_key": "recipe-section-2",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "The Hot Liquid Mixture",
+      "body": "- **Whole milk**: 240 g ([**4:19**](https://www.youtube.com/watch?v=SB7z3sC0X2M&t=259s))\n- **Unsalted butter**: 60 g ([**4:19**](https://www.youtube.com/watch?v=SB7z3sC0X2M&t=259s))\n- **Red food coloring**: 1 to 2 packets *(Aaron uses gel food coloring available in Austria)* ([**4:40**](https://www.youtube.com/watch?v=SB7z3sC0X2M&t=280s))",
+      "_key": "recipe-section-3",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "For the Cream Cheese Frosting & Topping",
+      "body": "- **Cold cream cheese**: 440 g ([**11:23**](https://www.youtube.com/watch?v=VHZq1E4Spnw&t=683s))\n- **Butter**: 250 g (Slightly chilled, but soft enough to leave a thumbprint) ([**11:59**](https://www.youtube.com/watch?v=VHZq1E4Spnw&t=719s))\n- **Powdered sugar**: 400 g *(Adjusted down from 600 g for perfect sweetness)* ([**13:21**](https://www.youtube.com/watch?v=VHZq1E4Spnw&t=801s))\n- **Vanilla paste**: 5 mL ([**12:50**](https://www.youtube.com/watch?v=VHZq1E4Spnw&t=770s))\n- **Walnuts**: An extra generous handful (Roughly chopped for topping) ([**17:12**](https://www.youtube.com/watch?v=VHZq1E4Spnw&t=1032s))",
+      "_key": "recipe-section-12",
+      "items": [],
+      "after_step": 7
+    }
+  ],
+  "steps": [
+    {
+      "title": "Step 1: Combine the Dry Ingredients",
+      "body": "- In a large mixing bowl, weigh out 280 g of all-purpose flour, 19 g of cornstarch, 13 g of Dutch-processed cocoa powder, 350 g of granulated sugar, 5 g of baking soda, 5 g of baking powder, and 5 mL of sea salt ([**0:52**](https://www.youtube.com/watch?v=SB7z3sC0X2M&t=52s)). Whisk them briefly by hand ([**0:44**](https://www.youtube.com/watch?v=SB7z3sC0X2M&t=44s)). *You do not need to sift these ingredients, as the hot liquid added later will dissolve any small lumps.* ([**1:31**](https://www.youtube.com/watch?v=SB7z3sC0X2M&t=91s))",
+      "_key": "recipe-section-5"
+    },
+    {
+      "title": "Step 2: Add the First Round of Wet Ingredients",
+      "body": "- Pour 120 mL of whole milk mixed with 30 g of white vinegar directly into the dry mixture ([**3:13**](https://www.youtube.com/watch?v=SB7z3sC0X2M&t=193s)). Add 200 mL of flavorless cooking oil, 10 mL of vanilla paste, and 4 large eggs ([**3:13**](https://www.youtube.com/watch?v=SB7z3sC0X2M&t=193s)). Whisk carefully to combine ([**3:47**](https://www.youtube.com/watch?v=SB7z3sC0X2M&t=227s)). Because this batter is highly liquid, you do not need to worry heavily about over-mixing ([**3:55**](https://www.youtube.com/watch?v=SB7z3sC0X2M&t=235s)).",
+      "_key": "recipe-section-6"
+    },
+    {
+      "title": "Step 3: Heat the Milk and Butter Mixture",
+      "body": "- On the stovetop, gently warm 240 g of whole milk along with 60 g of unsalted butter until melted and hot ([**4:19**](https://www.youtube.com/watch?v=SB7z3sC0X2M&t=259s)). This warm liquid addition is an extra step that guarantees the cake crumbs turn out exceptionally tender and moist ([**5:05**](https://www.youtube.com/watch?v=SB7z3sC0X2M&t=305s)).",
+      "_key": "recipe-section-7"
+    },
+    {
+      "title": "Step 4: Color the Hot Liquid",
+      "body": "- Squeeze your red food coloring directly into the warm milk and butter mixture before adding it to the cake batter ([**4:40**](https://www.youtube.com/watch?v=SB7z3sC0X2M&t=280s)). Stir it well, adding enough gel until it reaches a deep, vibrant red hue ([**4:55**](https://www.youtube.com/watch?v=SB7z3sC0X2M&t=295s)).",
+      "_key": "recipe-section-8"
+    },
+    {
+      "title": "Step 5: Finish the Batter",
+      "body": "- Pour the colored, warm milk mixture straight into your mixing bowl ([**5:05**](https://www.youtube.com/watch?v=SB7z3sC0X2M&t=305s)). Whisk everything together thoroughly by hand until the batter is smooth, thin, and entirely uniform in its bright red color ([**0:44**](https://www.youtube.com/watch?v=SB7z3sC0X2M&t=44s)).",
+      "_key": "recipe-section-9"
+    },
+    {
+      "title": "Step 6: Scoop into Jumbo Muffin Pans",
+      "body": "- Preheat your oven to 160 °C ([**6:26**](https://www.youtube.com/watch?v=SB7z3sC0X2M&t=386s)). Line a jumbo-sized muffin or cupcake tin with liners ([**6:48**](https://www.youtube.com/watch?v=SB7z3sC0X2M&t=408s)). Using a large batter scoop, add roughly two scoops of batter to each cavity, being careful not to spill over the sides ([**7:00**](https://www.youtube.com/watch?v=SB7z3sC0X2M&t=420s)).",
+      "_key": "recipe-section-10"
+    },
+    {
+      "title": "Step 7: Bake and Cool",
+      "body": "- Slide the muffin tins into the oven and bake at 160 °C for exactly 20 minutes ([**6:26**](https://www.youtube.com/watch?v=SB7z3sC0X2M&t=386s)). Once a toothpick inserted into the center comes out clean, remove them and allow them to cool fully before frosting ([**8:03**](https://www.youtube.com/watch?v=SB7z3sC0X2M&t=483s)). [[1](https://youtu.be/SB7z3sC0X2M#:~:text=These%20amazing%20red%20velvet%20cupcakes%20have%20a,cakes%20a%20festive%20and%20bright%20scarlet%20hue.)]",
+      "_key": "recipe-section-11"
+    },
+    {
+      "title": "Step 8: Frost and Decorate",
+      "body": "Once cooled, pipe or spread a generous layer of rich cream cheese frosting over the tops ([**8:03**](https://www.youtube.com/watch?v=SB7z3sC0X2M&t=483s)). *Aaron notes that he uses the exact same frosting recipe featured in his Hummingbird/Carrot Cake video.* ([**7:16**](https://www.youtube.com/watch?v=SB7z3sC0X2M&t=436s))",
+      "_key": "recipe-section-13"
+    }
+  ],
+  "notes": ""
+}

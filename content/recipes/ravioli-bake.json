@@ -1,0 +1,87 @@
+{
+  "title": "Ravioli Bake",
+  "nav_title": "Ravioli Bake",
+  "category": "main-dishes",
+  "published": true,
+  "order": 8,
+  "description": "",
+  "servings": "",
+  "prep_minutes": null,
+  "cook_minutes": null,
+  "video_url": "https://www.youtube.com/watch?v=Qmqh7VeuIPE",
+  "image": "assets/images/recipes/ravioli-bake.svg",
+  "image_alt": "",
+  "ingredient_groups": [
+    {
+      "title": "The Meat & Pasta Base:",
+      "body": "- **Ground beef**: 500 g *(Can substitute with Italian sausage if available)*\n- **Cheese ravioli**: 2 bags (4-cheese blend, ricotta, or spinach ravioli work great)\n- **Water**: A large pot for boiling\n- **Salt**: A heavy pinch for the pasta water (\"salt it like the sea\")",
+      "_key": "recipe-section-1",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "The Quick \"Homemade\" Tomato Sauce:",
+      "body": "- **Crushed tomatoes**: One 400 g can *(Aaron notes he recommends using 800 g next time for extra juiciness)*\n- **Tomato paste/base**: 100 g *(Used as a thickener)*\n- **Pasta water**: A small splash reserved right before draining",
+      "_key": "recipe-section-2",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "Seasonings & Spices:",
+      "body": "- **For the Beef**: 29.5 mL Italian herbs, 29.5 mL Slap Ya Mama Cajun seasoning, 29.5 mL Creole seasoning, 29.5 mL garlic powder, 15–29.5 mL Macedonian chili spice (or your favorite chili flake/spice), and 2.5 mL salt.\n- **For the Sauce**: 10 mL Italian herbs, 5 mL garlic powder, 5 mL fresh red pepper flakes, 2.5 mL Slap Ya Mama Cajun seasoning, 2.5 mL Creole seasoning, and 2.5 mL salt.",
+      "_key": "recipe-section-3",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "The Cheesy Layers:",
+      "body": "- **Parmesan cheese**: 250 g total\n- **Mozzarella cheese**: 1 bag (frozen or shredded)",
+      "_key": "recipe-section-4",
+      "items": [],
+      "after_step": 0
+    }
+  ],
+  "steps": [
+    {
+      "title": "Step 1: Boil the Water & Prep the Oven",
+      "body": "- Preheat your oven to 200 °C. Set a large pot of water on the stove—ideally on an induction cooktop to speed up the process. Season the water heavily with salt.",
+      "_key": "recipe-section-6"
+    },
+    {
+      "title": "Step 2: Brown and Season the Beef",
+      "body": "- Place 500 g of ground beef into a hot skillet. Season it immediately with 29.5 mL each of Italian herbs, Slap Ya Mama, Creole seasoning, garlic powder, and your chosen chili spice, plus 2.5 mL of salt. Break the meat down and cook just until fully browned, then turn off the heat.",
+      "_key": "recipe-section-7"
+    },
+    {
+      "title": "Step 3: Whisk the Quick Sauce",
+      "body": "- In a mixing bowl, empty one 400 g can of crushed tomatoes. Add 100 g of tomato paste to thicken it. Whisk in 10 mL of Italian herbs, 5 mL of garlic powder, 5 mL of red pepper flakes, and 2.5 mL each of salt, Slap Ya Mama, and Creole seasoning. Use your whisk to smash any large tomato chunks.",
+      "_key": "recipe-section-8"
+    },
+    {
+      "title": "Step 4: Par-Boil the Ravioli",
+      "body": "- Drop your 2 bags of cheese ravioli into the boiling water. If the package calls for a 6-minute cook time, boil them for **exactly 3 minutes** instead. Cooking them halfway ensures they won't turn to mush when they steam in the oven. Turn off the heat but keep your spider skimmer handy.",
+      "_key": "recipe-section-9"
+    },
+    {
+      "title": "Step 5: Assemble the Bottom Layers",
+      "body": "- Spread a thin layer of your tomato sauce across the bottom of a glass baking dish to prevent sticking. Use your spider or a slotted spoon to lift half of the par-cooked ravioli out of the water and layer them across the bottom. Top the ravioli with half of your cooked ground beef, a heavy handful of parmesan cheese, and a layer of tomato sauce.",
+      "_key": "recipe-section-10"
+    },
+    {
+      "title": "Step 6: Finish the Top Layers",
+      "body": "- Add the remaining half of your ravioli on top of the sauce, followed by the rest of the ground beef. Top the meat with a generous layer of frozen/shredded mozzarella cheese and the rest of the parmesan. Pour the final layer of tomato sauce over the cheese.",
+      "_key": "recipe-section-11"
+    },
+    {
+      "title": "Step 7: Add Pasta Water and Bake",
+      "body": "- Before throwing it in the oven, scoop a small splash of the starchy pasta water from your pot and pour it along the inside edges of the dish. This liquid will drop to the bottom, steam the pasta, and melt the cheese beautifully. Bake at 200 °C for about 2 minutes, or just until the cheese is completely melted and bubbling.",
+      "_key": "recipe-section-12"
+    },
+    {
+      "title": "Step 8: Cool and Serve",
+      "body": "- Remove from the oven, let it cool for a minute to get a perfect, stretchy cheese pull, and serve immediately!",
+      "_key": "recipe-section-13"
+    }
+  ],
+  "notes": ""
+}

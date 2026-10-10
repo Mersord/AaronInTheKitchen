@@ -1,0 +1,70 @@
+{
+  "title": "Southern Fried Chicken, No Buttermilk",
+  "nav_title": "Southern Fried Chicken",
+  "category": "main-dishes",
+  "published": true,
+  "order": 0,
+  "description": "",
+  "servings": "",
+  "prep_minutes": null,
+  "cook_minutes": null,
+  "video_url": "https://www.youtube.com/watch?v=sdLQMynoY_k",
+  "image": "assets/images/recipes/southern-fried-chicken.svg",
+  "image_alt": "",
+  "ingredient_groups": [
+    {
+      "title": "The Chicken & Citrus Marinade",
+      "body": "- **2 whole chickens**, butchered and broken down into individual bone-in pieces (breasts, thighs, legs, and wings)\n- **Orange juice** (freshly squeezed)\n- **Lemon juice** (freshly squeezed)\n- **Spicy Bread and Butter pickle juice**\n- **Tabasco hot sauce** (extra spicy variant)\n- **Sausage stand style mustard** (or alternatively, a tangy Dijon or standard French's yellow mustard)",
+      "_key": "recipe-section-1",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "The Universal Dredge & Batter Base",
+      "body": "*This mixture is split evenly to form both the wet batter and the dry coating.*\n\n- **All-purpose flour**: 360 g total (divided into 240 g for the wet batter and 120 g for the dry mix).\n- **Cornstarch**: 224 g total (divided into 56 g for the wet batter and 168 g for the dry mix).\n- **Water**: Kept nearby without strict measurements, streamed incrementally to thin out and texturize the wet batter",
+      "_key": "recipe-section-2",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "The Seasoning Blend",
+      "body": "*Divided equally into two portions—one half for the wet batter bowl and one half for the dry flour bowl.*\n\n- **Slap Ya Mama Cajun seasoning**: 29.5 mL\n- **Creole seasoning**: 29.5 mL\n- **Lemon pepper seasoning** (such as Smoke and Fire brand): 10 mL\n- **Garlic powder**: 10 mL\n- **Crushed red pepper flakes**: 10 mL\n- **Tajín seasoning**: 10 mL\n- **Sazón packet** (Seafood style or traditional): 1 packet\n- **Chicken bouillon cube**: 1 cube (crushed completely and reserved specifically for the dry batter mix)\n- **Sea salt**: 10 mL (use selectively; most pre-blended spices carry heavy sodium properties)",
+      "_key": "recipe-section-3",
+      "items": [],
+      "after_step": 0
+    }
+  ],
+  "steps": [
+    {
+      "title": "1. Execute the Citrus & Pickle Brine",
+      "body": "- Break down two whole chickens into clean, bone-in frying cuts. Reserve the backbones and scrap trimmings in a separate stockpot to simmer down into homemade chicken stock later.\n- Place the butchered chicken pieces into a clean, deep marinating container.\n- Pour a custom mixture of freshly squeezed orange juice, fresh lemon juice, and tangy spicy bread and butter pickle juice directly over the chicken pieces. Ensure the liquid level completely bathes the meat to unlock the natural acid tenderization process.\n- Shake a heavy dose of extra-spicy Tabasco hot sauce into the container to build up a deeply embedded background heat.\n- Spoon in a rich dollop of sharp, highly tangy sausage-stand mustard (or standard yellow/Dijon mustard). Thoroughly work the mustard into the liquid brine until it emulsifies and wraps around the chicken skin.\n- Seal the container tightly and place it in the refrigerator to **marinate overnight**. This deep soak ensures the flavors pierce deep past the skin down to the bone.",
+      "_key": "recipe-section-5"
+    },
+    {
+      "title": "2. Formulate the Seasoned Wet Batter",
+      "body": "1. Set up your working space by placing two matching large mixing bowls side-by-side.\n2. In the first bowl designated for your wet batter, measure and combine **240 g of all-purpose flour** and **56 g of cornstarch**. *Note: Intentionally omitting heavy buttermilk prevents the exterior from browning or scorching prematurely in the hot oil before the internal bone-in meat finishes cooking completely.*\n3. Toss in half of the total seasoning profile: roughly 15 mL of Slap Ya Mama Cajun seasoning, 15 mL of Creole seasoning, 5 mL of lemon pepper, 5 mL of garlic powder, 5 mL of red pepper flakes, 5 mL of Tajín, and half a packet of Sazón.\n4. Run a wire baking whisk through the dry starches and spices until the entire powder mix turns a uniform, pale orange-red hue.\n5. Grab a pitcher of clean water. Slowly stream small splashes of the water into the seasoned flour bowl while continuously whisking in circles.\n6. Stop adding water when the mixture morphs into a smooth, running slurry. Aim for a precise consistency that feels **notably thinner and looser than standard breakfast pancake batter**, ensuring it forms a light, clean adhesive layer on the meat rather than a heavy dough.",
+      "_key": "recipe-section-6"
+    },
+    {
+      "title": "3. Mix the Dry Flour Dredge",
+      "body": "1. In your secondary clean mixing bowl, construct the dry batter foundation. Pour in the remaining **120 g of all-purpose flour** and **168 g of cornstarch**.\n2. Take one full chicken bouillon cube and crush it between your fingers into a fine, powdery dust, dropping it directly into the dry flour bowl.\n3. Dump the remaining halves of your spice collection into this bowl: 15 mL of Slap Ya Mama, 15 mL of Creole seasoning, 5 mL of lemon pepper, 5 mL of garlic powder, 5 mL of red pepper flakes, 5 mL of Tajín, and the rest of the Sazón packet. Do not add raw sea salt yet; rely on the built-in salt from the bouillon cube and commercial Creole blends to safeguard against over-salting.\n4. Whisk the dry dredge thoroughly. Visually audit the bowl: you must be able to easily see flecks of spices and color deeply threaded all through the white flour. If it looks plain white, adjust with an extra dash of seasonings.",
+      "_key": "recipe-section-7"
+    },
+    {
+      "title": "4. Temper and Coat the Chicken",
+      "body": "- Keep the marinated chicken refrigerated until you are ready to coat and cook it. Drain off excess marinade before coating. Do not leave raw chicken out to warm to room temperature.\n- Transfer your tempered chicken pieces directly out of their liquid brine and submerge them entirely into the bowl of wet batter slurry. Let them sit submerged for a moment.\n- To keep your station organized, dedicate one pair of long kitchen tongs exclusively to the wet bowl and a second pair to the dry station.\n- Lift a piece of chicken from the wet slurry using your wet tongs, letting any heavy run-off stream back into the bowl for a brief second. Drop the wet-coated piece cleanly into the dry seasoning bowl.\n- Switch to your dry tongs or use your hands to scoop large mounds of the seasoned dry flour over the chicken.\n- Press down firmly on the chicken piece with your hands on both sides. Forcing the dry flour to pack tightly onto the wet slurry welds the layers together, creating deep pockets of crispy ridges.\n- Lift the coated chicken up and give it a firm shake to shed loose, powdery clusters before it heads to the frying pot.",
+      "_key": "recipe-section-8"
+    },
+    {
+      "title": "5. Deep Fry the Chicken Pieces",
+      "body": "1. Fill a deep stovetop pot or heavy Dutch oven with clean high-smoke-point cooking oil.\n2. Submerge a high-quality kitchen clip-on oil thermometer into the grease and crank up the stove burner to high heat.\n3. Bring your frying oil up to a targeted, steady temperature range of **185–190 °C**. Maintaining an optimal heat floor of 185 °C ensures the skin crisps instantly upon contact.\n4. Carefully lower your heavy, large bone-in chicken cuts (such as the thick breasts, thighs, and drumsticks) into the hot grease first. Always fry large pieces first because bone-in poultry cooks considerably slower than smaller wings or boneless fillets.\n5. **Strictly avoid overcrowding the pot.** Limit your batches to a **maximum of 3 large chicken pieces at a time**. Crowding dumps the ambient heat out of the oil, leading to a greasy, soggy crust.\n6. Once the chicken hits the oil, immediately dial your stove burner down from high to a steady **medium heat setting** to maintain a balanced, uniform bubble.\n7. Let the chicken fry undisturbed for the first few minutes until a solid, pale shell hardens. Use a heat-safe kitchen spatula to gently check and flip the chicken pieces over to guarantee even color and heat distribution on all sides.\n8. Monitor the physical buoyancy of the meat in the pot. As moisture cooks out, the chicken will lose density and naturally begin **floating smoothly on the surface of the oil**, which serves as your visual cue that it is nearing absolute doneness.\n9. Fry each batch for roughly **12 to 15 minutes** (depending on the exact thickness of your bone-in cuts) until the crust locks into a beautiful, uniform golden-brown shade.",
+      "_key": "recipe-section-9"
+    },
+    {
+      "title": "6. Verify Doneness and Rest",
+      "body": "1. Pierce the thickest interior section of the cooked chicken pieces (close to the bone but without pressing directly against it) with a digital meat thermometer.\n2. Confirm that every piece reaches an internal temperature of **at least 74 °C** in the thickest part, without touching bone. *Use a food thermometer; color and floating are not reliable safety checks.*\n3. Use your clean frying tongs to lift the golden chicken pieces out of the hot oil pool.\n4. Place the hot chicken directly onto an elevated wire cooling rack inside a sheet pan or set them inside an open wire air-fryer basket. Avoid resting them flat on paper towels, which traps steam and ruins the bottom crunch.\n5. Place the wire rack of fried chicken into a pre-warmed, turned-off oven and let the batch **rest for 15 minutes** before serving. Resting allows the internal juices to redistribute completely back through the meat while keeping the crust incredibly crispy and loud. Serve hot.",
+      "_key": "recipe-section-10"
+    }
+  ],
+  "notes": ""
+}

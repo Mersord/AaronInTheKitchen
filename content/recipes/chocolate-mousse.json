@@ -1,0 +1,68 @@
+{
+  "title": "Chocolate Mousse",
+  "nav_title": "Chocolate Mousse",
+  "category": "desserts",
+  "published": true,
+  "order": 29,
+  "description": "",
+  "servings": "",
+  "prep_minutes": null,
+  "cook_minutes": null,
+  "video_url": "https://www.youtube.com/watch?v=AJCqQen8-Mw",
+  "image": "assets/images/recipes/chocolate-mousse.svg",
+  "image_alt": "",
+  "ingredient_groups": [
+    {
+      "title": "The Chocolate Base",
+      "body": "- **Egg yolks**: 4 large yolks *(Note: Solid or broken yolks both work perfectly fine since they are being whisked anyway)*\n- **Granulated sugar**: 70–76 g\n- **Heavy whipping cream (for heating)**: 237 mL\n- **Semisweet chocolate**: 200 g *(Note: If you are located in Europe, look for chocolate bars labeled as 50% to 65% cacao)*",
+      "_key": "recipe-section-1",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "The Aerating Fluff Layers",
+      "body": "- **Heavy whipping cream (for whipping)**: 400 mL\n- **Egg whites**: 4 large whites *(Reserved from the separated eggs)*",
+      "_key": "recipe-section-2",
+      "items": [],
+      "after_step": 0
+    }
+  ],
+  "steps": [
+    {
+      "title": "1. Separate the Eggs and Heat the Cream",
+      "body": "- Carefully separate 4 large eggs, pooling the 4 yolks into one medium-sized heat-safe mixing bowl and reserving the 4 egg whites in a completely clean, separate bowl for later use.\n- Measure 237 mL of heavy whipping cream and pour it into a small saucepan.\n- Place the saucepan over medium to medium-high heat on your stovetop cooktop.\n- Allow the cream to warm up gradually until it reaches a steady simmer with visible bubbles breaking the surface.",
+      "_key": "recipe-section-4"
+    },
+    {
+      "title": "2. Whisk the Sugar and Egg Yolks",
+      "body": "- Set your bowl containing the 4 egg yolks onto your kitchen scale.\n- Pour roughly 70–76 g of white granulated sugar directly into the yolks.\n- Take the bowl off the scale and begin whisking the mixture vigorously by hand using a wire kitchen whisk.\n- Continue whisking until the texture smoothly emulsifies and the color transforms from a dark yellow-orange into a notably pale, creamy light orange.",
+      "_key": "recipe-section-5"
+    },
+    {
+      "title": "3. Temper the Eggs and Melt the Chocolate",
+      "body": "- As soon as your stovetop cream climbs into a rolling boil, remove it from the hot burner.\n- Slowly pour a thin, continuous stream of the boiling hot cream directly into your pale egg yolk mixture while simultaneously whisking very rapidly with your other hand. *Pro Tip: Pouring slowly while whisking constantly prevents the hot cream from scrambling the raw eggs.*\n- Immediately drop 200 g of semisweet chocolate pieces directly into the warm egg and cream mixture. If your kitchen environment is cool, chop the chocolate into fine pieces first to accelerate the process; if your kitchen is quite warm, the solid pieces will melt easily on their own.\n- Keep stirring continuously. The liquid base will gradually deepen in color and thicken as the chocolate melts completely into a uniform, rich liquid soup.\n- Place the chocolate base into your refrigerator to cool down slightly while you prepare the remaining fluff layers.",
+      "_key": "recipe-section-6"
+    },
+    {
+      "title": "4. Whip the Heavy Cream",
+      "body": "- Set up a stand mixer fitted with the whisk attachment, or prepare a clean mixing bowl with a hand mixer.\n- Pour 400 mL of cold heavy whipping cream directly into the mixer bowl. Attach a splash guard and drape a clean kitchen towel over the top to keep your counters clean.\n- Whip the cream on high speed, watching it closely so it does not overmix and accidentally churn into homemade butter.\n- Stop the mixer as soon as the cream forms solid, distinct stiff peaks.",
+      "_key": "recipe-section-7"
+    },
+    {
+      "title": "5. Whip the Reserved Egg Whites",
+      "body": "- Remove the whipped cream from the mixer bowl and set it aside in a separate cool container. Thoroughly wash and dry your mixer bowl and whisk attachment. *Pro Tip: Egg whites will refuse to expand properly if there is any leftover fat or moisture clinging to the equipment.*\n- Drop your 4 reserved egg whites directly into the clean mixer bowl.\n- Whip on high speed with your splash guard attached.\n- Let the mixer run until the liquid egg whites expand completely into soft, frothy, cloud-like white bubbles.",
+      "_key": "recipe-section-8"
+    },
+    {
+      "title": "6. Fold the Mousse Mixture",
+      "body": "- Retrieve your cooled chocolate soup base from the refrigerator.\n- Add your whipped cream into the chocolate bowl.\n- Use a flexible spatula to fold the mixtures together gently by hand: scoop underneath the dense chocolate base, pull it up, and fold it over the light cream. Repeat this slow rhythmic scooping motion to incorporate volume without flattening the aeration.\n- Once the cream is mostly combined, drop in half of your fluffed egg whites to act as a sacrifice layer to lighten the density. Fold gently.\n- Add the remaining half of the egg whites to the bowl.\n- If you see stubborn lumps or unmixed pockets, break the standard pastry rule and grab your wire baking whisk. Give the mixture a very light, gentle manual whisking to quickly homogenize the texture into a smooth, uniformly silky mousse.",
+      "_key": "recipe-section-9"
+    },
+    {
+      "title": "7. Set and Chill",
+      "body": "- Stop mixing as soon as the texture looks completely smooth and airy.\n- Cover the bowl securely and place it into the refrigerator to firm up.\n- Allow the mousse to chill continuously to let the fats solidify into a structure that is simultaneously light, fluffy, and dense enough to hold its shape.\n- Spoon into glasses, garnish with fresh seasonal berries or fruit if desired, and serve cold.",
+      "_key": "recipe-section-10"
+    }
+  ],
+  "notes": ""
+}

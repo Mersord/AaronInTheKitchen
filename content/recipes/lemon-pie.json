@@ -1,0 +1,53 @@
+{
+  "title": "Lemon Pie",
+  "nav_title": "Lemon Pie",
+  "category": "desserts",
+  "published": true,
+  "order": 22,
+  "description": "",
+  "servings": "",
+  "prep_minutes": null,
+  "cook_minutes": null,
+  "video_url": "https://www.youtube.com/watch?v=QmPcTte_SZY",
+  "image": "assets/images/recipes/lemon-pie.svg",
+  "image_alt": "",
+  "ingredient_groups": [
+    {
+      "title": "Pie Filling & Custard",
+      "body": "- **Granulated Sugar**: 200 g ([**4:54**](https://www.youtube.com/watch?v=QmPcTte_SZY&t=294s))\n- **Brown Sugar**: 50 g ([**4:19**](https://www.youtube.com/watch?v=QmPcTte_SZY&t=259s)) *(Note: Aaron uses this to add depth of flavor (*[***4:35***](https://www.youtube.com/watch?v=QmPcTte_SZY&t=275s)*)).*\n- **Eggs**: 6 large eggs (separated into yolks and whites; only yolks are used for the pie) ([**3:00**](https://www.youtube.com/watch?v=QmPcTte_SZY&t=180s))\n- **Cornstarch**: 40 g ([**5:06**](https://www.youtube.com/watch?v=QmPcTte_SZY&t=306s)) *(The description specifies 35 g, but Aaron explicitly scales out 40 g in the video (*[***5:06***](https://www.youtube.com/watch?v=QmPcTte_SZY&t=306s)*)).*\n- **Sea Salt**: 2 g ([**5:20**](https://www.youtube.com/watch?v=QmPcTte_SZY&t=320s))\n- **Water**: 350 mL ([**5:20**](https://www.youtube.com/watch?v=QmPcTte_SZY&t=320s))\n- **Lemon Juice**: 100 mL (freshly squeezed from 2 medium lemons) ([**5:45**](https://www.youtube.com/watch?v=QmPcTte_SZY&t=345s))\n- **Lemon Zest**: From 2 medium lemons ([**5:45**](https://www.youtube.com/watch?v=QmPcTte_SZY&t=345s))\n- **Unsalted Butter**: 56 g",
+      "_key": "recipe-section-1",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "The Crust",
+      "body": "- **Single Pie Crust**: 1 pre-made or homemade dough disk, fitted into a shell and frozen ([**0:17**](https://www.youtube.com/watch?v=QmPcTte_SZY&t=17s))\n- **Pie Weights**: Heavy dry beans and aluminum foil ([**0:36**](https://www.youtube.com/watch?v=QmPcTte_SZY&t=36s))",
+      "_key": "recipe-section-2",
+      "items": [],
+      "after_step": 0
+    }
+  ],
+  "steps": [
+    {
+      "title": "Step 1: Blind Bake the Pie Crust",
+      "body": "- **Prepare the weights**: Take the frozen pie crust out of the freezer ([**0:27**](https://www.youtube.com/watch?v=QmPcTte_SZY&t=27s)). Line the inside with aluminum foil and fill it with dry beans to prevent the pastry from puffing up ([**0:36**](https://www.youtube.com/watch?v=QmPcTte_SZY&t=36s)).\n- **First bake**: Bake the crust at 215 °C for 20 minutes to set the shape of the shell ([**1:28**](https://www.youtube.com/watch?v=QmPcTte_SZY&t=88s)).\n- **Remove weights**: Pull the pie out of the oven and carefully lift out the foil and hot beans ([**9:50**](https://www.youtube.com/watch?v=QmPcTte_SZY&t=590s)).\n- **Second bake**: Wrap aluminum foil around the outer perimeter edges of the crust to stop them from over-browning ([**10:12**](https://www.youtube.com/watch?v=QmPcTte_SZY&t=612s)). Lower the oven temperature to 175 °C and bake for an additional 15 minutes to dry out and crisp the center ([**1:46**](https://www.youtube.com/watch?v=QmPcTte_SZY&t=106s)). Set aside to cool ([**10:40**](https://www.youtube.com/watch?v=QmPcTte_SZY&t=640s)).",
+      "_key": "recipe-section-4"
+    },
+    {
+      "title": "Step 2: Prep the Base & Citrus",
+      "body": "1. **Separate the eggs**: Separate your 6 eggs into yolks and whites ([**3:00**](https://www.youtube.com/watch?v=QmPcTte_SZY&t=180s)). Keep the yolks for the filling and save the whites for another recipe ([**3:39**](https://www.youtube.com/watch?v=QmPcTte_SZY&t=219s)).\n2. **Weigh the dry ingredients**: On a kitchen scale, measure out 50 g of brown sugar, 200 g of granulated sugar, 40 g of cornstarch, and 2 g of sea salt directly into a bowl ([**3:43**](https://www.youtube.com/watch?v=QmPcTte_SZY&t=223s)).\n3. **Zest and juice**: Grate the outer yellow skin of 2 medium lemons, avoiding the bitter white pith ([**5:45**](https://www.youtube.com/watch?v=QmPcTte_SZY&t=345s)). Juice the lemons to yield roughly 100 mL of fresh juice ([**6:33**](https://www.youtube.com/watch?v=QmPcTte_SZY&t=393s)). Combine the citrus ingredients with 350 mL of water ([**5:20**](https://www.youtube.com/watch?v=QmPcTte_SZY&t=320s)).\n\n**Step**",
+      "_key": "recipe-section-5"
+    },
+    {
+      "title": "Step 3: Cook and Temper the Custard",
+      "body": "1. **Thicken the syrup**: Bring your sugar, water, starch, and lemon mixture to a simmer on the stovetop ([**7:01**](https://www.youtube.com/watch?v=QmPcTte_SZY&t=421s)). Whisk constantly until the liquid turns into a thick, uniform syrup ([**7:07**](https://www.youtube.com/watch?v=QmPcTte_SZY&t=427s)).\n2. **Temper the yolks**: Remove the pot from direct heat so the hot mixture doesn't immediately scramble your eggs ([**8:08**](https://www.youtube.com/watch?v=QmPcTte_SZY&t=488s)). Ladle a small splash of the hot lemon syrup into the egg yolks while whisking vigorously to slowly raise their temperature ([**7:58**](https://www.youtube.com/watch?v=QmPcTte_SZY&t=478s)).\n3. **Finish the filling**: Whisk the tempered egg yolk mixture back into the main pot ([**8:40**](https://www.youtube.com/watch?v=QmPcTte_SZY&t=520s)). Continue stirring off-heat until the custard becomes completely thick, lush, and smooth with a vibrant orange-yellow color ([**8:56**](https://www.youtube.com/watch?v=QmPcTte_SZY&t=536s)).",
+      "_key": "recipe-section-6"
+    },
+    {
+      "title": "tep 4: Fill, Chill, and Serve",
+      "body": "- Roll the flattened dough loosely onto your rolling pin and transfer it over your pie dish ([**10:34**](https://www.youtube.com/watch?v=kLsLcWl_cPI&t=634s)). Press it gently down into the corners, leaving a **Pour**: Pour the warm, cooked lemon custard filling directly into your baked and cooled pie crust shell ([**10:40**](https://www.youtube.com/watch?v=QmPcTte_SZY&t=640s)).\n- **Chill:** Refrigerate the custard pie promptly after a brief initial cooling period; do not leave it on the counter for four hours. Keep total time at room temperature under 2 hours (under 1 hour above 32 °C, then chill until the filling is set.\n- **Toppings (Optional)**: Aaron prefers serving this pie plain without a meringue ([**12:22**](https://www.youtube.com/watch?v=QmPcTte_SZY&t=742s)). However, you can add a whipped cream border or toasted meringue layer right before slicing if desired ([**10:49**](https://www.youtube.com/watch?v=QmPcTte_SZY&t=649s)). of overhang ([**10:42**](https://www.youtube.com/watch?v=kLsLcWl_cPI&t=642s)). Place the lined tin straight into the freezer to firm up while you prep the top ([**11:41**](https://www.youtube.com/watch?v=kLsLcWl_cPI&t=701s)).",
+      "_key": "recipe-section-7"
+    }
+  ],
+  "notes": ""
+}

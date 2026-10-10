@@ -1,0 +1,80 @@
+{
+  "title": "Instant Pot Gumbo",
+  "nav_title": "Instant Pot Gumbo",
+  "category": "main-dishes",
+  "published": true,
+  "order": 15,
+  "description": "",
+  "servings": "",
+  "prep_minutes": null,
+  "cook_minutes": null,
+  "video_url": "https://www.youtube.com/watch?v=lWmCDa1q7ls",
+  "image": "assets/images/recipes/instant-pot-gumbo.svg",
+  "image_alt": "",
+  "ingredient_groups": [
+    {
+      "title": "The Base & Vegetables",
+      "body": "- **Butter**: 250 g ([**7:58**](https://www.youtube.com/watch?v=lWmCDa1q7ls&t=478s))\n- **All-purpose flour**: 120 g ([**8:30**](https://www.youtube.com/watch?v=lWmCDa1q7ls&t=510s))\n- **Onion**: 1 large (rough chopped) ([**1:30**](https://www.youtube.com/watch?v=lWmCDa1q7ls&t=90s))\n- **Celery stalks**: 2 stalks (or approx. 500 g, rough chopped) ([**1:39**](https://www.youtube.com/watch?v=lWmCDa1q7ls&t=99s))\n- **Garlic**: 1 whole head (pressed) ([**9:20**](https://www.youtube.com/watch?v=lWmCDa1q7ls&t=560s))",
+      "_key": "recipe-section-1",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "Meat & Liquids",
+      "body": "- **Chicken**: 1 whole chicken (Aaron specifically uses 4 legs and 4 thighs with bones left on) ([**7:12**](https://www.youtube.com/watch?v=lWmCDa1q7ls&t=432s))\n- **Sausage**: Traditional Andouille or local alternative (cut diagonally) ([**3:17**](https://www.youtube.com/watch?v=lWmCDa1q7ls&t=197s))\n- **Chicken stock**: 2.366 L (added incrementally) ([**15:18**](https://www.youtube.com/watch?v=lWmCDa1q7ls&t=918s))",
+      "_key": "recipe-section-2",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "Seasonings & Spices",
+      "body": "- **Chicken bouillon cube**: 1 cube ([**16:46**](https://www.youtube.com/watch?v=lWmCDa1q7ls&t=1006s))\n- **Creole seasoning (e.g., Tony Chachere's)**: 59 mL ([**17:24**](https://www.youtube.com/watch?v=lWmCDa1q7ls&t=1044s))\n- **Slap Ya Mama Cajun seasoning**: 59 mL ([**17:17**](https://www.youtube.com/watch?v=lWmCDa1q7ls&t=1037s))\n- **Garlic powder**: 29.5 mL ([**16:46**](https://www.youtube.com/watch?v=lWmCDa1q7ls&t=1006s))\n- **Onion powder**: 29.5 mL ([**16:46**](https://www.youtube.com/watch?v=lWmCDa1q7ls&t=1006s))\n- **Garlic flakes**: 29.5 mL ([**16:31**](https://www.youtube.com/watch?v=lWmCDa1q7ls&t=991s))\n- **White pepper**: 29.5 mL ([**16:46**](https://www.youtube.com/watch?v=lWmCDa1q7ls&t=1006s))\n- **Red chili flakes**: 29.5 mL ([**16:22**](https://www.youtube.com/watch?v=lWmCDa1q7ls&t=982s))\n- **Steak seasoning (or all-purpose seasoning)**: 29.5 mL ([**17:06**](https://www.youtube.com/watch?v=lWmCDa1q7ls&t=1026s))\n- **Sea salt**: A pinch ([**17:06**](https://www.youtube.com/watch?v=lWmCDa1q7ls&t=1026s))\n\n*(Note: Aaron starts with half quantities of the seasonings during the video, tastes it, and then adds 15 mL of everything to boost the liquid's final flavor profile (*[***17:45***](https://www.youtube.com/watch?v=lWmCDa1q7ls&t=1065s)*)).*",
+      "_key": "recipe-section-3",
+      "items": [],
+      "after_step": 0
+    }
+  ],
+  "steps": [
+    {
+      "title": "Step 1: Chop the Veggies and Meat",
+      "body": "Give a very rough hand-chop to your onion and celery stalks so they leave thick, rustic chunks in your gumbo ([**0:13**](https://www.youtube.com/watch?v=lWmCDa1q7ls&t=13s)). Slice your sausages at a diagonal angle ([**4:52**](https://www.youtube.com/watch?v=lWmCDa1q7ls&t=292s)). Prepare your chicken pieces by separating the legs and thighs, keeping the bones intact for extra flavor ([**7:12**](https://www.youtube.com/watch?v=lWmCDa1q7ls&t=432s)).",
+      "_key": "recipe-section-5"
+    },
+    {
+      "title": "Step 2: Cook the Roux",
+      "body": "Turn on your Instant Pot's high-heat sauté function ([**5:25**](https://www.youtube.com/watch?v=lWmCDa1q7ls&t=325s)). Melt 250 g of butter and stir in 120 g of all-purpose flour ([**7:58**](https://www.youtube.com/watch?v=lWmCDa1q7ls&t=478s)). Stand over the pot and stir constantly for roughly 7 minutes until the mixture turns into a rich, chocolatey golden-brown color ([**5:33**](https://www.youtube.com/watch?v=lWmCDa1q7ls&t=333s)). *Do not walk away, or it will burn (*[***9:26***](https://www.youtube.com/watch?v=lWmCDa1q7ls&t=566s)*)!*",
+      "_key": "recipe-section-6"
+    },
+    {
+      "title": "Step 3: Deglaze with Vegetables",
+      "body": "Carefully dump your chopped onion and celery directly into the hot roux ([**12:28**](https://www.youtube.com/watch?v=lWmCDa1q7ls&t=748s)). The natural moisture and acids from the vegetables will react with the oil and safely deglaze any flour clinging to the bottom of the pot ([**11:22**](https://www.youtube.com/watch?v=lWmCDa1q7ls&t=682s)).",
+      "_key": "recipe-section-7"
+    },
+    {
+      "title": "Step 4: Build the Liquid Base",
+      "body": "Pour in 473 mL of your chicken stock to keep the vegetables cooking down and lower the heat ([**13:26**](https://www.youtube.com/watch?v=lWmCDa1q7ls&t=806s)). Use a garlic press to crush a whole head of garlic directly into the mix ([**9:20**](https://www.youtube.com/watch?v=lWmCDa1q7ls&t=560s)).",
+      "_key": "recipe-section-8"
+    },
+    {
+      "title": "Step 5: Add the Proteins",
+      "body": "Drop your bone-in chicken pieces and sliced sausages straight into the pot ([**14:59**](https://www.youtube.com/watch?v=lWmCDa1q7ls&t=899s)). Pour in the remaining 1.893 L of chicken stock, making sure to scrape the bottom to ensure nothing sticks ([**15:18**](https://www.youtube.com/watch?v=lWmCDa1q7ls&t=918s)).",
+      "_key": "recipe-section-9"
+    },
+    {
+      "title": "Step 6: Season Heavily",
+      "body": "Add your bouillon cube, Cajun seasonings, garlic powder, onion powder, garlic flakes, white pepper, red chili flakes, steak seasoning, and sea salt ([**16:31**](https://www.youtube.com/watch?v=lWmCDa1q7ls&t=991s)). Stir deeply to make sure the seasoning completely incorporates into the liquid ([**17:34**](https://www.youtube.com/watch?v=lWmCDa1q7ls&t=1054s)).",
+      "_key": "recipe-section-10"
+    },
+    {
+      "title": "Step 7: Pressure Cook",
+      "body": "Secure the lid of your Instant Pot ([**18:14**](https://www.youtube.com/watch?v=lWmCDa1q7ls&t=1094s)). Cook under pressure for 30 to 35 minutes ([**18:28**](https://www.youtube.com/watch?v=lWmCDa1q7ls&t=1108s)). This rapid-cooking step locks in all the deep flavors that traditionally take hours on a stove ([**5:51**](https://www.youtube.com/watch?v=lWmCDa1q7ls&t=351s)).",
+      "_key": "recipe-section-11"
+    },
+    {
+      "title": "Step 8: Serve",
+      "body": "Carefully vent and open the Instant Pot ([**18:50**](https://www.youtube.com/watch?v=lWmCDa1q7ls&t=1130s)). Serve hot over a bed of white rice ([**19:20**](https://www.youtube.com/watch?v=lWmCDa1q7ls&t=1160s)).",
+      "_key": "recipe-section-12"
+    }
+  ],
+  "notes": ""
+}

@@ -1,0 +1,97 @@
+{
+  "title": "Strawberry Biscoff Rolls",
+  "nav_title": "Strawberry Biscoff Rolls",
+  "category": "desserts",
+  "published": true,
+  "order": 19,
+  "description": "",
+  "servings": "",
+  "prep_minutes": null,
+  "cook_minutes": null,
+  "video_url": "https://www.youtube.com/watch?v=3UdSQp_9sdI",
+  "image": "assets/images/recipes/strawberry-biscoff-rolls.svg",
+  "image_alt": "",
+  "ingredient_groups": [
+    {
+      "title": "The Dough & Tangzhong",
+      "body": "- **Bread flour**: 56 g (for Tangzhong) + 504 g (for main dough)\n- **Whole milk**: 112 g (for Tangzhong) + 240 g (for main dough, warmed to 43 °C\n- **Active dry yeast**: 7 g\n- **Granulated sugar**: 100 g\n- **Sea salt**: 6 g\n- **Butter**: 250 g (softened)\n- **Eggs**: 2 large\n- **Neutral oil**: A splash (for coating the dough and work surface) ([**6:48**](https://www.youtube.com/watch?v=3UdSQp_9sdI&t=408s))",
+      "_key": "recipe-section-1",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "The Strawberry Jam & Fillings",
+      "body": "- **Fresh strawberries**: 500 g (for jam) + 300 g (diced, reserved for topping) ([**8:29**](https://www.youtube.com/watch?v=3UdSQp_9sdI&t=509s))\n- **Granulated sugar**: 50 g\n- **Cornstarch**: 30 g *(Aaron uses a modified amount to perfectly stabilize the juices) (*[***10:09***](https://www.youtube.com/watch?v=3UdSQp_9sdI&t=609s)*)*\n- **Lotus Biscoff cream/spread**: 1 jar\n- **Biscoff cookies**: One 250 g package",
+      "_key": "recipe-section-2",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "Baking & Toppings",
+      "body": "- **Heavy cream**: 120 g (poured over the rolls before baking)\n- **Cream cheese frosting**: Leftover or fresh batch *(Aaron directs viewers to his carrot cake recipe for this) (*[***26:43***](https://www.youtube.com/watch?v=3UdSQp_9sdI&t=1603s)*)*",
+      "_key": "recipe-section-3",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "For the Cream Cheese Frosting & Topping",
+      "body": "- **Cold cream cheese**: 440 g ([**11:23**](https://www.youtube.com/watch?v=VHZq1E4Spnw&t=683s))\n- **Butter**: 250 g (Slightly chilled, but soft enough to leave a thumbprint) ([**11:59**](https://www.youtube.com/watch?v=VHZq1E4Spnw&t=719s))\n- **Powdered sugar**: 400 g *(Adjusted down from 600 g for perfect sweetness)* ([**13:21**](https://www.youtube.com/watch?v=VHZq1E4Spnw&t=801s))\n- **Vanilla paste**: 5 mL ([**12:50**](https://www.youtube.com/watch?v=VHZq1E4Spnw&t=770s))\n- **Walnuts**: An extra generous handful (Roughly chopped for topping) ([**17:12**](https://www.youtube.com/watch?v=VHZq1E4Spnw&t=1032s))",
+      "_key": "recipe-section-14",
+      "items": [],
+      "after_step": 9
+    }
+  ],
+  "steps": [
+    {
+      "title": "Step 1: Make the Tangzhong Starter",
+      "body": "- On the stovetop over high heat, constantly whisk 56 g of bread flour and 112 g of whole milk together ([**0:31**](https://www.youtube.com/watch?v=3UdSQp_9sdI&t=31s)). It will rapidly form a thick paste and pull into a cohesive ball ([**1:14**](https://www.youtube.com/watch?v=3UdSQp_9sdI&t=74s)). Remove it from the heat and set it aside to cool ([**2:22**](https://www.youtube.com/watch?v=3UdSQp_9sdI&t=142s)); this starter locks in moisture so the rolls stay soft for up to 8 days ([**0:56**](https://www.youtube.com/watch?v=3UdSQp_9sdI&t=56s)).",
+      "_key": "recipe-section-5"
+    },
+    {
+      "title": "Step 2: Activate Yeast and Combine Wet Ingredients",
+      "body": "- Ensure your remaining 240 g of milk is at 43 °C ([**2:14**](https://www.youtube.com/watch?v=3UdSQp_9sdI&t=134s)). Stir in 7 g of active dry yeast directly into the milk to dissolve ([**3:22**](https://www.youtube.com/watch?v=3UdSQp_9sdI&t=202s)). In your stand mixer bowl, add 504 g of bread flour, 100 g of sugar, and 6 g of sea salt ([**2:47**](https://www.youtube.com/watch?v=3UdSQp_9sdI&t=167s)). Pour in the yeast-milk mixture and add your prepared Tangzhong ([**0:21**](https://www.youtube.com/watch?v=3UdSQp_9sdI&t=21s)).",
+      "_key": "recipe-section-6"
+    },
+    {
+      "title": "Step 3: Knead and Incorporate Butter",
+      "body": "- Using a stand mixer on speed 2, begin kneading the dough components ([**4:11**](https://www.youtube.com/watch?v=3UdSQp_9sdI&t=251s)). Once the mixture begins forming a ball around the hook, add all 250 g of softened butter at once ([**4:58**](https://www.youtube.com/watch?v=3UdSQp_9sdI&t=298s)). Crank the mixer up to speed 7 and let it knead for about 8 to 10 minutes until smooth ([**5:19**](https://www.youtube.com/watch?v=3UdSQp_9sdI&t=319s)).",
+      "_key": "recipe-section-7"
+    },
+    {
+      "title": "Step 4: The First Rise",
+      "body": "- Lightly coat the inside of a bowl with neutral oil ([**5:55**](https://www.youtube.com/watch?v=3UdSQp_9sdI&t=355s)). Turn your kneaded dough into the bowl, flipping it so the surface is fully protected by the oil ([**6:48**](https://www.youtube.com/watch?v=3UdSQp_9sdI&t=408s)). Cover and let it rest at room temperature for 1 to 4 hours until it has cleanly doubled in size ([**6:11**](https://www.youtube.com/watch?v=3UdSQp_9sdI&t=371s)).",
+      "_key": "recipe-section-8"
+    },
+    {
+      "title": "Step 5: Simmer the Chunky Jam",
+      "body": "- While the dough rises, chop 500 g of strawberries and add them to a saucepan with 50 g of sugar and your cornstarch ([**8:29**](https://www.youtube.com/watch?v=3UdSQp_9sdI&t=509s)). Smash the fruits up roughly on the stove ([**9:07**](https://www.youtube.com/watch?v=3UdSQp_9sdI&t=547s)). Simmer until it thickens into a stable jam that won't run out of your rolls during assembly ([**10:43**](https://www.youtube.com/watch?v=3UdSQp_9sdI&t=643s)). Set aside to cool.",
+      "_key": "recipe-section-9"
+    },
+    {
+      "title": "Step 6: Roll Out the Rectangular Dough",
+      "body": "- Punch down your risen dough to release excess gas ([**13:26**](https://www.youtube.com/watch?v=3UdSQp_9sdI&t=806s)). Instead of using flour (which dries out the dough), slick your baking mat and rolling pin with neutral oil ([**13:53**](https://www.youtube.com/watch?v=3UdSQp_9sdI&t=833s)). Roll the dough out carefully into a large, uniform rectangle, making sure not to roll it too thin ([**14:31**](https://www.youtube.com/watch?v=3UdSQp_9sdI&t=871s)).",
+      "_key": "recipe-section-10"
+    },
+    {
+      "title": "Step 7: Spread the Fillings and Cut",
+      "body": "- Warm your jar of Biscoff cream in the microwave briefly so it spreads easily ([**16:31**](https://www.youtube.com/watch?v=3UdSQp_9sdI&t=991s)). Slather a thick, even layer of the Biscoff cream entirely across the dough rectangle ([**17:52**](https://www.youtube.com/watch?v=3UdSQp_9sdI&t=1072s)). Spread your cooled, chunky strawberry jam right over the top ([**17:45**](https://www.youtube.com/watch?v=3UdSQp_9sdI&t=1065s)). Use a pizza cutter to slice the dough into long, even strips ([**22:01**](https://www.youtube.com/watch?v=3UdSQp_9sdI&t=1321s)). [[1](https://youtu.be/3UdSQp_9sdI#:~:text=The%20perfect%20way%20to%20start%20your%20day%2C,are%20the%20ultimate%20spring%20or%20summer%20treat.)]",
+      "_key": "recipe-section-11"
+    },
+    {
+      "title": "Step 8: Assemble and Second Rise",
+      "body": "Roll each sliced strip up individually into classic swirled roll shapes and arrange them in your baking pan ([**21:48**](https://www.youtube.com/watch?v=3UdSQp_9sdI&t=1308s)). For an extra infusion of moisture, pour 120 g of heavy cream directly over the tops of the arranged rolls ([**25:10**](https://www.youtube.com/watch?v=3UdSQp_9sdI&t=1510s)). Allow them to puff up for their final rise.",
+      "_key": "recipe-section-12"
+    },
+    {
+      "title": "Step 9: Bake to Golden Perfection",
+      "body": "Preheat your oven to 190 °C ([**23:13**](https://www.youtube.com/watch?v=3UdSQp_9sdI&t=1393s)). Slide the rolls in and bake for exactly 25 minutes until the tops are golden brown and fluffy ([**23:27**](https://www.youtube.com/watch?v=3UdSQp_9sdI&t=1407s)).",
+      "_key": "recipe-section-13"
+    },
+    {
+      "title": "Step 10: Dress and Serve",
+      "body": "Let the baked rolls cool slightly. Load up your piping bags and drizzle a heavy zigzag pattern of cream cheese frosting and extra melted Biscoff spread over the warm rolls ([**26:26**](https://www.youtube.com/watch?v=3UdSQp_9sdI&t=1586s)). Toss your remaining 300 g of fresh diced strawberries and a heavy handful of crushed Biscoff cookie crumbles over the top before diving in ([**8:38**](https://www.youtube.com/watch?v=3UdSQp_9sdI&t=518s)).",
+      "_key": "recipe-section-15"
+    }
+  ],
+  "notes": ""
+}

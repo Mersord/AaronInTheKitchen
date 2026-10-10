@@ -1,0 +1,53 @@
+{
+  "title": "Chicken Salad",
+  "nav_title": "Chicken Salad",
+  "category": "main-dishes",
+  "published": true,
+  "order": 4,
+  "description": "",
+  "servings": "",
+  "prep_minutes": null,
+  "cook_minutes": null,
+  "video_url": "https://www.youtube.com/watch?v=_pXLW4Fpksg",
+  "image": "assets/images/recipes/chicken-salad.svg",
+  "image_alt": "",
+  "ingredient_groups": [
+    {
+      "title": "Base Elements",
+      "body": "- **Chicken**: 1 whole chicken, cooked and shredded ([**0:34**](https://www.youtube.com/watch?v=_pXLW4Fpksg&t=34s)) *(Note: You can substitute a pre-cooked rotisserie chicken) (*[***0:34***](https://www.youtube.com/watch?v=_pXLW4Fpksg&t=34s)*).*\n- **Onion**: 1 whole onion, diced ([**0:40**](https://www.youtube.com/watch?v=_pXLW4Fpksg&t=40s)).\n- **Green Onion**: 4 stalks, chopped ([**6:03**](https://www.youtube.com/watch?v=_pXLW4Fpksg&t=363s)).\n- **Pickles**: Approximately 60 g, finely chopped ([**2:01**](https://www.youtube.com/watch?v=_pXLW4Fpksg&t=121s)).\n- **Mayonnaise**: 400 g ([**6:03**](https://www.youtube.com/watch?v=_pXLW4Fpksg&t=363s)).\n- **Pickle Juice**: Added to taste (to adjust texture and tanginess) ([**7:37**](https://www.youtube.com/watch?v=_pXLW4Fpksg&t=457s)).\n- **Pickled Jalapeños**: Briefly chopped, added to taste ([**0:22**](https://www.youtube.com/watch?v=_pXLW4Fpksg&t=22s)).",
+      "_key": "recipe-section-1",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "Seasonings & Spices",
+      "body": "- **Onion Powder**: 5 mL ([**1:06**](https://www.youtube.com/watch?v=_pXLW4Fpksg&t=66s)).\n- **Dried Dill**: 5 mL ([**1:31**](https://www.youtube.com/watch?v=_pXLW4Fpksg&t=91s)).\n- **Garlic Powder**: 7.5 mL ([**1:51**](https://www.youtube.com/watch?v=_pXLW4Fpksg&t=111s)).\n- **Italian Seasoning**: 5 mL ([**2:05**](https://www.youtube.com/watch?v=_pXLW4Fpksg&t=125s)).\n- **Dried Oregano**: 10 mL ([**2:30**](https://www.youtube.com/watch?v=_pXLW4Fpksg&t=150s)).\n- **Salt**: 5 mL (or to taste) ([**2:55**](https://www.youtube.com/watch?v=_pXLW4Fpksg&t=175s)).\n- **Black Pepper**: 7.5 mL ([**2:55**](https://www.youtube.com/watch?v=_pXLW4Fpksg&t=175s)).\n- **Chilli Flakes**: To taste ([**3:24**](https://www.youtube.com/watch?v=_pXLW4Fpksg&t=204s)).\n- **White Pepper**: 15 mL ([**7:48**](https://www.youtube.com/watch?v=_pXLW4Fpksg&t=468s)).\n- **Everything Bagel Seasoning**: 59 mL (contains white and dark sesame seeds and fried onion flakes) ([**4:01**](https://www.youtube.com/watch?v=_pXLW4Fpksg&t=241s)).",
+      "_key": "recipe-section-2",
+      "items": [],
+      "after_step": 0
+    }
+  ],
+  "steps": [
+    {
+      "title": "Step 1: Prep the Base Ingredients",
+      "body": "- **Shred the chicken**: If using a fresh whole chicken, cook it fully and shred all the meat into a large mixing bowl ([**0:34**](https://www.youtube.com/watch?v=_pXLW4Fpksg&t=34s)).\n- **Chop the aromatics**: Finely dice one whole yellow or white onion ([**0:40**](https://www.youtube.com/watch?v=_pXLW4Fpksg&t=40s)). Chop 4 stalks of green onion ([**6:03**](https://www.youtube.com/watch?v=_pXLW4Fpksg&t=363s)).\n- **Chop the pickles**: Finely dice roughly 60 g of your favorite pickles ([**2:01**](https://www.youtube.com/watch?v=_pXLW4Fpksg&t=121s)).",
+      "_key": "recipe-section-4"
+    },
+    {
+      "title": "Step 2: Season the Chicken Mix",
+      "body": "- **Add dry spices**: Toss the shredded chicken with 5 mL of onion powder ([**1:06**](https://www.youtube.com/watch?v=_pXLW4Fpksg&t=66s)), 5 mL of dried dill ([**1:31**](https://www.youtube.com/watch?v=_pXLW4Fpksg&t=91s)), 7.5 mL of garlic powder ([**1:51**](https://www.youtube.com/watch?v=_pXLW4Fpksg&t=111s)), 5 mL of Italian seasoning ([**2:05**](https://www.youtube.com/watch?v=_pXLW4Fpksg&t=125s)), and 10 mL of oregano ([**2:30**](https://www.youtube.com/watch?v=_pXLW4Fpksg&t=150s)).\n- **Add heat and salt**: Mix in 5 mL of salt ([**2:55**](https://www.youtube.com/watch?v=_pXLW4Fpksg&t=175s)), 7.5 mL of black pepper ([**3:24**](https://www.youtube.com/watch?v=_pXLW4Fpksg&t=204s)), a pinch of chilli flakes ([**3:24**](https://www.youtube.com/watch?v=_pXLW4Fpksg&t=204s)), and 15 mL of white pepper ([**8:06**](https://www.youtube.com/watch?v=_pXLW4Fpksg&t=486s)).\n- **Incorporate bagel seasoning**: Pour in 59 mL of everything bagel seasoning to introduce a distinct toasted, savory crunch ([**4:37**](https://www.youtube.com/watch?v=_pXLW4Fpksg&t=277s)).",
+      "_key": "recipe-section-5"
+    },
+    {
+      "title": "Step 3: Combine with Sauce and Mix",
+      "body": "1. **Add mayo and veggies**: Toss your diced onion, green onions, and pickles into the seasoned chicken bowl ([**4:53**](https://www.youtube.com/watch?v=_pXLW4Fpksg&t=293s)). Add 400 g of mayonnaise ([**6:03**](https://www.youtube.com/watch?v=_pXLW4Fpksg&t=363s)).\n2. **Incorporate jalapeños**: Add a small handful of chopped pickled jalapeños into the bowl to balance the richness with heat ([**5:01**](https://www.youtube.com/watch?v=_pXLW4Fpksg&t=301s)).\n3. **Stir and thin**: Mix everything together thoroughly ([**5:39**](https://www.youtube.com/watch?v=_pXLW4Fpksg&t=339s)). Splash in pickle juice as you stir until the mixture yields a smooth, loose, and dynamic texture ([**8:18**](https://www.youtube.com/watch?v=_pXLW4Fpksg&t=498s)).",
+      "_key": "recipe-section-6"
+    },
+    {
+      "title": "Step 4: Taste Check and Serve",
+      "body": "- **Adjust to taste**: Take a small spoonful to taste test the salad ([**7:14**](https://www.youtube.com/watch?v=_pXLW4Fpksg&t=434s)). If needed, shake in an extra pinch of salt, pepper, or more jalapeño juice until the flavors pop ([**7:37**](https://www.youtube.com/watch?v=_pXLW4Fpksg&t=457s)).\n- **Serve**: Aaron recommends enjoying this spicy chicken salad over fresh, sweet brioche bread layered with a side of homemade fruit jam or apple butter ([**5:13**](https://www.youtube.com/watch?v=_pXLW4Fpksg&t=313s)).",
+      "_key": "recipe-section-7"
+    }
+  ],
+  "notes": ""
+}

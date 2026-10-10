@@ -1,0 +1,87 @@
+{
+  "title": "Buffalo Chicken Sandwiches",
+  "nav_title": "Buffalo Chicken Sandwichs",
+  "category": "main-dishes",
+  "published": true,
+  "order": 3,
+  "description": "",
+  "servings": "",
+  "prep_minutes": null,
+  "cook_minutes": null,
+  "video_url": "https://www.youtube.com/watch?v=3IPqipcMkKc",
+  "image": "assets/images/recipes/buffalo-chicken-sandwiches.svg",
+  "image_alt": "",
+  "ingredient_groups": [
+    {
+      "title": "The Chicken & Marinade",
+      "body": "- **Chicken tenders** (chosen specifically to ensure quick cooking)\n- **Pickle juice** (used for brining)\n- **Dijon mustard**\n- **Hot dog stand yellow mustard**",
+      "_key": "recipe-section-1",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "Dry Coating Base (Split between Wet Batter and Dry Coating)",
+      "body": "- **Cornstarch**: 60 g total (30 g for wet batter, 30 g for dry coating)\n- **Tapioca starch**: 60 g total (30 g for wet batter, 30 g for dry coating)\n- **All-purpose flour**: 240 g total (120 g for wet batter, 120 g for dry coating)\n- **Clean water**: Used for thinning out and texturizing the wet batter",
+      "_key": "recipe-section-2",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "Seasoning Blend (Equal parts, roughly 15 mL each per bowl)",
+      "body": "- **Sazón packet** (split evenly between wet and dry bowls)\n- **Chicken bouillon cube** (crushed and split evenly between wet and dry bowls)\n- **Garlic powder**\n- **Steak seasoning** (of your personal choice)\n- **Lemon pepper seasoning**\n- **Tony Chachere's Creole seasoning**\n- **Onion powder**\n- **Slap Ya Mama Cajun seasoning**\n- **Salt**\n- **White pepper**\n- **Ginger powder**",
+      "_key": "recipe-section-3",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "Sauce & Assembly",
+      "body": "- **Frank's RedHot Buffalo Wing Sauce**\n- **Raw honey** (optional, used for a hot-honey variation)\n- **Sandwich bread or buns** (toasted)\n- **White barbecue sauce**\n- **Pickle slices** (reserved from the marinade)",
+      "_key": "recipe-section-4",
+      "items": [],
+      "after_step": 0
+    }
+  ],
+  "steps": [
+    {
+      "title": "1. Marinate the Chicken",
+      "body": "- Place your fresh chicken tenders into a clean bowl.\n- Pour over enough pickle juice to submerge the pieces completely.\n- Add a generous dollop of Dijon mustard and a squeeze of traditional hot dog stand yellow mustard.\n- Toss the chicken tenders thoroughly to ensure they are coated in the mustard and pickle juice mixture.\n- Let the chicken sit and marinate for a minimum of 30 minutes.",
+      "_key": "recipe-section-6"
+    },
+    {
+      "title": "2. Set Up the Frying Station",
+      "body": "- Pour cooking oil into a deep pot, heavy Dutch oven, or commercial fryer setup.\n- Turn on the heat source to preheat your frying oil.\n- Set your target temperature to **190 °C**.\n- Allow the oil plenty of time to rise to this specific heat level while you work on battering.\n- Frying hot and fast ensures the chicken cooks perfectly without absorbing excess grease, resulting in a cleaner finish.",
+      "_key": "recipe-section-7"
+    },
+    {
+      "title": "3. Mix the Dry Coating",
+      "body": "- Prepare a large mixing bowl specifically designated for your dry dredge ingredients.\n- Weigh out and add 30 g of cornstarch into the bowl.\n- Weigh out and add an equal portion of 30 g of tapioca starch.\n- Tapioca starch is a key component inspired by Korean fried chicken techniques; it creates a structural barrier that maintains a loud, distinct crunch even after being tossed in heavy buffalo sauce.\n- Measure out 120 g of all-purpose flour and pour it directly into the starches.\n- Add approximately 15 mL of your seasoning elements. This includes half of a Sazón packet, half of a crushed chicken bouillon cube, garlic powder, your favorite steak seasoning, lemon pepper, onion powder, Tony's, Slap Ya Mama, white pepper, ginger powder, and salt.\n- Take a wire whisk and aggressively stir the dry mixture until all the spices are fully incorporated.\n- The flour should change color away from pure white, taking on a warm, seasoned tint.",
+      "_key": "recipe-section-8"
+    },
+    {
+      "title": "4. Prepare the Wet Batter",
+      "body": "- Grab a separate large mixing bowl to act as your wet station.\n- Repeat the exact measurements used in the dry bowl: combine 30 g of cornstarch, 30 g of tapioca starch, and 120 g of all-purpose flour.\n- Empty the remaining halves of the Sazón packet and crushed chicken bouillon cube into this bowl, followed by 15 mL measure of all your other seasoning powders.\n- Whisk the dry elements together first to distribute the spices evenly.\n- Slowly stream clean water directly into the seasoned flour mixture while whisking constantly.\n- Keep adding water and mixing until you achieve a smooth liquid consistency.\n- Aim for a balanced volume so you do not run out of dry coating prematurely later.",
+      "_key": "recipe-section-9"
+    },
+    {
+      "title": "5. Dredge and Rest the Chicken",
+      "body": "- Pull on a protective cooking glove onto your hand to keep clean.\n- Take your marinated chicken tenders out of the brine and drop them entirely into the bowl filled with wet batter, ensuring every piece is fully coated.\n- Working with a few pieces at a time, lift a wet tender out of the batter, allowing any extreme excess to drip off for a brief second.\n- Transfer the wet tender immediately into the dry flour bowl.\n- Use your clean hand to scoop dry flour over the top of the chicken.\n- Press down firmly on the chicken piece so the flour adheres to the wet batter tightly.\n- Shake it slightly to form highly textured, craggly bits across the surface.\n- Lay the coated chicken tenders onto a clean tray or pie dish.\n- Allow the fully battered chicken tenders to sit undisturbed and rest for a few minutes on the tray before frying.\n- Letting them rest allows the wet batter and dry flour to form a cohesive bond, ensuring the crust does not flake off in the hot frying oil.",
+      "_key": "recipe-section-10"
+    },
+    {
+      "title": "6. Fry the Chicken Tenders",
+      "body": "- Check that your oil temperature is steady at **190 °C**.\n- Identify which chicken tenders were battered first, as these have rested the longest and are prime for frying.\n- Using your hands or long metal kitchen tongs, carefully lower the rested chicken tenders into the hot oil one by one.\n- Drop them into the pot in the exact chronological order that they were laid out on the tray.\n- Avoid overcrowding the frying vessel, though tenders can be spaced somewhat closely since they cook rapidly compared to large chicken breasts.\n- Set an initial kitchen timer and allow the chicken to fry completely undisturbed.\n- The entire cooking window should take roughly **4 to 5 minutes** per batch. Watch for the exterior crust to shift into a vibrant, crispy, golden-brown state.\n- Verify that the interior is cooked through using a digital meat thermometer. The internal temperature should read at least **74 °C** to ensure safety while remaining incredibly juicy.\n- Lift the cooked tenders out of the hot oil and place them directly onto an elevated wire rack or an air fryer basket nestled over a tray.\n- This allows excess oil to drain away completely without steaming the bottom crust.",
+      "_key": "recipe-section-11"
+    },
+    {
+      "title": "7. Sauce the Tenders",
+      "body": "- Pour an ample amount of Frank's RedHot Buffalo sauce into a container.\n- Warm the sauce up gently until it is lukewarm.\n- Never toss freshly fried chicken in cold sauce straight out of the refrigerator, as the temperature shock will instantly degrade the crispy texture of your crust.\n- Pour the warmed buffalo sauce into a large, wide metal mixing bowl, mimicking a professional wing restaurant setup.\n- Drop your freshly fried, crispy tenders into the bowl with the sauce. Work in manageable batches so you don't overcrowd the bowl and ruin the texture.\n- Use a rubber spatula or gently toss the bowl to coat every angle of the chicken tenders in the buffalo sauce.\n- Move carefully so you do not accidentally break off the fragile, crunchy ridges of the crust.\n- If you prefer a sweet heat profile, drizzle raw honey directly over your sauced tenders during this stage.",
+      "_key": "recipe-section-12"
+    },
+    {
+      "title": "8. Assemble the Sandwiches",
+      "body": "- Toast your choice of sandwich bread or buns until they are lightly golden and firm.\n- Take the bottom slice of your toasted bread and spread a smooth layer of white barbecue sauce across the crumb.\n- Take your reserved pickle rounds—the same style used during the initial marinating process—and slice them up fresh if needed.\n- Arrange the pickle slices evenly across the bottom layer of white barbecue sauce, spacing them out cleanly to guarantee a bite of pickle with every mouthful.\n- Use a clean pair of serving tongs to lift two or three fully coated buffalo chicken tenders out of the tossing bowl.\n- Stack the tenders side-by-side directly over the pickle layer.\n- Place the top piece of toasted bread firmly over the chicken tenders to close the sandwich.\n- Serve immediately while the interior chicken remains piping hot, juicy, and roaring with crisp flavor.",
+      "_key": "recipe-section-13"
+    }
+  ],
+  "notes": ""
+}

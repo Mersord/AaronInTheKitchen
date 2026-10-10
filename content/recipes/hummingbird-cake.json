@@ -1,0 +1,78 @@
+{
+  "title": "Hummingbird Cake",
+  "nav_title": "Hummingbird Cake",
+  "category": "desserts",
+  "published": true,
+  "order": 32,
+  "description": "",
+  "servings": "",
+  "prep_minutes": null,
+  "cook_minutes": null,
+  "video_url": "https://www.youtube.com/watch?v=dffGfhgZ9uo",
+  "image": "assets/images/recipes/hummingbird-cake.svg",
+  "image_alt": "",
+  "ingredient_groups": [
+    {
+      "title": "For the Cake Base",
+      "body": "- **All-purpose flour:** 360 g\n- **Baking soda:** 5 g ([**2:37**](https://www.youtube.com/watch?v=dffGfhgZ9uo&t=157s))\n- **Baking powder:** 3 g ([**2:51**](https://www.youtube.com/watch?v=dffGfhgZ9uo&t=171s))\n- **Sea salt:** 5 mL ([**2:51**](https://www.youtube.com/watch?v=dffGfhgZ9uo&t=171s))\n- **Ground cinnamon:** 5–10 mL ([**3:22**](https://www.youtube.com/watch?v=dffGfhgZ9uo&t=202s))\n- **Ginger powder:** 5 mL ([**3:22**](https://www.youtube.com/watch?v=dffGfhgZ9uo&t=202s))\n- **Granulated white sugar:** 200 g ([**4:13**](https://www.youtube.com/watch?v=dffGfhgZ9uo&t=253s))\n- **Brown sugar:** 200–210 g ([**4:13**](https://www.youtube.com/watch?v=dffGfhgZ9uo&t=253s))\n- **Vegetable oil:** 350 g ([**4:48**](https://www.youtube.com/watch?v=dffGfhgZ9uo&t=288s))\n- **Eggs:** 3 large eggs ([**4:57**](https://www.youtube.com/watch?v=dffGfhgZ9uo&t=297s))\n- **Vanilla paste:** 10 mL (or vanilla extract) ([**5:22**](https://www.youtube.com/watch?v=dffGfhgZ9uo&t=322s))\n- **Ripe bananas:** 5 bananas ([**0:49**](https://www.youtube.com/watch?v=dffGfhgZ9uo&t=49s))\n- **Crushed pineapple:** 227 g (with the juice included) ([**1:23**](https://www.youtube.com/watch?v=dffGfhgZ9uo&t=83s))\n- **Walnuts:** 120 g (chopped) ([**5:22**](https://www.youtube.com/watch?v=dffGfhgZ9uo&t=322s))",
+      "_key": "recipe-section-1",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "For the Cream Cheese Frosting",
+      "body": "- **Butter:** 340 g, ice-cold ([**9:16**](https://www.youtube.com/watch?v=dffGfhgZ9uo&t=556s))\n- **Philadelphia cream cheese:** 250 g+, ice-cold ([**9:35**](https://www.youtube.com/watch?v=dffGfhgZ9uo&t=575s))\n- **Vanilla:** 5 mL ([**10:32**](https://www.youtube.com/watch?v=dffGfhgZ9uo&t=632s))\n- **Powdered sugar:** Approx. 723 g ([**12:52**](https://www.youtube.com/watch?v=dffGfhgZ9uo&t=772s))",
+      "_key": "recipe-section-2",
+      "items": [],
+      "after_step": 0
+    }
+  ],
+  "steps": [
+    {
+      "title": "Step 1: Prep and Oven Setup",
+      "body": "- Preheat your oven to 175 °C ([**3:52**](https://www.youtube.com/watch?v=dffGfhgZ9uo&t=232s)).\n- Grease three 20.3 cm silicone cake molds with non-stick spray ([**6:46**](https://www.youtube.com/watch?v=dffGfhgZ9uo&t=406s)).",
+      "_key": "recipe-section-4"
+    },
+    {
+      "title": "Step 2: Mash the Wet Baseos",
+      "body": "- Peel 5 very ripe bananas and place them in a mixing bowl ([**0:49**](https://www.youtube.com/watch?v=dffGfhgZ9uo&t=49s)).\n- *Tip:* If your bananas aren't ripe enough, bake them at 175 °C for 10 minutes until black and soft ([**0:37**](https://www.youtube.com/watch?v=dffGfhgZ9uo&t=37s)).\n- Mash them completely using a potato ricer or fork ([**0:49**](https://www.youtube.com/watch?v=dffGfhgZ9uo&t=49s)).\n- Add 227 g of crushed pineapples with their juice and mix with the ricer until combined ([**1:23**](https://www.youtube.com/watch?v=dffGfhgZ9uo&t=83s)).",
+      "_key": "recipe-section-5"
+    },
+    {
+      "title": "Step 3: Combine Dry Spices & Sugars",
+      "body": "- Place the bowl on a kitchen scale and zero it out ([**4:13**](https://www.youtube.com/watch?v=dffGfhgZ9uo&t=253s)).\n- Weigh in 360 g of all-purpose flour, 5 g of baking soda, and 3 g of baking powder ([**2:21**](https://www.youtube.com/watch?v=dffGfhgZ9uo&t=141s)).\n- Add 5 mL of sea salt, 5–10 mL of cinnamon, and 5 mL of ginger powder ([**2:51**](https://www.youtube.com/watch?v=dffGfhgZ9uo&t=171s)).\n- Weigh out 200 g of white granulated sugar and 200–210 g of brown sugar directly into the mix ([**4:13**](https://www.youtube.com/watch?v=dffGfhgZ9uo&t=253s)).",
+      "_key": "recipe-section-6"
+    },
+    {
+      "title": "Step 4: Wet Ingredients & Walnuts",
+      "body": "- Pour in 350 g of vegetable oil, 3 large eggs, and 10 mL of vanilla paste ([**4:48**](https://www.youtube.com/watch?v=dffGfhgZ9uo&t=288s)).\n- Toss in 115–120 g of chopped walnuts ([**5:22**](https://www.youtube.com/watch?v=dffGfhgZ9uo&t=322s)).\n- *Scale safety rule:* Remove the bowl from your kitchen scale before mixing so you do not damage the scale's calibration ([**5:32**](https://www.youtube.com/watch?v=dffGfhgZ9uo&t=332s)). [[1](https://youtu.be/dffGfhgZ9uo#:~:text=This%20old%20fashioned%20hummingbird%20cake%20recipe%20is,delight%20your%20guests%20on%20any%20special%20occasion!)]",
+      "_key": "recipe-section-7"
+    },
+    {
+      "title": "Step 5: Mix and Bake",
+      "body": "- Using a simple spatula, fold the batter completely by hand ([**1:14**](https://www.youtube.com/watch?v=dffGfhgZ9uo&t=74s)).\n- Mix only until the ingredients are just combined and no flour lumps remain ([**1:04**](https://www.youtube.com/watch?v=dffGfhgZ9uo&t=64s)). Do not overmix.\n- Divide the batter evenly among the three prepared pans using a scale for accuracy (approx. 464–500 g per pan) ([**7:33**](https://www.youtube.com/watch?v=dffGfhgZ9uo&t=453s)).\n- Bake at 175 °C for roughly 25 minutes. Let the cakes cool entirely overnight before frosting ([**8:36**](https://www.youtube.com/watch?v=dffGfhgZ9uo&t=516s)).",
+      "_key": "recipe-section-8"
+    },
+    {
+      "title": "🍦 Step-by-Step Frosting & Assembly",
+      "body": "",
+      "_key": "recipe-section-9"
+    },
+    {
+      "title": "Step 1: Beat the Base",
+      "body": "- To keep the frosting stable, use **ice-cold** butter and cream cheese straight from the fridge ([**8:44**](https://www.youtube.com/watch?v=dffGfhgZ9uo&t=524s)).\n- Add 340 g of cold butter pieces and 250 g of cold cream cheese into a bowl with 5 mL of vanilla ([**9:16**](https://www.youtube.com/watch?v=dffGfhgZ9uo&t=556s)).\n- Use a hand mixer to beat them together ([**10:52**](https://www.youtube.com/watch?v=dffGfhgZ9uo&t=652s)). Because it is cold, it will take a moment to integrate ([**11:33**](https://www.youtube.com/watch?v=dffGfhgZ9uo&t=693s)).\n- *Fixing lumps:* If the butter chunks are stubborn, transfer the mix to a microwave-safe bowl and nuke it for 15 seconds to soften slightly ([**14:40**](https://www.youtube.com/watch?v=dffGfhgZ9uo&t=880s)).",
+      "_key": "recipe-section-10"
+    },
+    {
+      "title": "Step 2: Add Sugar",
+      "body": "- Gradually mix in up to 723 g of powdered sugar ([**12:52**](https://www.youtube.com/watch?v=dffGfhgZ9uo&t=772s)).\n- Beat on high speed until the texture turns thick, smooth, and glossy ([**13:34**](https://www.youtube.com/watch?v=dffGfhgZ9uo&t=814s)).",
+      "_key": "recipe-section-11"
+    },
+    {
+      "title": "Step 3: Assemble and Decorate",
+      "body": "- Place your first cake layer down on a piece of parchment paper on a cake turntable ([**18:03**](https://www.youtube.com/watch?v=dffGfhgZ9uo&t=1083s)).\n- Spread a generous layer of cream cheese frosting evenly over the layer using a cake spatula ([**18:17**](https://www.youtube.com/watch?v=dffGfhgZ9uo&t=1097s)).\n- Stack the second layer, add more frosting, and top with the third cake layer ([**18:46**](https://www.youtube.com/watch?v=dffGfhgZ9uo&t=1126s)).\n- Coat the outside of the cake. Use rustic, decorative \"swoops\" with your spatula on the top and sides for a clean, homemade look ([**22:05**](https://www.youtube.com/watch?v=dffGfhgZ9uo&t=1325s)).\n- Chill the cake in the refrigerator before serving ([**12:23**](https://www.youtube.com/watch?v=dffGfhgZ9uo&t=743s)).",
+      "_key": "recipe-section-12"
+    }
+  ],
+  "notes": ""
+}

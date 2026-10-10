@@ -1,0 +1,75 @@
+{
+  "title": "Perfect Mashed Potatoes",
+  "nav_title": "Mashed Potatoes",
+  "category": "sides",
+  "published": true,
+  "order": 41,
+  "description": "",
+  "servings": "",
+  "prep_minutes": null,
+  "cook_minutes": null,
+  "video_url": "https://www.youtube.com/watch?v=BrNB-8v41SY",
+  "image": "assets/images/recipes/mashed-potatoes.svg",
+  "image_alt": "",
+  "ingredient_groups": [
+    {
+      "title": "The Potato Foundation & Brine",
+      "body": "- **Potatoes**: 1 kg (Such as red-skin, russet, or any whole variety on hand)\n- **Beef bouillon cube**: 1 cube\n- **Water**: Enough to submerge the potatoes in the cooking vessel",
+      "_key": "recipe-section-1",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "The Creamy Mix-Ins",
+      "body": "- **Goat cheese**: 150 g\n- **Unsalted butter**: 50 g\n- **Whole milk**: 118 mL *(Note: For a lactose-intolerant variant, substitute seamlessly with an equal amount of oat milk)*",
+      "_key": "recipe-section-2",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "The Herb & Spice Blend",
+      "body": "- **Chili powder**: 10 mL *(Macedonian chili or cayenne works beautifully)*\n- **Garlic powder**: 15 mL\n- **Onion powder**: 15 mL\n- **Sea salt**: 10 mL\n- **White pepper**: 10 mL",
+      "_key": "recipe-section-3",
+      "items": [],
+      "after_step": 0
+    }
+  ],
+  "steps": [
+    {
+      "title": "1. Prep and Wash the Potatoes",
+      "body": "- Thoroughly rinse your 1 kg of potatoes under cold running water to eliminate any remaining surface dirt or debris.\n- Decide whether you prefer an completely smooth texture or a rustic finish. If you want skinless potatoes, use a vegetable peeler to strip the outer layer now; otherwise, leave the skins on.\n- Place your washed potatoes onto a clean cutting board.",
+      "_key": "recipe-section-5"
+    },
+    {
+      "title": "2. Cut into Medallions and Cube",
+      "body": "- Grip your kitchen knife carefully and slice each potato crosswise to form small, round medallions.\n- Gather your medallions together and chop them down into rough, uniform cubes.\n- Focus on keeping the pieces relatively small and uniform in size. Cutting them down small ensures they will cook rapidly and evenly all the way to their centers.",
+      "_key": "recipe-section-6"
+    },
+    {
+      "title": "3. Infuse Flavor and Boil",
+      "body": "- Transfer your chopped potato cubes directly into your cooking pot. You can use a standard stovetop pot or an Instant Pot liner.\n- Take one full beef bouillon cube and drop it right into the pot over the raw potatoes. Frying or boiling your starch directly with a bouillon cube infuses a deep, rich foundation of savory flavor from the very beginning.\n- Pour cold water into the vessel until the liquid level completely covers and submerges the potato cubes.\n- Place the pot over high heat on your stovetop or set your pressure cooker.\n- Bring the liquid to a steady boil and cook until finished. Check for absolute doneness by piercing a cube with a fork; it should slip through effortlessly.",
+      "_key": "recipe-section-7"
+    },
+    {
+      "title": "4. Rice the Hot Potatoes",
+      "body": "- Set up a large, sturdy metal mixing bowl on your workstation. A metal bowl is ideal here because it retains the residual heat beautifully, which is vital for melting your dairy additions later.\n- Position a stainless steel potato ricer directly over the metal bowl.\n- Drain your cooked potatoes thoroughly and spoon them into the hopper of the ricer in manageable batches.\n- Firmly press the handles together to extrude the potato fluff down into the bowl. Using a ricer creates a light, airy canvas that guarantees zero heavy lumps without over-working the starches into a gummy paste.\n- If you opted to leave the skins on during preparation, pause briefly between batches to clear away any spent skins trapped at the bottom of the hopper.",
+      "_key": "recipe-section-8"
+    },
+    {
+      "title": "5. Incorporate Dairy and Emulsify",
+      "body": "- Immediately drop your 150 g of goat cheese and 50 g of butter directly into the pile of hot, freshly riced potatoes.\n- Pour 118 mL of milk (or alternative oat milk) evenly over the top.\n- Do not return the bowl to a stove burner. Rely entirely on the trapping residual heat bouncing off the riced starches and the metal bowl to naturally soften, melt, and fuse the butter and cheese together.",
+      "_key": "recipe-section-9"
+    },
+    {
+      "title": "6. Season and Blend",
+      "body": "- Dust your spice profile cleanly over the wet mixture: scatter in 10 mL of chili powder, 15 mL of garlic powder, and 15 mL of onion powder.\n- Add your 10 mL of salt followed by 10 mL of white pepper. White pepper provides a subtle earthy heat that blends seamlessly into the bright look of the dish.\n- Use a sturdy silicone spatula or heavy spoon to fold all the elements together from the bottom up.\n- Stir gently but thoroughly until the cheese dissolves into a silky, luxurious texture and the spices are distributed evenly.",
+      "_key": "recipe-section-10"
+    },
+    {
+      "title": "7. Plate and Garnish",
+      "body": "- Scoop your finished, creamy potatoes out of the metal bowl and mound them into a clean serving dish.\n- Smooth out the surface slightly using the back of your spoon.\n- Shake a light final dusting of cayenne pepper or chili powder across the crown for a pop of color and a touch of surface heat. Serve immediately alongside your main dish while piping hot.",
+      "_key": "recipe-section-11"
+    }
+  ],
+  "notes": ""
+}

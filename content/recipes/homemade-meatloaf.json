@@ -1,0 +1,58 @@
+{
+  "title": "Homemade Meatloaf",
+  "nav_title": "Homemade Meatloaf",
+  "category": "main-dishes",
+  "published": true,
+  "order": 11,
+  "description": "",
+  "servings": "",
+  "prep_minutes": null,
+  "cook_minutes": null,
+  "video_url": "https://www.youtube.com/watch?v=JAiOKifyYEM",
+  "image": "assets/images/recipes/homemade-meatloaf.svg",
+  "image_alt": "",
+  "ingredient_groups": [
+    {
+      "title": "For the Meatloaf Mix",
+      "body": "- **Ground meat:** 1 kg ground beef (or a beef and pork mixture) ([**1:49**](https://www.youtube.com/watch?v=JAiOKifyYEM&t=109s))\n- **Onions & Garlic:** 1 large onion (and garlic to taste) ([**0:25**](https://www.youtube.com/watch?v=JAiOKifyYEM&t=25s))\n- **Olive oil:** 15 mL (if caramelizing onions)\n- **Panko breadcrumbs:** 55–60 g ([**1:55**](https://www.youtube.com/watch?v=JAiOKifyYEM&t=115s))\n- **Heavy cream:** 80 mL–100 g ([**2:12**](https://www.youtube.com/watch?v=JAiOKifyYEM&t=132s))\n- **Eggs:** 2 large eggs ([**2:12**](https://www.youtube.com/watch?v=JAiOKifyYEM&t=132s))\n- **Goat cheese:** 150 g ([**3:50**](https://www.youtube.com/watch?v=JAiOKifyYEM&t=230s))\n- **Ketchup:** 29.5 mL ([**3:17**](https://www.youtube.com/watch?v=JAiOKifyYEM&t=197s))\n- **Worcestershire sauce:** 15–29.5 mL ([**3:00**](https://www.youtube.com/watch?v=JAiOKifyYEM&t=180s))\n- **Spices:** 5–7.5 mL sea salt, 5 mL ground ginger, 5 mL steak seasoning, 5 mL \"Slap Ya Mama\" Cajun seasoning, 5 mL Tony Chachere's seasoning, and 15 mL black pepper (or white pepper) ([**2:30**](https://www.youtube.com/watch?v=JAiOKifyYEM&t=150s))",
+      "_key": "recipe-section-1",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "For the Ketchup Glaze",
+      "body": "- **Ketchup:** 44.5 mL ([**7:08**](https://www.youtube.com/watch?v=JAiOKifyYEM&t=428s))\n- **Mustard:** 29.5 mL (German sausage stand mustard, Dijon, or honey mustard) ([**6:06**](https://www.youtube.com/watch?v=JAiOKifyYEM&t=366s))\n- **Brown sugar:** 27 g ([**7:08**](https://www.youtube.com/watch?v=JAiOKifyYEM&t=428s))\n- **Worcestershire sauce:** 5 mL ([**7:08**](https://www.youtube.com/watch?v=JAiOKifyYEM&t=428s))",
+      "_key": "recipe-section-2",
+      "items": [],
+      "after_step": 0
+    }
+  ],
+  "steps": [
+    {
+      "title": "Step 1: Oven Setup & Onion Prep",
+      "body": "- Preheat your oven to 175 °C ([**0:39**](https://www.youtube.com/watch?v=JAiOKifyYEM&t=39s)).\n- **Option A (S sweeter taste):** Caramelize your finely chopped onions and garlic in a pan with olive oil before starting ([**0:25**](https://www.youtube.com/watch?v=JAiOKifyYEM&t=25s)).\n- **Option B (Quicker/Spicier bite):** Skip the stovetop cooking completely ([**1:05**](https://www.youtube.com/watch?v=JAiOKifyYEM&t=65s)). Pulse raw onions in a food processor until they are super duper fine so they melt into the meat ([**1:41**](https://www.youtube.com/watch?v=JAiOKifyYEM&t=101s)).",
+      "_key": "recipe-section-4"
+    },
+    {
+      "title": "Step 2: Combine the Base Matrix",
+      "body": "- Place 1 kg of ground meat into a large mixing bowl ([**1:49**](https://www.youtube.com/watch?v=JAiOKifyYEM&t=109s)).\n- Add the caramelized or finely processed onions and garlic to the meat ([**0:48**](https://www.youtube.com/watch?v=JAiOKifyYEM&t=48s)).\n- Pour in 55–60 g of panko breadcrumbs, 80 mL–100 g of heavy cream, and crack in 2 large eggs ([**1:55**](https://www.youtube.com/watch?v=JAiOKifyYEM&t=115s)).",
+      "_key": "recipe-section-5"
+    },
+    {
+      "title": "Step 3: Season and Fold",
+      "body": "- Add 29.5 mL of ketchup and 29.5 mL of Worcestershire sauce ([**3:00**](https://www.youtube.com/watch?v=JAiOKifyYEM&t=180s)).\n- Season with 5 mL each of salt, ginger powder, steak seasoning, Cajun seasoning, creole seasoning, and 15 mL of pepper ([**2:30**](https://www.youtube.com/watch?v=JAiOKifyYEM&t=150s)).\n- Crumble 150 g of goat cheese into the bowl ([**3:50**](https://www.youtube.com/watch?v=JAiOKifyYEM&t=230s)).\n- Mix everything thoroughly by hand to guarantee the pockets of goat cheese evenly disperse without entirely dissolving into the meat ([**3:36**](https://www.youtube.com/watch?v=JAiOKifyYEM&t=216s)).",
+      "_key": "recipe-section-6"
+    },
+    {
+      "title": "Step 4: Shape and Prepare Glaze",
+      "body": "- Ditch the traditional loaf pan. Shape the mixture into one single, massive uniform loaf directly onto a baking sheet pan ([**5:07**](https://www.youtube.com/watch?v=JAiOKifyYEM&t=307s)).\n- In a separate small bowl, whisk together 44.5 mL of ketchup, 29.5 mL of your chosen mustard, 27 g of brown sugar, and 5 mL of Worcestershire sauce ([**7:08**](https://www.youtube.com/watch?v=JAiOKifyYEM&t=428s)).\n- Use a pastry brush to coat the top and sides of the shaped meatloaf evenly with the glaze ([**6:32**](https://www.youtube.com/watch?v=JAiOKifyYEM&t=392s)).",
+      "_key": "recipe-section-7"
+    },
+    {
+      "title": "Step 5: Bake and Serve",
+      "body": "- Bake at 175 °C for exactly 50 minutes until juicy and tender ([**5:00**](https://www.youtube.com/watch?v=JAiOKifyYEM&t=300s)).\n- Slice with a spatula and serve immediately while hot ([**7:54**](https://www.youtube.com/watch?v=JAiOKifyYEM&t=474s)).",
+      "_key": "recipe-section-8"
+    }
+  ],
+  "notes": ""
+}

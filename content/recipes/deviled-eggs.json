@@ -1,0 +1,60 @@
+{
+  "title": "Deviled Eggs",
+  "nav_title": "Deviled Eggs",
+  "category": "sides",
+  "published": true,
+  "order": 42,
+  "description": "",
+  "servings": "",
+  "prep_minutes": null,
+  "cook_minutes": null,
+  "video_url": "https://www.youtube.com/watch?v=omyW0heW-LM",
+  "image": "assets/images/recipes/deviled-eggs.svg",
+  "image_alt": "",
+  "ingredient_groups": [
+    {
+      "title": "The Base & Filling",
+      "body": "- **Eggs**: Enough for a platter (Aaron notes that older eggs peel much better than fresh ones)\n- **Sweet and Spicy Pickle Juice**: 29.5 mL (divided)\n- **Mustard**: 29.5 mL (Aaron uses \"Hot Dog Stand Mustard\" / Dijon specialty)\n- **Mayonnaise**: 29.5 mL",
+      "_key": "recipe-section-1",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "Toppings & Garnish",
+      "body": "- **Thick-Cut Bacon**: Chopped into bits\n- **Brown Sugar**: 40 g (for the bacon)\n- **Fresh Parsley**: Finely chopped\n- **Cayenne Pepper**: A pinch for dusting",
+      "_key": "recipe-section-2",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "Seasonings",
+      "body": "- **Chicken Bouillon Cube**: 1 cube (fully crumbled)\n- **Slap Ya Mama Creole Seasoning**: 15 mL",
+      "_key": "recipe-section-3",
+      "items": [],
+      "after_step": 0
+    }
+  ],
+  "steps": [
+    {
+      "title": "Step 1: Prep and Cook the Bacon",
+      "body": "- **Sear the bacon**: Chop the thick-cut bacon into small bits and sear them in a pan over medium heat.\n- **Candle the bits**: Once the bacon is cooked down and crispy, stir in 40 g of brown sugar to create a sweet and salty glazed bacon topping. Set aside.",
+      "_key": "recipe-section-5"
+    },
+    {
+      "title": "Step 2: Boil and Peel the Eggs",
+      "body": "1. **The 5-5-5 Rule**: Boil the eggs for 5 minutes, let them sit in the hot water off the heat for 5 minutes, and then transfer them into cold water for 5 minutes.\n2. **De-shell in water**: Crack and peel the eggs while submerging them in a bowl of water to help the shells slide off cleanly.\n3. **Separate**: Cut the peeled eggs in half and separate the yolks from the whites into a bowl. Set the empty whites aside on a platter.",
+      "_key": "recipe-section-6"
+    },
+    {
+      "title": "Step 3: Make a Ultra-Smooth Filling",
+      "body": "- **Strain the yolks**: Push the hard-boiled egg yolks through a fine mesh strainer into a bowl using a spoon. This guarantees a perfectly smooth, lump-free piping texture.\n- **Loosen with juice**: As you strain, pour in 15 mL of sweet and spicy pickle juice to help push the yolks through the mesh.\n- **Mix the liquids**: Add 15 mL of pickle juice, 29.5 mL of specialty Dijon mustard, and 29.5 mL of mayonnaise into the strained yolks.\n- **Season**: Crumble 1 chicken bouillon cube completely between your fingers into the bowl—ensure there are no large solid chunks left. Add 15 mL of Creole seasoning and mix thoroughly until uniform.",
+      "_key": "recipe-section-7"
+    },
+    {
+      "title": "Step 4: Pipe, Garnish, and Serve",
+      "body": "- **Pipe**: Transfer the smooth yolk mixture into a piping bag and evenly fill the cavities of the egg white halves.\n- **Garnish**: Top each deviled egg with a generous amount of the sweet and salty candied bacon bits. Dust with a little chopped parsley and a pinch of cayenne pepper for color and heat.\n- **Chill and serve**: Let the completed eggs chill in the refrigerator briefly before serving.",
+      "_key": "recipe-section-8"
+    }
+  ],
+  "notes": ""
+}

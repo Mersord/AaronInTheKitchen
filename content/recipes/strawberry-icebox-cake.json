@@ -1,0 +1,60 @@
+{
+  "title": "Strawberry Icebox Cake",
+  "nav_title": "Strawberry Icebox Cake",
+  "category": "desserts",
+  "published": true,
+  "order": 17,
+  "description": "",
+  "servings": "",
+  "prep_minutes": null,
+  "cook_minutes": null,
+  "video_url": "https://www.youtube.com/watch?v=DzvmO5zywYA",
+  "image": "assets/images/recipes/strawberry-icebox-cake.svg",
+  "image_alt": "",
+  "ingredient_groups": [
+    {
+      "title": "Cream Filling",
+      "body": "- **Cream Cheese:** 265 g\n- **Heavy Whipping Cream:** 200 mL\n- **Powdered Sugar:** 120 g\n- **Lemon Zest:** Zest of 1 whole lemon",
+      "_key": "recipe-section-1",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "Layers & Assembly",
+      "body": "- **Fresh Strawberries:** 250 g (washed, topped, and sliced)\n- **Biscoff Cookies:** 1 pack (from a ~200 g package)",
+      "_key": "recipe-section-2",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "Equipment Needed",
+      "body": "- Loaf pan / cake dish lined with plastic wrap\n- Mixing bowl & whisk\n- Kitchen scale",
+      "_key": "recipe-section-3",
+      "items": [],
+      "after_step": 0
+    }
+  ],
+  "steps": [
+    {
+      "title": "Step 1: Prep the Dish & Ingredients",
+      "body": "- Line a loaf pan/cake dish with plastic wrap, leaving enough overhang to pull the cake out later.\n- Slice the washed fresh strawberries into thin, flat slices.\n- *Tip:* If the cream cheese is too cold, submerge the sealed container in a bowl of hot water for a few minutes to quickly soften it.",
+      "_key": "recipe-section-5"
+    },
+    {
+      "title": "Step 2: Make the Cream Filling:",
+      "body": "- In a large bowl, combine the heavy whipping cream (200 mL) and softened cream cheese (265 g).\n- Add the zest of 1 whole lemon.\n- Whisk continuously by hand until thick and smooth.\n- Add the powdered sugar (120 g) and whisk until fully incorporated.",
+      "_key": "recipe-section-6"
+    },
+    {
+      "title": "Step 3: Assemble the Cake",
+      "body": "- **Base Layer:** Spread a layer of the cream filling evenly over the bottom of the plastic-wrap-lined pan.\n- **Cookie Layer:** Place a single layer of Biscoff cookies on top of the cream layer.\n- **Fruit Layer:** Arrange a layer of sliced strawberries over the cookies.\n- **Top Layer:** Pour the remaining cream filling over the top, spreading it evenly to cover the fruit and cookies completely.",
+      "_key": "recipe-section-7"
+    },
+    {
+      "title": "Step 4: Chill & Serve",
+      "body": "- Fold the overhanging plastic wrap over the top to seal the cake.\n- Refrigerate for **at least 4 hours**, or ideally **overnight**, so the cookies absorb moisture from the cream and soften into a cake-like texture.\n- Unmold using the plastic wrap overhang, slice, and serve.",
+      "_key": "recipe-section-8"
+    }
+  ],
+  "notes": ""
+}

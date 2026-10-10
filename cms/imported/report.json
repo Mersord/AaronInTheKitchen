@@ -1,0 +1,351 @@
+{
+  "recipes": [
+    {
+      "slug": "apple-pie-pound-cake",
+      "ingredient_groups": 4,
+      "steps": 7,
+      "video": true,
+      "measurement_spans": 24
+    },
+    {
+      "slug": "banana-cake",
+      "ingredient_groups": 2,
+      "steps": 11,
+      "video": true,
+      "measurement_spans": 47
+    },
+    {
+      "slug": "blueberry-cobbler",
+      "ingredient_groups": 2,
+      "steps": 4,
+      "video": true,
+      "measurement_spans": 29
+    },
+    {
+      "slug": "blueberry-pie",
+      "ingredient_groups": 2,
+      "steps": 8,
+      "video": true,
+      "measurement_spans": 27
+    },
+    {
+      "slug": "brioche",
+      "ingredient_groups": 2,
+      "steps": 5,
+      "video": true,
+      "measurement_spans": 13
+    },
+    {
+      "slug": "buffalo-chicken-sandwiches",
+      "ingredient_groups": 4,
+      "steps": 8,
+      "video": true,
+      "measurement_spans": 21
+    },
+    {
+      "slug": "caramel-banana-pudding",
+      "ingredient_groups": 4,
+      "steps": 9,
+      "video": true,
+      "measurement_spans": 22
+    },
+    {
+      "slug": "carrot-sheet-cake",
+      "ingredient_groups": 2,
+      "steps": 7,
+      "video": true,
+      "measurement_spans": 37
+    },
+    {
+      "slug": "chicken-rice-casserole",
+      "ingredient_groups": 2,
+      "steps": 5,
+      "video": true,
+      "measurement_spans": 19
+    },
+    {
+      "slug": "chicken-salad",
+      "ingredient_groups": 2,
+      "steps": 4,
+      "video": true,
+      "measurement_spans": 22
+    },
+    {
+      "slug": "chicken-sausage-alfredo",
+      "ingredient_groups": 3,
+      "steps": 6,
+      "video": true,
+      "measurement_spans": 31
+    },
+    {
+      "slug": "chocolate-chunk-muffins",
+      "ingredient_groups": 3,
+      "steps": 6,
+      "video": true,
+      "measurement_spans": 27
+    },
+    {
+      "slug": "chocolate-mousse",
+      "ingredient_groups": 2,
+      "steps": 7,
+      "video": true,
+      "measurement_spans": 8
+    },
+    {
+      "slug": "deviled-eggs",
+      "ingredient_groups": 3,
+      "steps": 4,
+      "video": true,
+      "measurement_spans": 11
+    },
+    {
+      "slug": "dirty-rice",
+      "ingredient_groups": 2,
+      "steps": 8,
+      "video": true,
+      "measurement_spans": 22
+    },
+    {
+      "slug": "double-batch-banana-bread",
+      "ingredient_groups": 4,
+      "steps": 7,
+      "video": true,
+      "measurement_spans": 20
+    },
+    {
+      "slug": "double-chocolate-cookies",
+      "ingredient_groups": 3,
+      "steps": 6,
+      "video": true,
+      "measurement_spans": 30
+    },
+    {
+      "slug": "double-chocolate-muffins",
+      "ingredient_groups": 3,
+      "steps": 6,
+      "video": true,
+      "measurement_spans": 30
+    },
+    {
+      "slug": "hachis-parmentier",
+      "ingredient_groups": 3,
+      "steps": 7,
+      "video": true,
+      "measurement_spans": 18
+    },
+    {
+      "slug": "homemade-brownie-pudding",
+      "ingredient_groups": 3,
+      "steps": 7,
+      "video": true,
+      "measurement_spans": 22
+    },
+    {
+      "slug": "homemade-chicken-pot-pie",
+      "ingredient_groups": 4,
+      "steps": 7,
+      "video": true,
+      "measurement_spans": 31
+    },
+    {
+      "slug": "homemade-cinnamon-rolls",
+      "ingredient_groups": 5,
+      "steps": 6,
+      "video": true,
+      "measurement_spans": 36
+    },
+    {
+      "slug": "homemade-meatloaf",
+      "ingredient_groups": 2,
+      "steps": 5,
+      "video": true,
+      "measurement_spans": 33
+    },
+    {
+      "slug": "hummingbird-cake",
+      "ingredient_groups": 2,
+      "steps": 9,
+      "video": true,
+      "measurement_spans": 37
+    },
+    {
+      "slug": "instant-pot-cottage-pie",
+      "ingredient_groups": 2,
+      "steps": 5,
+      "video": true,
+      "measurement_spans": 59
+    },
+    {
+      "slug": "instant-pot-gumbo",
+      "ingredient_groups": 3,
+      "steps": 8,
+      "video": true,
+      "measurement_spans": 17
+    },
+    {
+      "slug": "korean-fried-chicken",
+      "ingredient_groups": 3,
+      "steps": 8,
+      "video": true,
+      "measurement_spans": 26
+    },
+    {
+      "slug": "lemon-pie",
+      "ingredient_groups": 2,
+      "steps": 4,
+      "video": true,
+      "measurement_spans": 18
+    },
+    {
+      "slug": "lemon-pound-cake",
+      "ingredient_groups": 1,
+      "steps": 5,
+      "video": true,
+      "measurement_spans": 26
+    },
+    {
+      "slug": "maple-apple-muffins",
+      "ingredient_groups": 4,
+      "steps": 6,
+      "video": true,
+      "measurement_spans": 26
+    },
+    {
+      "slug": "mashed-potatoes",
+      "ingredient_groups": 3,
+      "steps": 7,
+      "video": true,
+      "measurement_spans": 18
+    },
+    {
+      "slug": "matilda-chocolate-cake",
+      "ingredient_groups": 2,
+      "steps": 7,
+      "video": true,
+      "measurement_spans": 46
+    },
+    {
+      "slug": "nobake-oreo-chocolate-pie",
+      "ingredient_groups": 2,
+      "steps": 8,
+      "video": true,
+      "measurement_spans": 19
+    },
+    {
+      "slug": "peach-cobbler",
+      "ingredient_groups": 2,
+      "steps": 4,
+      "video": true,
+      "measurement_spans": 22
+    },
+    {
+      "slug": "ravioli-bake",
+      "ingredient_groups": 4,
+      "steps": 8,
+      "video": true,
+      "measurement_spans": 28
+    },
+    {
+      "slug": "red-velvet-cupcakes",
+      "ingredient_groups": 4,
+      "steps": 8,
+      "video": true,
+      "measurement_spans": 35
+    },
+    {
+      "slug": "southern-fried-chicken",
+      "ingredient_groups": 3,
+      "steps": 6,
+      "video": true,
+      "measurement_spans": 32
+    },
+    {
+      "slug": "strawberry-biscoff-rolls",
+      "ingredient_groups": 4,
+      "steps": 10,
+      "video": true,
+      "measurement_spans": 34
+    },
+    {
+      "slug": "strawberry-icebox-cake",
+      "ingredient_groups": 3,
+      "steps": 4,
+      "video": true,
+      "measurement_spans": 8
+    },
+    {
+      "slug": "strawberry-tiramisu",
+      "ingredient_groups": 3,
+      "steps": 4,
+      "video": true,
+      "measurement_spans": 14
+    },
+    {
+      "slug": "sweet-chili-chicken-bake",
+      "ingredient_groups": 2,
+      "steps": 5,
+      "video": true,
+      "measurement_spans": 18
+    },
+    {
+      "slug": "tuna-croquette",
+      "ingredient_groups": 3,
+      "steps": 4,
+      "video": true,
+      "measurement_spans": 18
+    },
+    {
+      "slug": "vodka-sauce-lasagna",
+      "ingredient_groups": 4,
+      "steps": 7,
+      "video": true,
+      "measurement_spans": 45
+    }
+  ],
+  "source_hashes": {
+    "recipes/apple-pie-pound-cake.html": "6652090b41c14b85ad61f727c9c706f1ce2f33491ee2181eb1582591fdfac972",
+    "recipes/banana-cake.html": "f19c67c524fb3653074efade7ef5c0ab4752f06a85c7f5db9ba639f518a8b064",
+    "recipes/blueberry-cobbler.html": "d550a8bd43ec2457c27e7f1ed6ef9a4faeb9b698eac30cc331db96a7682f17e8",
+    "recipes/blueberry-pie.html": "9ec97700994895be046a97fcec8055c47d714a1db21a5554b66c74587ab29682",
+    "recipes/brioche.html": "44af2314e942883ed03681193b7325f102271fb3ee4a4cb96b04cf0f43a092cc",
+    "recipes/buffalo-chicken-sandwiches.html": "601452a8e69ddbf5bdd587b93fe4c179892c68231d81ed6584ea87d6c46e13dc",
+    "recipes/caramel-banana-pudding.html": "59deaf091672d64b5c847a45b5cc1c71548988c0956807a78c86ab09a07748ed",
+    "recipes/carrot-sheet-cake.html": "944cd531998808343d6c06f75c7caf55a5441de7f681bda24a774e63634663f8",
+    "recipes/chicken-rice-casserole.html": "9971b7158804b183ad1f02e2e66b9ecb521894239e021f37782031937f9e7f60",
+    "recipes/chicken-salad.html": "5ad1f1233faa7b036b3629231c4841e193c009b364feafaac44a7ffa64494a90",
+    "recipes/chicken-sausage-alfredo.html": "59ab33d004ec853b629df54968d7ad88f2a9b59cdc3accfbb72dc4be1a36429b",
+    "recipes/chocolate-chunk-muffins.html": "3993ba23a14291c4fb70a38a72e2e2d6dd287e51860c850304469f03b121e5b4",
+    "recipes/chocolate-mousse.html": "fab26399e951a78179e79dad27d3fc7907072a7838e192b622a013aab97a2167",
+    "recipes/deviled-eggs.html": "a12c89999501a88b80b17a283fd9977806bf456ce258040837793434f467e4de",
+    "recipes/dirty-rice.html": "4c879bf4a7531b5864a978784a844e9cec4a23be46c22aaa8c427d19e553dfa5",
+    "recipes/double-batch-banana-bread.html": "c6f21df80953e3e6a9103a16fea04835312d822dbc3c92d96d55788ffa8e9422",
+    "recipes/double-chocolate-cookies.html": "cb17befc45c978cb6f00a16798f025209a0ecdf2febb276ca7e139ac786f4cb3",
+    "recipes/double-chocolate-muffins.html": "23bdb41c439a16769b315071089a28f857e575da6d15c41a24b368e5097d995b",
+    "recipes/hachis-parmentier.html": "b263d3283f6a111667ffbd73b1a092ad91737cf8fc2e88522a4822240185da88",
+    "recipes/homemade-brownie-pudding.html": "aa8b41bb097003a0ee404abaec55e925eec84b3a0d11061bc2e36e61d5e61775",
+    "recipes/homemade-chicken-pot-pie.html": "79868b1735a567afde7069e650bfa32b02998c8398d9815b70976dfefd77274d",
+    "recipes/homemade-cinnamon-rolls.html": "fc8d6b92d1c38be1d7c71396c1f75d2807bdfc8f2b253376bf54457cabe5d73b",
+    "recipes/homemade-meatloaf.html": "dd79875e1e547caa7b743ba70856a5b51f0af501c709bf6cc5ed85ce4d48dd70",
+    "recipes/hummingbird-cake.html": "e133ce4006b391479a6bd505db490eaa2c34e5513e7575147afc852f95ce90e5",
+    "recipes/instant-pot-cottage-pie.html": "222c11f08526ca254200586c1876d151d8ba2cf20252c313155d77f976d27061",
+    "recipes/instant-pot-gumbo.html": "ebe44269e4d3e079726e844368750c5d5f5b44dbe742e805eb1ff5f542d411aa",
+    "recipes/korean-fried-chicken.html": "574686bd054acdeaa1905651378bc4aa719c7b224f5bfb7ee318af3b3e4c7bc9",
+    "recipes/lemon-pie.html": "6dbf7e0e021b9847cafb9c447c3674b63c7f5531ec835f6e6a7dd22e9a219045",
+    "recipes/lemon-pound-cake.html": "d7e796ec6f21e970d74739fa07b269b9e13e21d61e1d20cbfe7bc3dd26a6d631",
+    "recipes/maple-apple-muffins.html": "1397c5ac0459be85d321934722f867007dd42fad317035809e4e42ec9dadd823",
+    "recipes/mashed-potatoes.html": "feec4631d415ad98ebfc3d7312c43f4a4f5e607f2a4af8fe44ff77ee06e60fd3",
+    "recipes/matilda-chocolate-cake.html": "f3bbbb98c56ab7632ae54e86a94fc3ba34f62999599a84848998fbda53d4bb40",
+    "recipes/nobake-oreo-chocolate-pie.html": "8b6ecf6e4137ab47eaf8dc63f96b02abb1dd8250ab7bd5dc61b64d911a92c83b",
+    "recipes/peach-cobbler.html": "2bc9068430a2c9891f1029c6b02f396c6308a97bcc8ba4bdbdbe8283f4f29628",
+    "recipes/ravioli-bake.html": "72e00c11aa87f9cfae3e8f883a01b1193f22065d7ea5587b46fe86d8cf1818bb",
+    "recipes/red-velvet-cupcakes.html": "b8e134ffdea5592605bd6b18bb827260e0a9aa68d2c51af70416e8d6c3934c49",
+    "recipes/southern-fried-chicken.html": "08f1465c7e29972b95a6711384b385af69f21b128c3fa9a40a602ab9bb402784",
+    "recipes/strawberry-biscoff-rolls.html": "e3a2cd86c61301e8c230b4e57a3bc5fe9adb1f1efc27714ae99c3a14ac63bf92",
+    "recipes/strawberry-icebox-cake.html": "1b6c14b6d5681c15ab4f07f46f41231491bd84bd2fbf6e795b4e541053e67f84",
+    "recipes/strawberry-tiramisu.html": "2fc9dc3334d4643a71fd34b458109952adb87038775a9a7a4427141f959b980f",
+    "recipes/sweet-chili-chicken-bake.html": "0d1a2d5f574f3b54cb75037d32a23c632ed0d858680d2ad2b5ce38a9a679a4c7",
+    "recipes/tuna-croquette.html": "a5e0b152116316a9e3f96473878e0b35d14952bfe1a4cb9b85153226e9feee92",
+    "recipes/vodka-sauce-lasagna.html": "1f919cf292e3969f70dad42656a235ef74c7f8bdcb295ef40896c7c099ea13dc"
+  },
+  "warnings": []
+}

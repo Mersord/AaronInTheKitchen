@@ -1,0 +1,82 @@
+{
+  "title": "Double Batch Banana Nut Bread",
+  "nav_title": "Double Batch Banana Bread",
+  "category": "breakfast",
+  "published": true,
+  "order": 38,
+  "description": "",
+  "servings": "",
+  "prep_minutes": null,
+  "cook_minutes": null,
+  "video_url": "https://www.youtube.com/watch?v=qsVi_OroGoo",
+  "image": "assets/images/recipes/double-batch-banana-bread.svg",
+  "image_alt": "",
+  "ingredient_groups": [
+    {
+      "title": "The Structural Base & Leavening",
+      "body": "- **All-purpose flour**: 420 g\n- **Baking soda**: 12 g",
+      "_key": "recipe-section-1",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "The Spices & Flavor Enhancers",
+      "body": "- **Brown sugar**: 330 g\n- **Ground cinnamon**: 5 mL\n- **Ground cardamom**: 5 mL\n- **Sea salt**: 10 mL",
+      "_key": "recipe-section-2",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "The Wet Ingredients & Fats",
+      "body": "- **Unsalted butter**: 250 g *(Left out on the counter to soften completely)*\n- **Eggs**: 4 large eggs\n- **Dark maple syrup**: 100 g *(Provides a robust, rich accent flavor)*",
+      "_key": "recipe-section-3",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "The Fruit & Nut Additions",
+      "body": "- **Overripe bananas**: 5 to 6 medium bananas\n- **Roasted hazelnuts**: 100 g *(Coarsely chopped)*",
+      "_key": "recipe-section-4",
+      "items": [],
+      "after_step": 0
+    }
+  ],
+  "steps": [
+    {
+      "title": "1. Mash the Bananas",
+      "body": "- Peel your overripe bananas and place them into a wide mixing bowl.\n- Use a potato ricer to crush and press the fruit down into a fluid paste. Using a potato ricer ensures an incredibly smooth purée while unlocking the natural sweetness of the fruit.",
+      "_key": "recipe-section-6"
+    },
+    {
+      "title": "2. Sift and Measure the Dry Ingredients",
+      "body": "- Place a large clean mixing bowl onto your digital kitchen scale.\n- Measure out and dump 420 g of all-purpose flour directly into the bowl.\n- Add 12 g of baking soda, 5 mL of ground cinnamon, 5 mL of ground cardamom, and 10 mL of coarse sea salt.\n- Use a small baking spatula to scrape the spices from your measuring spoons so none of the intense cinnamon sticks behind.",
+      "_key": "recipe-section-7"
+    },
+    {
+      "title": "3. Incorporate the Sugars and Fats",
+      "body": "- Pour 330 g of pure brown sugar directly over your dry flour mixture.\n- Drop your 250 g of fully softened, room-temperature unsalted butter straight into the bowl. Do not bother chopping the butter up ahead of time; a heavy-duty kitchen mixer can comfortably handle it if it has sat on the counter.\n- *Baking Hack:* Leaving the stick of butter whole creates tiny, rustic pockets of fat throughout the heavy dough. As it bakes, the butter melts down completely, creating light, airy surprise pockets that break up the overall density of the loaf.",
+      "_key": "recipe-section-8"
+    },
+    {
+      "title": "4. Build the Wet Batter Profile",
+      "body": "- Crack 4 large eggs into the mixing bowl.\n- Measure and pour 100 g of intense dark maple syrup over the top of the wet pool. Using dark maple syrup instead of a light variant allows the natural maple flavor to pop cleanly against the earthy brown sugar.\n- Pour your 100 g of coarsely processed roasted hazelnuts into the mix. Hazelnuts add an elegant, subtly toasted quality to the bread.\n- Empty your reserved puréed banana base into the main mixing bowl.",
+      "_key": "recipe-section-9"
+    },
+    {
+      "title": "5. Mix into a Cohesive Dough",
+      "body": "- Set your mixing bowl onto your stand mixer fitted with the flat paddle or blade attachment.\n- Turn the machine on a very slow speed setting initially to let the blades crush through the whole butter stick without throwing dry flour over your counters.\n- Slowly increase the speed to combine the ingredients.\n- *Baker's Trick:* If heavy batter or butter clumps begin sticking to your mixing paddles, quickly flick the machine's speed dial up to high. The sudden centrifugal force will fly the trapped batter off the blades back into the bowl cleanly.\n- Stop the machine and use a rubber spatula to cleanly scrape down the outer walls and absolute bottom of the bowl to ensure no unmixed flour streaks remain pocketed.",
+      "_key": "recipe-section-10"
+    },
+    {
+      "title": "6. Fill the Loaf Pan and Bake",
+      "body": "- Preheat your mini oven or standard kitchen oven to a steady, balanced temperature floor of **175 °C**.\n- Take two standard bread loaf pans and apply a thorough, even layer of non-stick baking spray across the inside surfaces to safeguard against tearing later.\n- Pour your thick banana nut batter evenly between the two prepared loaf tins. Use your spatula to level out the top surfaces cleanly.\n- Place the filled loaf pans onto the center rack of your preheated oven.\n- Bake at **175 °C** until completely baked through. The bread is done when a toothpick inserted deep into the center emerges clean and dry.",
+      "_key": "recipe-section-11"
+    },
+    {
+      "title": "7. Cool, Slice, and Serve",
+      "body": "- Carefully lift the hot pans out of the oven.\n- Allow the loaves to rest undisturbed in their tins to drop temperature and firm up their crumb structure.\n- Use a sharp kitchen knife to cut the banana bread into thick, satisfying slices. The resulting cake is remarkably light, airy, and moist, making it the perfect morning treat alongside hot coffee.",
+      "_key": "recipe-section-12"
+    }
+  ],
+  "notes": ""
+}

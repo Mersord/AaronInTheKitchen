@@ -1,0 +1,58 @@
+{
+  "title": "Brioche",
+  "nav_title": "Brioche",
+  "category": "desserts",
+  "published": true,
+  "order": 20,
+  "description": "",
+  "servings": "",
+  "prep_minutes": null,
+  "cook_minutes": null,
+  "video_url": "https://www.youtube.com/watch?v=3UdSQp_9sdI",
+  "image": "assets/images/recipes/brioche.svg",
+  "image_alt": "",
+  "ingredient_groups": [
+    {
+      "title": "For the Tangzhong (starter paste):",
+      "body": "- **Strong flour (bread flour)** : 50 g ( [**0:34**](https://www.youtube.com/watch?v=axvT9XXz1KQ&t=34s) )\n- **All-purpose flour** : 10 g ( [**0.34**](https://www.youtube.com/watch?v=axvT9XXz1KQ&t=34s) )\n- **Milk** (your choice): 120 g ( [**0:34**](https://www.youtube.com/watch?v=axvT9XXz1KQ&t=34s) )",
+      "_key": "recipe-section-1",
+      "items": [],
+      "after_step": 0
+    },
+    {
+      "title": "For the gilding:",
+      "body": "- **Egg** : 1 beaten egg ( [**15:06**](https://www.youtube.com/watch?v=axvT9XXz1KQ&t=906s) )",
+      "_key": "recipe-section-2",
+      "items": [],
+      "after_step": 0
+    }
+  ],
+  "steps": [
+    {
+      "title": "Step 1: Tangzhong Preparation",
+      "body": "- In a small saucepan, mix the 50 g of strong flour, the 10 g of regular flour and the 120 g of milk ( [**0:34**](https://www.youtube.com/watch?v=axvT9XXz1KQ&t=34s) ) .\n- Heat over low heat, stirring constantly, until a thick paste/glue consistency is achieved ( [**0:19**](https://www.youtube.com/watch?v=axvT9XXz1KQ&t=19s) ) . Let cool.",
+      "_key": "recipe-section-4"
+    },
+    {
+      "title": "Step 2: Mixing the main dough",
+      "body": "- In the bowl of your stand mixer, break the 8 eggs ( [**1:08**](https://www.youtube.com/watch?v=axvT9XXz1KQ&t=68s) ) .\n- Add the salt (13 g) ( [**1:18**](https://www.youtube.com/watch?v=axvT9XXz1KQ&t=78s) ) , the cooled Tangzhong ( [**0:19**](https://www.youtube.com/watch?v=axvT9XXz1KQ&t=19s) ) , the strong flour (500 g) ( [**2:46**](https://www.youtube.com/watch?v=axvT9XXz1KQ&t=166s) ) and the classic flour (90 g) ( [**4:33**](https://www.youtube.com/watch?v=axvT9XXz1KQ&t=273s) ) .\n- Add the dry yeast (14 g) ( [**5:19**](https://www.youtube.com/watch?v=axvT9XXz1KQ&t=319s) ) , the milk (80 g) ( [**5:27**](https://www.youtube.com/watch?v=axvT9XXz1KQ&t=327s) ) and the sugar (200 g) ( [**7:01**](https://www.youtube.com/watch?v=axvT9XXz1KQ&t=421s) ) .\n- Using the dough hook, start mixing slowly (speed 3 on a KitchenAid) ( [**7:38**](https://www.youtube.com/watch?v=axvT9XXz1KQ&t=458s) ) .\n- Let the robot run for **10 to 15 minutes** until the dough begins to homogenize and form an elastic gluten network ( [**7:50**](https://www.youtube.com/watch?v=axvT9XXz1KQ&t=470s) ) .",
+      "_key": "recipe-section-5"
+    },
+    {
+      "title": "3. Incorporating the butter and the first rise",
+      "body": "- While the mixer is running, gradually incorporate the softened butter, piece by piece ( [**8:14**](https://www.youtube.com/watch?v=axvT9XXz1KQ&t=494s) ) . Wait until each piece is fully incorporated before adding the next ( [**8:27**](https://www.youtube.com/watch?v=axvT9XXz1KQ&t=507s) ) .\n- Once all the butter has been incorporated, cover the bowl with plastic wrap ( [**9:05**](https://www.youtube.com/watch?v=axvT9XXz1KQ&t=545s) ) .\n- Let the dough rest and rise at room temperature for **2 hours** ( [**8:57**](https://www.youtube.com/watch?v=axvT9XXz1KQ&t=537s) ) .",
+      "_key": "recipe-section-6"
+    },
+    {
+      "title": "Step 4: Shaping the balls",
+      "body": "- Lightly oil your work surface or pastry mat ( [**9:31**](https://www.youtube.com/watch?v=axvT9XXz1KQ&t=571s) ) .\n- Deflate the dough by lifting and firmly folding it over several times ( [**10:29**](https://www.youtube.com/watch?v=axvT9XXz1KQ&t=629s) ) . Brioche dough is very sticky, this is perfectly normal ( [**10:19**](https://www.youtube.com/watch?v=axvT9XXz1KQ&t=619s) ) . Sprinkle with a little all-purpose flour if it is too difficult to handle ( [**11:28**](https://www.youtube.com/watch?v=axvT9XXz1KQ&t=688s) ) .\n- Using a pastry cutter, divide the dough in two (to make two cake tins) ( [**1:25**](https://www.youtube.com/watch?v=axvT9XXz1KQ&t=85s) ) .\n- Next, divide each half into several pieces ( [**12:55**](https://www.youtube.com/watch?v=axvT9XXz1KQ&t=775s) ) . Form balls of different sizes with the palm of your hand using a circular motion ( [**13:20**](https://www.youtube.com/watch?v=axvT9XXz1KQ&t=800s) ) .\n- Place the balls of dough side by side in your cake tins ( [**12:35**](https://www.youtube.com/watch?v=axvT9XXz1KQ&t=755s) ) .",
+      "_key": "recipe-section-7"
+    },
+    {
+      "title": "Step 5: Cooking",
+      "body": "- Preheat your oven to **160 °C** ( [**14:56**](https://www.youtube.com/watch?v=axvT9XXz1KQ&t=896s) ) .\n- Generously brush the tops of your brioches with the beaten egg to obtain a beautiful golden crust ( [**15:06**](https://www.youtube.com/watch?v=axvT9XXz1KQ&t=906s) ) .\n- Place in the oven and let it cook for approximately **25 minutes** ( [**15:16**](https://www.youtube.com/watch?v=axvT9XXz1KQ&t=916s) ) .\n- Allow to cool slightly before slicing or enjoying in detachable pieces ( [**13:34**](https://www.youtube.com/watch?v=axvT9XXz1KQ&t=814s) ) .",
+      "_key": "recipe-section-8"
+    }
+  ],
+  "notes": ""
+}
