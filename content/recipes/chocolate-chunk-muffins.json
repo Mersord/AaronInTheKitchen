@@ -1,16 +1,5 @@
 {
-  "title": "Chocolate Chunk Muffins",
-  "nav_title": "Chocolate Chunk Muffins",
-  "category": "breakfast",
-  "published": true,
-  "order": 39,
-  "description": "",
-  "servings": "",
-  "prep_minutes": null,
-  "cook_minutes": null,
-  "video_url": "https://www.youtube.com/watch?v=TiGnKdG4eZU",
-  "image": "assets/images/recipes/chocolate-chunk-muffins.svg",
-  "image_alt": "",
+  "notes": "",
   "ingredient_groups": [
     {
       "title": "The Dry Ingredients Foundation",
@@ -34,6 +23,8 @@
       "after_step": 0
     }
   ],
+  "image_alt": "",
+  "servings": "",
   "steps": [
     {
       "title": "1. Set Up Your Baking Station",
@@ -62,9 +53,18 @@
     },
     {
       "title": "6. Bake and Serve",
-      "body": "- Slide the filled muffin trays carefully onto the center rack of your preheated oven.\n- Bake at **215–218 °C (218.3 °C)**.\n- Check for absolute doneness; the muffins are perfectly cooked through when the sponge bounces back lightly and the internal structure is set.\n- *Chef's Error Alert:* Be aware that adding large, heavy chunks of raw chocolate directly to the crown of a muffin means those top surface pieces can occasionally get a bit too dark or caramelized in a hot oven. If this happens, you can pick those dark surface flecks right off, or enjoy them as-is for a rich, toasted s'mores-like accent.\n- Remove the trays from the oven and let them drop temperature slightly. Serve warm while the interior chocolate chunks are still molten, gooey, and melted.",
+      "body": "* Slide the filled muffin trays carefully onto the center rack of your preheated oven.\n* Bake at **215–218 °C (218.3 °C)**.\n* Check for absolute doneness; the muffins are perfectly cooked through when the sponge bounces back lightly and the internal structure is set.\n* *Chef's Error Alert:* Be aware that adding large, heavy chunks of raw chocolate directly to the crown of a muffin means those top surface pieces can occasionally get a bit too dark or caramelized in a hot oven. If this happens, you can pick those dark surface flecks right off, or enjoy them as-is for a rich, toasted s'mores-like accent.\n* Remove the trays from the oven and let them drop temperature slightly. Serve warm while the interior chocolate chunks are still molten, gooey, and melted.",
       "_key": "recipe-section-10"
     }
   ],
-  "notes": ""
+  "cook_minutes": null,
+  "video_url": "https://www.youtube.com/watch?v=TiGnKdG4eZU",
+  "prep_minutes": null,
+  "published": true,
+  "order": 39,
+  "title": "Chocolate Chunk Muffins",
+  "image": "assets/images/recipes/chocolate-chunk-muffins.svg",
+  "nav_title": "Chocolate Chunk Muffins",
+  "description": "",
+  "category": "breakfast"
 }
