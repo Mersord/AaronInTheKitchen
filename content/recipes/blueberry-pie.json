@@ -1,16 +1,5 @@
 {
-  "title": "Blueberry Pie",
-  "nav_title": "Blueberry Pie",
-  "category": "desserts",
-  "published": true,
-  "order": 21,
-  "description": "",
-  "servings": "",
-  "prep_minutes": null,
-  "cook_minutes": null,
-  "video_url": "https://www.youtube.com/watch?v=kLsLcWl_cPI",
-  "image": "assets/images/recipes/blueberry-pie.svg",
-  "image_alt": "",
+  "notes": "",
   "ingredient_groups": [
     {
       "title": "The Blueberry Filling",
@@ -21,12 +10,14 @@
     },
     {
       "title": "The Crust & Topping Finish",
-      "body": "- **Gluten-free pie crust**: 2 pre-made frozen disks *(Aaron makes his for a gluten-intolerant guest)* ([**7:34**](https://www.youtube.com/watch?v=kLsLcWl_cPI&t=454s))\n- **Unsalted butter**: Small knobs for the filling holes + extra melted for brushing the top ([**17:32**](https://www.youtube.com/watch?v=kLsLcWl_cPI&t=1052s))\n- **Crystal sugar**: A heavy handful for a crunch finish ([**18:29**](https://www.youtube.com/watch?v=kLsLcWl_cPI&t=1109s))",
+      "body": "* **Gluten-free pie crust**: 2 pre-made frozen disks *(Aaron makes his for a gluten-intolerant guest)* (**[7:34](https://www.youtube.com/watch?v=kLsLcWl_cPI&t=454s)**)\n* **Unsalted butter**: Small knobs for the filling holes + extra melted for brushing the top (**[17:32](https://www.youtube.com/watch?v=kLsLcWl_cPI&t=1052s)**)\n* **Crystal sugar**: A heavy handful for a crunch finish (**[18:29](https://www.youtube.com/watch?v=kLsLcWl_cPI&t=1109s)**) Test",
       "_key": "recipe-section-2",
       "items": [],
       "after_step": 0
     }
   ],
+  "image_alt": "",
+  "servings": "",
   "steps": [
     {
       "title": "Step 1: Toss the Fruit Filling",
@@ -65,9 +56,18 @@
     },
     {
       "title": "Step 8: The Two-Stage Bake and Overnight Cool",
-      "body": "Slide the pie into the center rack and bake at 205 °C for the first 20 minutes ([**16:09**](https://www.youtube.com/watch?v=kLsLcWl_cPI&t=969s)). Without removing the pie, drop the oven temperature down to 175 °C and bake for an additional 35 to 45 minutes until the crust is deeply golden and the fruit center is thick and bubbly ([**16:17**](https://www.youtube.com/watch?v=kLsLcWl_cPI&t=977s)). Let it cool for a bare minimum of 4 hours—or overnight if possible—before slicing so the juices set properly ([**18:59**](https://www.youtube.com/watch?v=kLsLcWl_cPI&t=1139s)). []",
+      "body": "Slide the pie into the center rack and bake at 205 °C for the first 20 minutes (**[16:09](https://www.youtube.com/watch?v=kLsLcWl_cPI&t=969s)**). Without removing the pie, drop the oven temperature down to 175 °C and bake for an additional 35 to 45 minutes until the crust is deeply golden and the fruit center is thick and bubbly (**[16:17](https://www.youtube.com/watch?v=kLsLcWl_cPI&t=977s)**). Let it cool for a bare minimum of 4 hours—or overnight if possible—before slicing so the juices set properly (**[18:59](https://www.youtube.com/watch?v=kLsLcWl_cPI&t=1139s)**). \\[]",
       "_key": "recipe-section-11"
     }
   ],
-  "notes": ""
+  "cook_minutes": null,
+  "video_url": "https://www.youtube.com/watch?v=kLsLcWl_cPI",
+  "prep_minutes": null,
+  "published": true,
+  "order": 21,
+  "title": "Blueberry Pie",
+  "image": "assets/images/recipes/blueberry-pie.svg",
+  "nav_title": "Blueberry Pie",
+  "description": "",
+  "category": "desserts"
 }
