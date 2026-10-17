@@ -1,16 +1,5 @@
 {
-  "title": "Banana Cake",
-  "nav_title": "Banana Cake",
-  "category": "desserts",
-  "published": true,
-  "order": 28,
-  "description": "",
-  "servings": "",
-  "prep_minutes": null,
-  "cook_minutes": null,
-  "video_url": "https://www.youtube.com/watch?v=evdNbP5v2TM",
-  "image": "assets/images/recipes/banana-cake.svg",
-  "image_alt": "",
+  "notes": "",
   "ingredient_groups": [
     {
       "title": "The Cake Batter",
@@ -21,12 +10,14 @@
     },
     {
       "title": "The Maple Cream Cheese Frosting",
-      "body": "- **Cream cheese**: 227 g *(Standard pack, left out to soften completely)*\n- **Unsalted butter**: 113 g *(Melted brown butter)*\n- **Vanilla paste**: 10 mL\n- **Powdered sugar**: 450–585 g\n- **Maple syrup**: 80 g",
+      "body": "* **Cream cheese**: 227 g *(Standard pack, left out to soften completely)*\n* **Unsalted butter**: 113 g *(Melted brown butter)*\n* **Vanilla paste**: 10 mL\n* **Powdered sugar**: 450–585 g\n* **Maple syrup**: 80 g",
       "_key": "recipe-section-2",
       "items": [],
       "after_step": 0
     }
   ],
+  "image_alt": "",
+  "servings": "",
   "steps": [
     {
       "title": "1. Toast and Chop the Walnuts",
@@ -80,9 +71,18 @@
     },
     {
       "title": "11. Assemble and Decorate the Layer Cake",
-      "body": "- Ensure your baked banana cake rounds are perfectly cool to the touch before assembling. *Note: Because the crumb structure is remarkably moist and gooey, do not attempt to slice the rounds horizontally into four layers while fresh, as they will tear; if you want more layers, freeze the rounds first to firm them up.*\n- Place your first solid 20.3 cm cake layer flat onto a serving platter or rotating turntable.\n- Spoon a heavy portion of the maple cream cheese frosting directly onto the center of the cake. Use an offset spatula to push the frosting cleanly out to the edges.\n- Align the second cake layer cleanly over the frosted base, pressing down lightly to secure the assembly.\n- Spread the remaining frosting smoothly across the top surface of the cake, leaving the outer vertical sides lightly exposed for a beautiful rustic \"naked cake\" presentation. Slice with a sharp knife and serve fresh.",
+      "body": "* Ensure your baked banana cake rounds are perfectly cool to the touch before assembling. *Note: Because the crumb structure is remarkably moist and gooey, do not attempt to slice the rounds horizontally into four layers while fresh, as they will tear; if you want more layers, freeze the rounds first to firm them up.*\n* Place your first solid 20.3 cm cake layer flat onto a serving platter or rotating turntable.\n* Spoon a heavy portion of the maple cream cheese frosting directly onto the center of the cake. Use an offset spatula to push the frosting cleanly out to the edges.\n* Align the second cake layer cleanly over the frosted base, pressing down lightly to secure the assembly.\n* Spread the remaining frosting smoothly across the top surface of the cake, leaving the outer vertical sides lightly exposed for a beautiful rustic \"naked cake\" presentation. Slice with a sharp knife and serve fresh.",
       "_key": "recipe-section-14"
     }
   ],
-  "notes": ""
+  "cook_minutes": null,
+  "video_url": "https://www.youtube.com/watch?v=evdNbP5v2TM",
+  "prep_minutes": null,
+  "published": true,
+  "order": 28,
+  "title": "Banana Cake",
+  "image": "assets/images/recipes/banana-cake.svg",
+  "nav_title": "Banana Cake",
+  "description": "",
+  "category": "desserts"
 }
