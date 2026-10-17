@@ -1,16 +1,5 @@
 {
-  "title": "Apple Pie Pound Cake",
-  "nav_title": "Apple Pie Pound Cake",
-  "category": "desserts",
-  "published": true,
-  "order": 27,
-  "description": "",
-  "servings": "",
-  "prep_minutes": null,
-  "cook_minutes": null,
-  "video_url": "https://www.youtube.com/watch?v=5Ei-C0V64qE",
-  "image": "assets/images/recipes/apple-pie-pound-cake.svg",
-  "image_alt": "",
+  "notes": "",
   "ingredient_groups": [
     {
       "title": "The Dry Ingredients Foundation",
@@ -41,6 +30,8 @@
       "after_step": 0
     }
   ],
+  "image_alt": "",
+  "servings": "",
   "steps": [
     {
       "title": "1. Prep and Sift the Dry Base",
@@ -74,9 +65,18 @@
     },
     {
       "title": "7. Invert, Cool, and Serve",
-      "body": "- Carefully remove the hot pan from the oven and set it onto a heat-safe surface.\n- Allow the pound cake to sit undisturbed in the pan for a bit to let the structure firm up slightly as it begins to drop temperature.\n- Position a flat serving platter or a rotating cake turntable directly over the open top of the Bundt pan.\n- Securely grip both the pan edges and the platter together, and swiftly invert the assembly upside down. Gently lift the pan straight up; if properly greased, the cake will slide right out onto the plate effortlessly.\n- *Optional Fancy Presentation:* While the cake can be served plain, you can elevate the presentation by spreading an extra layer of your warm homemade apple butter across the crown and scattering crispy streusel crumbles over the top.\n- Use a sharp kitchen knife to slice the warm cake into clean portions. The exterior crust will carry a subtle, delicate crunch while the inner cake remains extraordinarily moist, spiced, and soft. Serve warm or at room temperature.",
+      "body": "* Carefully remove the hot pan from the oven and set it onto a heat-safe surface.\n* Allow the pound cake to sit undisturbed in the pan for a bit to let the structure firm up slightly as it begins to drop temperature.\n* Position a flat serving platter or a rotating cake turntable directly over the open top of the Bundt pan.\n* Securely grip both the pan edges and the platter together, and swiftly invert the assembly upside down. Gently lift the pan straight up; if properly greased, the cake will slide right out onto the plate effortlessly.\n* *Optional Fancy Presentation:* While the cake can be served plain, you can elevate the presentation by spreading an extra layer of your warm homemade apple butter across the crown and scattering crispy streusel crumbles over the top.\n* Use a sharp kitchen knife to slice the warm cake into clean portions. The exterior crust will carry a subtle, delicate crunch while the inner cake remains extraordinarily moist, spiced, and soft. Serve warm or at room temperature.",
       "_key": "recipe-section-12"
     }
   ],
-  "notes": ""
+  "cook_minutes": null,
+  "video_url": "https://www.youtube.com/watch?v=5Ei-C0V64qE",
+  "prep_minutes": null,
+  "published": true,
+  "order": 27,
+  "title": "Apple Pie Pound Cake",
+  "image": "assets/images/recipes/apple-pie-pound-cake.svg",
+  "nav_title": "Apple Pie Pound Cake",
+  "description": "",
+  "category": "desserts"
 }
