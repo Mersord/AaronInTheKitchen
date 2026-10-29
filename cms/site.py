@@ -394,13 +394,8 @@ def build_recipe(site: Path, slug: str, data: dict, settings: dict) -> Beautiful
     crumb = doc.select_one('.breadcrumbs')
     if crumb:
         crumb.clear()
-        category_crumb = ('<span>Main Dishes</span>' if data['category'] == 'main-dishes'
-                          else f'<a href="../{data["category"]}.html">{CATEGORIES[data["category"]]}</a>')
+        category_crumb = f'<span>{CATEGORIES[data["category"]]}</span>'
         append_html(crumb, f'<a href="../index.html">Home</a><span aria-hidden="true">/</span>{category_crumb}<span aria-hidden="true">/</span><span aria-current="page">{html.escape(title)}</span>')
-    for a in doc.select('.nav-category > a'):
-        a.attrs.pop('aria-current', None)
-        if a.get('href') == f'../{data["category"]}.html':
-            a['aria-current'] = 'page'
     intro = doc.select_one('.recipe-intro')
     for old in intro.select('.recipe-description, .cms-recipe-meta'):
         old.decompose()
@@ -568,14 +563,8 @@ def update_common(doc: BeautifulSoup, page: Path, records: list, settings: dict,
         for related_slug, related_data in candidates[:3]:
             related.append(recipe_card(card_template, related_slug, related_data, settings, prefix))
         browse = related.parent.select_one('.center-action a')
-        if browse and category == 'main-dishes':
+        if browse:
             browse.parent.decompose()
-        elif browse:
-            browse['href'] = prefix + category + '.html'
-            for node in list(browse.children):
-                if isinstance(node, NavigableString):
-                    node.extract()
-            browse.insert(0, 'Browse ' + CATEGORIES[category].lower() + ' ')
     catalog = doc.select_one('[data-catalog]')
     if catalog:
         category = catalog.get('data-category', 'all')
@@ -601,7 +590,7 @@ def update_common(doc: BeautifulSoup, page: Path, records: list, settings: dict,
     if sitemap:
         sitemap.clear()
         for category, label in CATEGORIES.items():
-            heading = label if category == 'main-dishes' else f'<a href="{prefix}{category}.html">{label}</a>'
+            heading = label
             section = soup(f'<section><h2>{heading}<span>{len(grouped[category])} recipes</span></h2><ul></ul></section>').section
             for slug, data in grouped[category]:
                 append_html(section.ul, f'<li><a href="{prefix}recipes/{slug}.html">{html.escape(data["title"])}</a></li>')
@@ -721,7 +710,7 @@ def build_site(args) -> None:
     site_map = ET.Element('urlset', {'xmlns': 'http://www.sitemaps.org/schemas/sitemap/0.9'})
     for path in sorted(out.rglob('*.html')):
         rel = path.relative_to(out)
-        if rel.parts[0] == 'admin' or path.name in {'welcome.html', 'products.html', 'main-dishes.html'}:
+        if rel.parts[0] == 'admin' or path.name in {'welcome.html', 'products.html'} | {c + '.html' for c in CATEGORIES}:
             continue
         url = ET.SubElement(site_map, 'url')
         ET.SubElement(url, 'loc').text = settings['site_url'] + '/' + rel.as_posix()

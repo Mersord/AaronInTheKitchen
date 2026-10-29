@@ -65,7 +65,7 @@ fieldset { border: 0; padding: 0; margin: 0; min-width: 0; }
 .nav-list a[aria-current="page"] { box-shadow: inset 0 -1px var(--brand); }
 .nav-category { display: flex; align-items: center; gap: 4px; }
 .dropdown-toggle { background: none; border: none; padding: 5px; display: grid; place-items: center; min-width: 28px; min-height: 34px; }
-.nav-category > .nav-dropdown-button { display: flex; align-items: center; gap: 9px; }
+.nav-category > .nav-dropdown-button { display: flex; align-items: center; gap: 9px; font: 500 11px/1.5 var(--sans); text-transform: uppercase; letter-spacing: .9px; padding: 10px 0; white-space: nowrap; }
 .nav-category > .nav-dropdown-button:hover { color: var(--brand-dark); }
 .dropdown-toggle .icon { width: 13px; height: 13px; transition: transform .2s; }
 .dropdown-toggle[aria-expanded="true"] .icon { transform: rotate(180deg); }
