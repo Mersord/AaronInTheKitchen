@@ -60,11 +60,13 @@ fieldset { border: 0; padding: 0; margin: 0; min-width: 0; }
 .nav-list, .nav-dropdown ul { list-style: none; padding: 0; margin: 0; }
 .nav-list { display: flex; align-items: center; justify-content: center; gap: 28px; }
 .nav-item { position: relative; }
-.nav-list > li > a, .nav-category > a { display: inline-block; font: 500 11px/1.5 var(--sans); text-transform: uppercase; letter-spacing: .9px; padding: 10px 0; text-decoration: none; color: var(--ink); white-space: nowrap; }
-.nav-list a[aria-current="page"], .nav-list > li > a:hover, .nav-category > a:hover { color: var(--brand-dark); }
+.nav-list > li > a, .nav-category > :is(a, .nav-dropdown-button) { display: inline-block; font: 500 11px/1.5 var(--sans); text-transform: uppercase; letter-spacing: .9px; padding: 10px 0; text-decoration: none; color: var(--ink); white-space: nowrap; }
+.nav-list a[aria-current="page"], .nav-list > li > a:hover, .nav-category > :is(a, .nav-dropdown-button):hover { color: var(--brand-dark); }
 .nav-list a[aria-current="page"] { box-shadow: inset 0 -1px var(--brand); }
 .nav-category { display: flex; align-items: center; gap: 4px; }
 .dropdown-toggle { background: none; border: none; padding: 5px; display: grid; place-items: center; min-width: 28px; min-height: 34px; }
+.nav-category > .nav-dropdown-button { display: flex; align-items: center; gap: 9px; }
+.nav-category > .nav-dropdown-button:hover { color: var(--brand-dark); }
 .dropdown-toggle .icon { width: 13px; height: 13px; transition: transform .2s; }
 .dropdown-toggle[aria-expanded="true"] .icon { transform: rotate(180deg); }
 .nav-search a { padding: 8px; display: grid; place-items: center; color: var(--ink); }
@@ -109,7 +111,7 @@ fieldset { border: 0; padding: 0; margin: 0; min-width: 0; }
 .bio-copy .bio-toggle { font-size: 16px; }
 .bio-toggle[aria-expanded="true"] .icon { transform: rotate(180deg); }
 .browse-section { background: linear-gradient(180deg, var(--paper), var(--soft) 48px, var(--soft) calc(100% - 48px), var(--paper)); }
-.category-grid { display: grid; grid-template-columns: repeat(4,minmax(0,1fr)); gap: 24px; }
+.category-grid { display: grid; grid-template-columns: repeat(3,minmax(0,1fr)); gap: 24px; }
 .category-card { display: block; text-decoration: none; text-align: center; color: var(--ink); border-radius: var(--radius); }
 .category-image { aspect-ratio: 4/3; position: relative; overflow: hidden; background: #ede8de; border-radius: var(--radius); box-shadow: var(--shadow-soft); transition: box-shadow .2s; }
 .category-image img { width: 100%; height: 100%; object-fit: cover; }
@@ -241,13 +243,13 @@ fieldset { border: 0; padding: 0; margin: 0; min-width: 0; }
   .ingredient-item:hover { background: var(--soft); }
 }
 @media (min-width: 960px) {
-  .nav-list > li > a, .nav-category > a { position: relative; }
-  .nav-list > li > a::after, .nav-category > a::after {
+  .nav-list > li > a, .nav-category > :is(a, .nav-dropdown-button) { position: relative; }
+  .nav-list > li > a::after, .nav-category > :is(a, .nav-dropdown-button)::after {
     content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: 1px;
     background: var(--brand); transform: scaleX(0); transform-origin: center;
     transition: transform .2s ease;
   }
-  .nav-list > li > a:hover::after, .nav-category > a:hover::after,
+  .nav-list > li > a:hover::after, .nav-category > :is(a, .nav-dropdown-button):hover::after,
   .nav-list a[aria-current="page"]::after { transform: scaleX(1); }
   .nav-list a[aria-current="page"] { box-shadow: none; }
 }
@@ -257,7 +259,7 @@ fieldset { border: 0; padding: 0; margin: 0; min-width: 0; }
 }
 @media (max-width: 1100px) {
   .nav-list { gap: 18px; }
-  .nav-list > li > a, .nav-category > a { font-size: 10px; letter-spacing: .5px; }
+  .nav-list > li > a, .nav-category > :is(a, .nav-dropdown-button) { font-size: 10px; letter-spacing: .5px; }
   .category-grid { gap: 18px; }
 }
 @media (max-width: 959px) {
@@ -272,9 +274,10 @@ fieldset { border: 0; padding: 0; margin: 0; min-width: 0; }
   .site-nav { margin-top: 22px; padding: 8px 24px 0; border-top: 1px solid var(--border); }
   .nav-list { display: block; max-width: 650px; margin: auto; }
   .nav-item { border-bottom: 1px solid var(--border); }
-  .nav-list > li > a, .nav-category > a { font-size: 11px; padding: 17px 0; display: block; flex: 1; }
+  .nav-list > li > a, .nav-category > :is(a, .nav-dropdown-button) { font-size: 11px; padding: 17px 0; display: block; flex: 1; }
   .nav-category { justify-content: space-between; }
   .dropdown-toggle { width: 48px; min-height: 48px; }
+  .nav-category > .nav-dropdown-button { display: flex; justify-content: space-between; width: 100%; }
   .dropdown-toggle .icon { width: 18px; height: 18px; }
   .nav-dropdown, #nav-breakfast, #nav-sides { position: static; transform: none; width: 100%; max-width: none; border: 0; box-shadow: none; padding: 12px 14px 20px; margin: 0 0 14px; background: var(--soft); max-height: 52vh; }
   .nav-dropdown ul { column-gap: 20px; }
@@ -285,7 +288,7 @@ fieldset { border: 0; padding: 0; margin: 0; min-width: 0; }
   .nav-list a[aria-current="page"] { box-shadow: none; }
   .section { padding: 58px 0; }
   .line-title { font-size: 36px; gap: 18px; }
-  .category-grid { grid-template-columns: repeat(2,minmax(0,1fr)); gap: 30px; }
+  .category-grid { grid-template-columns: repeat(3,minmax(0,1fr)); gap: 24px; }
   .recipe-grid { grid-template-columns: repeat(2,minmax(0,1fr)); }
   .related-grid .recipe-card:last-child { display: none; }
   .catalog-section { padding-top: 36px; }
@@ -314,7 +317,7 @@ fieldset { border: 0; padding: 0; margin: 0; min-width: 0; }
   .profile-photo { width: 230px; height: 230px; margin-bottom: 23px; }
   .script-heading { font-size: 32px; margin-bottom: 18px; }
   .bio-copy { padding-inline: 9px; font-size: 16px; line-height: 1.8; }
-  .category-grid { gap: 26px 16px; }
+  .category-grid { grid-template-columns: 1fr; gap: 26px; }
   .category-card h3 { font-size: 26px; margin-top: 16px; }
   .category-card p { font-size: 9px; letter-spacing: .6px; }
   .category-image { aspect-ratio: 1/1; }
